@@ -1,0 +1,128 @@
+{
+ "captured": "2026-10-23T00:12:05+06:00",
+ "machine": {
+  "platform": "macOS-26.6-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "cpu": "Apple M4 Pro",
+  "cores": 12,
+  "ram_gb": 24.0,
+  "macos": "26.6"
+ },
+ "python_envs": {
+  ".venv": {
+   "python": "3.13.12",
+   "freeze_file": "experiments/provenance/env_venv_2026-10-23.txt",
+   "packages": 81
+  },
+  ".venv-harness": {
+   "python": "3.12.13",
+   "freeze_file": "experiments/provenance/env_venv-harness_2026-10-23.txt",
+   "packages": 159
+  }
+ },
+ "docker": {
+  "version": "29.7.2",
+  "sandbox_image_id": "sha256:50c0876a7bddf3d301b25af2d987c793ff1eb9e83e6ae9d9623a5b6097d66ff5",
+  "sandbox_dockerfile_sha256": "b490da905bfbf7a16cf4a47d941eb832cb22b5d5845e2d28e3045b97658aa66d"
+ },
+ "ollama_pilot": {
+  "version": "0.40.8",
+  "model": "gemma4:e4b-it-qat",
+  "model_id": "ee6656371218",
+  "note": "pilot only (experiments/04_end_to_end/pilot_e4b.jsonl); models deleted 2026-10-22"
+ },
+ "harness_wheels": {
+  "adk_eval_core-0.1.0-py3-none-any.whl": "e614e1b2fe8d886a634871e4c57f9887e1cc66e8c27300f8503a43c6e3ca82f3",
+  "adk_submission-0.2.13-py3-none-any.whl": "f156f0bd84580ccb9334726d114d7a5481f16d3a6e2887cc4d276ced0ef8d99d",
+  "google_adk-1.36.1-py3-none-any.whl": "1a2f6868c509e3151fb0de3575a7d18b45c338be86f420924dad74e7193631a0",
+  "swegemma-0.2.11-py3-none-any.whl": "9ad876581f3acde8ec3c369858f0834e2b9f41a3cffce3ca42f09cb090aea9d3"
+ },
+ "serving": {
+  "vllm_wheel": {
+   "file": "vllm-0.19.1-cp38-abi3-manylinux_2_31_x86_64.whl",
+   "sha256": "73c69bafca24fbdad44690c44d6c6446514351e6f3cc9a6057cba05e66051310",
+   "source": "kaggle dataset metric/gemma-4-developer-agent-wheelhouse (v31)"
+  },
+  "transformers_wheel_sha256": "53f0ea8aa397e29244c2377ba981bcaf0c87adcf44fbdd447ef6306522afcacd",
+  "gpu": "NVIDIA L4 (Modal), tensor_parallel_size 1",
+  "modal_app": "g4paper-vllm (workspace shetu)",
+  "modal_image_definition_sha256": "cd6a88128e35bfa0590719bcee9fcebaf2e03553a8541b82f29c10272775aa64"
+ },
+ "models": {
+  "google/gemma-4-E2B-it-qat-w4a16-ct": {
+   "sha": "971342c08f607aa7779983f6b5289778b5d271a7",
+   "lastModified": "2026-07-20T16:43:14.000Z",
+   "gated": false,
+   "license": "apache-2.0"
+  },
+  "google/gemma-4-E4B-it-qat-w4a16-ct": {
+   "sha": "6cd26aaa2357fb2bad8c51699a7558a4d1a965bb",
+   "lastModified": "2026-07-20T16:43:23.000Z",
+   "gated": false,
+   "license": "apache-2.0"
+  },
+  "google/gemma-4-12B-it-qat-w4a16-ct": {
+   "sha": "1d2c2d7f2466070e69d6fb3fd5ce9a7d75f2f6ee",
+   "lastModified": "2026-07-20T16:43:34.000Z",
+   "gated": false,
+   "license": "apache-2.0"
+  }
+ },
+ "datasets": {
+  "princeton-nlp/SWE-bench_Lite": {
+   "sha": "6ec7bb89b9342f664a54a6e0a6ea6501d3437cc2",
+   "lastModified": "2025-03-03T05:29:31.000Z",
+   "gated": false,
+   "license": null
+  },
+  "princeton-nlp/SWE-bench_Verified": {
+   "sha": "c104f840cc67f8b6eec6f759ebc8b2693d585d4a",
+   "lastModified": "2025-02-18T23:48:55.000Z",
+   "gated": false,
+   "license": null
+  }
+ },
+ "dataset_files": {
+  "data/swebench/SWE-bench_Lite/test.parquet": "7a21f37b8bc179c7db5beeb14e88ac538ba283455c776e6b2535bbfb6e3551b4",
+  "data/swebench/SWE-bench_Verified/test.parquet": "a45b1fe4e2f0c8390b2b2938ac83e92ed5979000856808f3679c07812e9e6dcd"
+ },
+ "swebench_repos": {
+  "astropy__astropy.git": {
+   "head": "045904c1c4291f830130fea3b1f49510f8a9e71c"
+  },
+  "django__django.git": {
+   "head": "79502d08405dbf24efa39e8731320f31035b9e9c"
+  },
+  "matplotlib__matplotlib.git": {
+   "head": "98dd0357aa1e6b9fd87148234d34c129167bb1cb"
+  },
+  "mwaskom__seaborn.git": {
+   "head": "c1cb287835852406691aed60ea0c62710f2c6b18"
+  },
+  "pallets__flask.git": {
+   "head": "d086db856be187255b8ec61ef409357393020f32"
+  },
+  "psf__requests.git": {
+   "head": "611c6162cbc4ac2020a2f91c7cfa4f3abf9bbb60"
+  },
+  "pydata__xarray.git": {
+   "head": "989e6fff271a5d1422d3bff9cb8402b14f1bad0a"
+  },
+  "pylint-dev__pylint.git": {
+   "head": "e15a82ac312948ee7cb06ce0df13b0e4cd39c52b"
+  },
+  "pytest-dev__pytest.git": {
+   "head": "c9bf1edf9e0d388f3e7bebc88576e608ffbc40a4"
+  },
+  "scikit-learn__scikit-learn.git": {
+   "head": "718eedb7af8678255de080d4748d9f67e321ba41"
+  },
+  "sphinx-doc__sphinx.git": {
+   "head": "ecab3746cf4fe3f4f0e69e82cb4b5fc724053872"
+  },
+  "sympy__sympy.git": {
+   "head": "654880ab86c6b07635a387fc67ddb0811cc2660f"
+  }
+ },
+ "modal_apps": "[\n  {\n    \"app_id\": \"ap-h4KllxNhAYJG2q9jNyedWH\",\n    \"description\": \"g4paper-vllm\",\n    \"state\": \"deployed\",\n    \"tasks\": \"1\",\n    \"created_at\": \"2026-10-22 23:41:04+06:00\",\n    \"stopped_at\": null\n  },\n  {\n    \"app_id\": \"ap-kTdbukaM9F3pmr94OhqgrN\",\n    \"description\": \"g4paper-vllm\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:25:56+06:00\",\n    \"stopped_at\": \"2026-10-22 23:41:05+06:00\"\n  },\n  {\n    \"app_id\": \"ap-JJyHnqCmMeFCJCI73SYxb2\",\n    \"description\": \"g4paper-vllm\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:21:28+06:00\",\n    \"stopped_at\": \"2026-10-22 23:25:46+06:00\"\n  },\n  {\n    \"app_id\": \"ap-hAm82bwNaEyaAOxNhKkZ4H\",\n    \"description\": \"g4paper-vllm\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:19:55+06:00\",\n    \"stopped_at\": \"2026-10-22 23:21:11+06:00\"\n  },\n  {\n    \"app_id\": \"ap-Rd2TyZezGJDDIbpyHyYIOw\",\n    \"description\": \"g4paper-vllm\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:05:41+06:00\",\n    \"stopped_at\": \"2026-10-22 23:19:02+06:00\"\n  },\n  {\n    \"app_id\": \"ap-gB1FejjvBHMP3jk3XtFtAg\",\n    \"description\": \"g4paper-weights\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:05:09+06:00\",\n    \"stopped_at\": \"2026-10-22 23:06:41+06:00\"\n  },\n  {\n    \"app_id\": \"ap-islyq20vx6xuifEEzE8OXr\",\n    \"description\": \"g4paper-weights\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:03:44+06:00\",\n    \"stopped_at\": \"2026-10-22 23:05:07+06:00\"\n  },\n  {\n    \"app_id\": \"ap-wzqBFdPHyWlG9K3UGtGoW6\",\n    \"description\": \"g4paper-weights\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 23:01:25+06:00\",\n    \"stopped_at\": \"2026-10-22 23:03:35+06:00\"\n  },\n  {\n    \"app_id\": \"ap-jAdHketVfXa48Sf0z01iR8\",\n    \"description\": \"g4paper-vllm\",\n    \"state\": \"stopped\",\n    \"tasks\": \"0\",\n    \"created_at\": \"2026-10-22 22:58:14+06:00\",\n    \"stopped_at\": \"2026-10-22 23:00:51+06:00\"\n  }\n]"
+}

@@ -1,0 +1,5 @@
+{"instance_id": "fastapi_14349", "repo": "fastapi/fastapi", "resolved": false, "agent_patch_size": 804, "test_exit_code": 1, "duration_seconds": 135.5, "error": null, "tool_calls": 6, "total_llm_calls": 8, "task_index": 1}
+{"instance_id": "fastapi_14301", "repo": "fastapi/fastapi", "resolved": true, "agent_patch_size": 618, "test_exit_code": 0, "duration_seconds": 100.83, "error": null, "tool_calls": 5, "total_llm_calls": 7, "task_index": 2}
+{"instance_id": "fastapi_14262", "repo": "fastapi/fastapi", "resolved": false, "agent_patch_size": 866, "test_exit_code": 2, "duration_seconds": 126.35, "error": null, "tool_calls": 6, "total_llm_calls": 8, "task_index": 3}
+{"instance_id": "fastapi_14266", "repo": "fastapi/fastapi", "resolved": false, "agent_patch_size": 620, "test_exit_code": 1, "duration_seconds": 181.16, "error": null, "tool_calls": 4, "total_llm_calls": 6, "task_index": 4}
+{"instance_id": "fastapi_14246", "repo": "fastapi/fastapi", "resolved": false, "agent_patch_size": 1014, "test_exit_code": 1, "duration_seconds": 120.73, "error": null, "tool_calls": 4, "total_llm_calls": 6, "task_index": 5}

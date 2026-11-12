@@ -1,0 +1,29 @@
+# Competition data: no redistribution
+data/
+*.tgz
+*.npz
+*.parquet
+
+# Environments and caches
+.venv/
+.venv-harness/
+.venv-vllm/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw experiment artifacts
+experiments/**/runs/
+experiments/**/cache/
+
+# Episode files quote competition tasks
+experiments/05_find_vs_fix/*/**/traces/
+experiments/05_find_vs_fix/*/**/logs/
+experiments/05_find_vs_fix/*/**/patches/
+experiments/05_find_vs_fix/*/**/test_outputs/
+
+# Credentials
+.secrets/
+kaggle.json
+**/kaggle.json

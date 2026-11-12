@@ -1,0 +1,1 @@
+{"instance_id": "fastapi_14099", "repo": "fastapi/fastapi", "resolved": false, "agent_patch_size": 760, "test_exit_code": 1, "duration_seconds": 316.96, "error": null, "tool_calls": 11, "total_llm_calls": 13, "task_index": 1}

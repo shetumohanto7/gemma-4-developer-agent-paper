@@ -1,0 +1,4 @@
+start 04:13:38
+OK after 150.4 s: completion_tokens=8192 finish=length
+start (16k tokens) 04:16:22
+OK after 304.0 s: completion_tokens=16000 finish=length

@@ -1,0 +1,13 @@
+{
+  "total_tasks": 39,
+  "resolved": 1,
+  "resolution_rate": 0.0256,
+  "by_repo": {
+    "Textualize/rich": {
+      "total": 39,
+      "resolved": 1,
+      "rate": 0.02564102564102564
+    }
+  },
+  "errors": 0
+}

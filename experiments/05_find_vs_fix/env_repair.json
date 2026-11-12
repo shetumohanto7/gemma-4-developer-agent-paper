@@ -1,0 +1,40 @@
+{
+ "added_wheels": [
+  {
+   "package": "typing-inspection",
+   "version": "0.4.4",
+   "filename": "typing_inspection-0.4.4-py3-none-any.whl",
+   "sha256": "65b8397ba37ccbce054456aaccddfc91e6e3083c92824df348d96ca832f3f147"
+  },
+  {
+   "package": "dirty-equals",
+   "version": "0.11",
+   "filename": "dirty_equals-0.11-py3-none-any.whl",
+   "sha256": "b1d7093273fc2f9be12f443a8ead954ef6daaf6746fd42ef3a5616433ee85286"
+  },
+  {
+   "package": "attrs",
+   "version": "26.1.0",
+   "filename": "attrs-26.1.0-py3-none-any.whl",
+   "sha256": "c647aa4a12dfbad9333ca4e71fe62ddc36f4e63b2d260a37a8b83d2f043ac309"
+  },
+  {
+   "package": "inline-snapshot",
+   "version": "0.36.1",
+   "filename": "inline_snapshot-0.36.1-py3-none-any.whl",
+   "sha256": "9d795198efcf956670a8ed588c85708dd3575a08341c63e2b34745a2ba0c6245"
+  },
+  {
+   "package": "asttokens",
+   "version": "3.0.2",
+   "filename": "asttokens-3.0.2-py3-none-any.whl",
+   "sha256": "9da13157f5b28becde0bd374fc677dcd3c290614264eff096f167c469cd9f933"
+  },
+  {
+   "package": "executing",
+   "version": "2.3.0",
+   "filename": "executing-2.3.0-py3-none-any.whl",
+   "sha256": "736e859c9f8701f11fcf516856f26f562e04776387824b43a35a1dfe21c84122"
+  }
+ ]
+}

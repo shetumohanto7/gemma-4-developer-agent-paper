@@ -1,0 +1,8 @@
+11:40 env 839f33fe5aa0: 38 tasks
+13:00 env f65916c04124: 28 tasks
+13:51 env aca2396cfd35: 7 tasks
+14:03 env 8bd334ce1383: 5 tasks
+14:12 env a287459e1cdb: 4 tasks
+14:19 env ba51d9e2e6b4: 4 tasks
+fix_e2b_base: finished, outputs ['experiments/05_find_vs_fix/fix_e2b_base/env_groups.txt', 'experiments/05_find_vs_fix/fix_e2b_base/839f33fe5aa0/summary.json', 'experiments/05_find_vs_fix/fix_e2b_base/839f33fe5aa0/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_base/839f33fe5aa0.log', 'experiments/05_find_vs_fix/fix_e2b_base/f65916c04124/summary.json', 'experiments/05_find_vs_fix/fix_e2b_base/f65916c04124/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_base/f65916c04124.log', 'experiments/05_find_vs_fix/fix_e2b_base/aca2396cfd35/summary.json', 'experiments/05_find_vs_fix/fix_e2b_base/aca2396cfd35/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_base/aca2396cfd35.log', 'experiments/05_find_vs_fix/fix_e2b_base/8bd334ce1383/summary.json', 'experiments/05_find_vs_fix/fix_e2b_base/8bd334ce1383/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_base/8bd334ce1383.log', 'experiments/05_find_vs_fix/fix_e2b_base/a287459e1cdb/summary.json', 'experiments/05_find_vs_fix/fix_e2b_base/a287459e1cdb/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_base/a287459e1cdb.log', 'experiments/05_find_vs_fix/fix_e2b_base/ba51d9e2e6b4/summary.json', 'experiments/05_find_vs_fix/fix_e2b_base/ba51d9e2e6b4/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_base/ba51d9e2e6b4.log']
+fix_e2b_base finished 14:27

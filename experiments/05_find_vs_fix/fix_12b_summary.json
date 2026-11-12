@@ -1,0 +1,216 @@
+{
+ "model": "12b",
+ "suffix": "",
+ "conditions": {
+  "base": {
+   "n": 86,
+   "resolved": 15,
+   "empty_patch": 45,
+   "touches_gold_file": 26,
+   "touches_gold_function": 20,
+   "context_overflow": 57,
+   "mean_tool_calls": 18.023255813953487,
+   "median_minutes": 3.7235
+  },
+  "spanloc": {
+   "n": 86,
+   "resolved": 19,
+   "empty_patch": 40,
+   "touches_gold_file": 25,
+   "touches_gold_function": 24,
+   "context_overflow": 57,
+   "mean_tool_calls": 17.523255813953487,
+   "median_minutes": 4.187333333333333
+  },
+  "oracle_file": {
+   "n": 86,
+   "resolved": 18,
+   "empty_patch": 40,
+   "touches_gold_file": 40,
+   "touches_gold_function": 27,
+   "context_overflow": 55,
+   "mean_tool_calls": 16.558139534883722,
+   "median_minutes": 4.135166666666667
+  },
+  "oracle_func": {
+   "n": 86,
+   "resolved": 23,
+   "empty_patch": 38,
+   "touches_gold_file": 43,
+   "touches_gold_function": 39,
+   "context_overflow": 46,
+   "mean_tool_calls": 16.093023255813954,
+   "median_minutes": 5.0455000000000005
+  }
+ },
+ "tests": {
+  "H8a": {
+   "a": "oracle_func",
+   "b": "base",
+   "diff": 0.09302325581395349,
+   "ci": [
+    0.011627906976744186,
+    0.18604651162790697
+   ],
+   "ci_clustered": [
+    0.0625,
+    0.13157894736842105
+   ],
+   "a_only": 12,
+   "b_only": 4,
+   "p_exact_mcnemar": 0.076812744140625
+  },
+  "H8b": {
+   "a": "oracle_file",
+   "b": "base",
+   "diff": 0.03488372093023256,
+   "ci": [
+    -0.046511627906976744,
+    0.11627906976744186
+   ],
+   "ci_clustered": [
+    0.020833333333333332,
+    0.05263157894736842
+   ],
+   "a_only": 8,
+   "b_only": 5,
+   "p_exact_mcnemar": 0.5810546875
+  },
+  "H8c": {
+   "a": "spanloc",
+   "b": "base",
+   "diff": 0.046511627906976744,
+   "ci": [
+    -0.03488372093023256,
+    0.12790697674418605
+   ],
+   "ci_clustered": [
+    0.020833333333333332,
+    0.07894736842105263
+   ],
+   "a_only": 9,
+   "b_only": 5,
+   "p_exact_mcnemar": 0.4239501953125
+  },
+  "H8d": {
+   "a": "oracle_func",
+   "b": "spanloc",
+   "diff": 0.046511627906976744,
+   "ci": [
+    -0.046511627906976744,
+    0.1511627906976744
+   ],
+   "ci_clustered": [
+    0.041666666666666664,
+    0.05263157894736842
+   ],
+   "a_only": 12,
+   "b_only": 8,
+   "p_exact_mcnemar": 0.5034446716308594
+  }
+ },
+ "exploratory": {
+  "decomposition": {
+   "base": {
+    "function": {
+     "edits_gold": 20,
+     "resolved_if_edits": 13,
+     "not_edits": 53,
+     "resolved_if_not": 1
+    },
+    "file": {
+     "edits_gold": 26,
+     "resolved_if_edits": 14,
+     "not_edits": 60,
+     "resolved_if_not": 1
+    }
+   },
+   "spanloc": {
+    "function": {
+     "edits_gold": 24,
+     "resolved_if_edits": 17,
+     "not_edits": 49,
+     "resolved_if_not": 2
+    },
+    "file": {
+     "edits_gold": 25,
+     "resolved_if_edits": 18,
+     "not_edits": 61,
+     "resolved_if_not": 1
+    }
+   },
+   "oracle_file": {
+    "function": {
+     "edits_gold": 27,
+     "resolved_if_edits": 16,
+     "not_edits": 46,
+     "resolved_if_not": 1
+    },
+    "file": {
+     "edits_gold": 40,
+     "resolved_if_edits": 18,
+     "not_edits": 46,
+     "resolved_if_not": 0
+    }
+   },
+   "oracle_func": {
+    "function": {
+     "edits_gold": 39,
+     "resolved_if_edits": 22,
+     "not_edits": 34,
+     "resolved_if_not": 0
+    },
+    "file": {
+     "edits_gold": 43,
+     "resolved_if_edits": 23,
+     "not_edits": 43,
+     "resolved_if_not": 0
+    }
+   }
+  },
+  "by_repo": {
+   "base": {
+    "Textualize/rich": [
+     6,
+     38
+    ],
+    "fastapi/fastapi": [
+     9,
+     48
+    ]
+   },
+   "spanloc": {
+    "Textualize/rich": [
+     9,
+     38
+    ],
+    "fastapi/fastapi": [
+     10,
+     48
+    ]
+   },
+   "oracle_file": {
+    "Textualize/rich": [
+     8,
+     38
+    ],
+    "fastapi/fastapi": [
+     10,
+     48
+    ]
+   },
+   "oracle_func": {
+    "Textualize/rich": [
+     11,
+     38
+    ],
+    "fastapi/fastapi": [
+     12,
+     48
+    ]
+   }
+  }
+ },
+ "n_tasks": 86,
+ "infra_excluded": {}
+}

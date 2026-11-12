@@ -1,0 +1,249 @@
+{
+ "name": "fix_12b_base_nothoughts",
+ "status": "finished",
+ "started": "2026-10-23T21:41:53+06:00",
+ "command": "scripts/run_fix_experiment.sh 12b base 4",
+ "params": {},
+ "note": "model=gemma-4-12b-it-qat-w4a16-ct cond=base variant=nothoughts serve=12b-a100 endpoint=https://shetu--g4paper-vllm-serve-12b-a100.us-east.modal.run/v1 prompt_sha256=f1cbf7943ee96873 tasks=86 envs=6 concurrency=4 budget=--max-time-minutes 10 --max-tool-calls 30 --max-turns 60 --timeout-seconds 120",
+ "code": {
+  "combined": "483deb639ea6df67c3a6edef9f14d8358a42028172e4aab9d491304acae04638",
+  "files": {
+   "spanloc/__init__.py": "008e145b116db4b2e777e292f03cde3aa490f9540c8dca285ee594ce6e691c59",
+   "spanloc/__main__.py": "13a1a5b340cdcfc1902b62be90e508c7c71886000d5bf087e7854aadf09fb35e",
+   "spanloc/cli.py": "a841da6b486452602474f9f0393f034d93239eb1667c8b28a0a0bc7df4c326b9",
+   "spanloc/core.py": "6a4967b468fa9869e786b22d64837cfdc1c4baa04d0479f26b4e61ef4e9e4074",
+   "locbench/__init__.py": "3b49d80d96caf504e67c26a0d9267bb0a448167a665058ec87f09f64b7b3032e",
+   "locbench/budget.py": "a34148cf5dfb5c31bb4537081b9ace03e27fde64dcd404d13ad12b8161f2e958",
+   "locbench/competition.py": "e2593a6c4a727af71eeaa6728ace89e61e84e35f2d6d05d463ea298c4c045fda",
+   "locbench/context_report.py": "488a11ea122c3183cd2ea568a34e1c2bb5acbe6cbbef0be239880e6557dfee6e",
+   "locbench/fix_report.py": "3e13c397d5a9bdafd8276d798edd6dfe99e35f07bc607323698c2db29244a503",
+   "locbench/gitsource.py": "dac87ba916032610157b2ce1a4c7a1e4e0cb4b75569a756a502c07c2650a1ff3",
+   "locbench/gold.py": "008f625dc270544f3f15e772f5c512f00f58cd9d7b282978183f54305e799cf5",
+   "locbench/make_task_variants.py": "55aa9f3afe88c29d8baaac4d4c4cf169372101b96804531f238725014701d3eb",
+   "locbench/methods.py": "7513f96e03b665eb139bd400f2cfc4cfbc98e45cdb5190feaafe8c359c7dbb0a",
+   "locbench/metrics.py": "a6647e31866077b7a36fec8efca4c4cca5d70285cb710ad64e2dfd596567994b",
+   "locbench/provenance.py": "3d6dcb69d96c0b0e10dce1a311514a4cb4310933a95325b6f04b51f2dc8adaf4",
+   "locbench/report.py": "c602edaac791062fe9c8d45ec427815d53a16531951a504b28b97024f9bfdb1a",
+   "locbench/run_competition.py": "abae4bb2caa3c9cc2aaaf0d1596d39797814d7b6875a4fa457be807bb09f9d7f",
+   "locbench/run_swebench.py": "954a7c2923745229e22693964c11caf7577af8d5b80620a9c6961f5e8651f1c7",
+   "locbench/tune.py": "2c271cf2818e3dd8f6df60059db6540194d7d8c4c5cb7327eee0a3a1f35b72b7",
+   "locbench/tune2.py": "2d511f724583ee812fea0a6a8b3b9b1e16f3760aaf1f2cfd9c82e5cdbb51fe23",
+   "locbench/tune_report.py": "072d209f634d0416d4dc6b9951cc08918fb97770fe9835f5e920251f6f0a9d7c",
+   "agentloc/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "agentloc/agent.py": "00051f07da2da920ed27c39ac0a98d4affabbbbc448e1e76d1e569739c325a42",
+   "agentloc/report.py": "8e3ad87de360879522048870c78810fa46fec711f7c6d68e728f74f3ca12682c",
+   "agentloc/run.py": "876bddd7497eac05c249d7d8fbdf1c51bcffe13c67a7f6ff45f8c7c54be5ecae",
+   "agentloc/sandbox.py": "372e87959c506e989d41001370c9ffd81982b9a03d0879daa656a4e5ee725ddd",
+   "modal_app/smoke_test.py": "535ccc9db8b4b5b79daafb8622c34e488767f4bfe1bd081e0f940dc76564b827",
+   "modal_app/vllm_server.py": "772ee70eba1ac07f20d59e29ce8fe1a6cf4791e2af643c92a00226ff30791ff1",
+   "modal_app/weights.py": "ea463cde704b9879653ec22f9f7d198eb3d0a98ddbec22098f4eaf57cedde556",
+   "submission/agent/skills/spanloc/SKILL.md": "64150cf0c644504f87e4b32ecafbc32709d29d5ccaaf02f5879812d2ca6ad041",
+   "submission/agent/skills/spanloc/scripts/locate.py": "be3d72784e3532aa996e1156e7033c2d0dd30f471bd49e2fb499d569d8502fcd",
+   "submission/agent/skills/spanloc/scripts/outline.py": "b27199298418cf1c26388f7603f9625aceff1e5e1257f3904a975de2b94c792d",
+   "submission/agent/skills/spanloc/scripts/spanloc_cli.py": "a841da6b486452602474f9f0393f034d93239eb1667c8b28a0a0bc7df4c326b9",
+   "submission/agent/skills/spanloc/scripts/spanloc_core.py": "6a4967b468fa9869e786b22d64837cfdc1c4baa04d0479f26b4e61ef4e9e4074",
+   "paper/make_figures.py": "ab831c8de9b235f2996985fee0c68282ed2152d8138000e9fd5fd2853b1538f4",
+   "paper/make_fix_tables.py": "84ac2a282614ff92b0db4540b62dbcba57608268b1a518133b42554e45a99314",
+   "paper/make_references.py": "4749a6366d68502e9e2c452eccd401b5ca6f1cfdde64a7c6d6a447e2b40452b5",
+   "paper/make_repro_tables.py": "504f6dea6ef5268f7369a1be3c6ecae608720c22cf213bfee70db42391ec72ae",
+   "paper/references.md": "b35afacdf7b45b0443db3b466d8927b1fd5e5d740b0d012f30fee9c1adfd02c2",
+   "paper/references_full.md": "41e545bca5eb48513a651affa64bff082fdab801c7da97b86ab82da48d03f44f",
+   "paper/writeup.md": "0a030ddfd3b90c49955ce809f90b6fb56b71ce53ab91c3c9828267e0b45132f1",
+   "paper/writeup_v0_superseded.md": "a436e345fa92572f93e32b2398bc11ad7755b98cc8fb74b9e3178fb62ad1922f",
+   "paper/tables/compute.md": "e6627d4bd47cded683df9ab02a0cf8de798c7e94a14926d717c9b362468424fa",
+   "paper/tables/fix.md": "5328699c94e9498430b3b78411d6ffc256b4df3a788be30db1df50b3b40e5248",
+   "paper/tables/runs.md": "0a9a915729111d4ddb678b53b041156c5ebfcace96c253577d0ebc573d491a98",
+   "notebooks/build_notebook.py": "01a4a4c3031165374774b52dbe56d32e86ad3f1acda6610944ff767f46749e1b"
+  }
+ },
+ "environment": {
+  "python": "3.13.12",
+  "executable": "<repo>/.venv/bin/python",
+  "platform": "macOS-26.6-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "cpu_count": 12,
+  "packages_sha256": "277561a382f4eeeb0b1a38cc449f3472bcb5394af4104df66de0fcc6e2be99fa",
+  "packages": [
+   "aiohappyeyeballs==2.7.1",
+   "aiohttp==3.14.5",
+   "aiosignal==1.4.0",
+   "anyio==4.15.1",
+   "attrs==26.1.0",
+   "bleach==6.4.0",
+   "cbor2==6.1.5",
+   "certifi==2026.10.19",
+   "charset-normalizer==3.5.2",
+   "click==8.5.0",
+   "contourpy==1.4.0",
+   "cycler==0.12.1",
+   "fastjsonschema==2.22.2",
+   "filelock==4.2.4",
+   "fonttools==4.67.0",
+   "frozenlist==1.8.0",
+   "fsspec==2026.9.0",
+   "grpclib==0.4.9",
+   "h11==0.16.0",
+   "h2==4.4.1",
+   "hf-xet==1.7.0",
+   "hpack==4.2.0",
+   "httpcore2==2.16.0",
+   "httpx2==2.16.0",
+   "huggingface-hub==2.2.0",
+   "hyperframe==6.1.0",
+   "idna==3.20",
+   "iniconfig==2.3.1",
+   "jsonschema==4.26.0",
+   "jsonschema-specifications==2025.9.1",
+   "jupyter-core==5.9.1",
+   "jupytext==1.19.6",
+   "kaggle==2.2.4",
+   "kagglesdk==0.1.38",
+   "kiwisolver==1.5.1",
+   "markdown-it-py==4.2.0",
+   "matplotlib==3.11.2",
+   "mdit-py-plugins==0.6.1",
+   "mdurl==0.1.2",
+   "modal==1.6.2",
+   "multidict==7.1.0",
+   "nbformat==5.11.1",
+   "networkx==3.7",
+   "numpy==2.5.4",
+   "packaging==26.3",
+   "pandas==3.0.6",
+   "pillow==13.0.0",
+   "platformdirs==4.13.5",
+   "pluggy==1.7.0",
+   "propcache==0.5.4",
+   "protobuf==7.36.2",
+   "pyarrow==26.0.0",
+   "pyflakes==4.0.3",
+   "pygments==2.21.0",
+   "pyparsing==3.3.3",
+   "pytest==9.1.1",
+   "python-dateutil==3.0.0",
+   "python-dotenv==1.2.4",
+   "python-slugify==9.1.3",
+   "pyyaml==6.0.3",
+   "referencing==0.37.0",
+   "requests==2.34.2",
+   "rich==15.0.0",
+   "rpds-py==2026.9.1",
+   "scipy==1.18.1",
+   "six==1.17.0",
+   "-e file://<repo>",
+   "synchronicity==0.12.6",
+   "text-unidecode==1.3",
+   "toml==0.10.2",
+   "tqdm==4.70.1",
+   "traitlets==5.16.1",
+   "truststore==0.10.5",
+   "types-certifi==2021.10.8.3",
+   "types-toml==0.10.8.20260518",
+   "typing-extensions==4.16.0",
+   "tzdata==2026.5",
+   "urllib3==2.8.0",
+   "watchfiles==1.3.0",
+   "webencodings==0.6.1",
+   "yarl==1.25.1"
+  ],
+  "docker_sandbox_image": "sha256:50c0876a7bddf3d301b25af2d987c793ff1eb9e83e6ae9d9623a5b6097d66ff5"
+ },
+ "outputs": {
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/env_groups.txt": {
+   "sha256": "843209f9abd918b50c61baec317a3dde64287a0343e12f47e5ee0b523e8a21f3",
+   "bytes": 1125,
+   "lines": 6
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/839f33fe5aa0/summary.json": {
+   "sha256": "63b069432a923e7e26c997456d7289debc405a89757495983cc896bf30f74efd",
+   "bytes": 210,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/839f33fe5aa0/task_results.jsonl": {
+   "sha256": "d472db70c8622e82589d596066a18acaadea8ab004c7ff59b401cfb8f55bd5b9",
+   "bytes": 15945,
+   "lines": 38
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/839f33fe5aa0.log": {
+   "sha256": "54fb130bcd3ac5ceaa16a9c0afce758c820c7c1e1d868c33052d72689c335d5b",
+   "bytes": 183951,
+   "lines": 1830
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/f65916c04124/summary.json": {
+   "sha256": "8750717bf209f730a41009beac147e0a797127fa45c781c420696cecf4e82f29",
+   "bytes": 210,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/f65916c04124/task_results.jsonl": {
+   "sha256": "f8aa941dbd905fae415c588e8c7c4d5e6ea57d84ed291ebd1aa717f966c37f57",
+   "bytes": 12122,
+   "lines": 28
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/f65916c04124.log": {
+   "sha256": "a561ce74ee9c67386c547f1f6262a6d1a9320d134880566625ef9ead8c636980",
+   "bytes": 148597,
+   "lines": 1472
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/aca2396cfd35/summary.json": {
+   "sha256": "db93fd10a53a45a10d2a8215f044edf9b451af808109e40281375fe4f8d00380",
+   "bytes": 188,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/aca2396cfd35/task_results.jsonl": {
+   "sha256": "f89a8c10ce459b896da90833077c38be37d0f4cd09ad88597e0ac73b21a4f2d3",
+   "bytes": 3948,
+   "lines": 7
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/aca2396cfd35.log": {
+   "sha256": "ca9f06741d946f3917289d0cc02253fbf6dc1533c8aa56b9feead250545f7653",
+   "bytes": 57217,
+   "lines": 566
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/8bd334ce1383/summary.json": {
+   "sha256": "282a6d4b7a9ab831c434cb0023964e830372982e50b5614d028f04575ef7ed57",
+   "bytes": 188,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/8bd334ce1383/task_results.jsonl": {
+   "sha256": "fb1e970cfafcae9aa0adba709e68ea8548465346d3ab60582249f523a31a7896",
+   "bytes": 3029,
+   "lines": 5
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/8bd334ce1383.log": {
+   "sha256": "eb3d53394a7dd199c112cbe0344c2379372ddc4e0bbdf6dc593f7f1e3bf4653e",
+   "bytes": 45748,
+   "lines": 453
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/a287459e1cdb/summary.json": {
+   "sha256": "9c32fad4843b357a963b290f583209771acd44bc66175ba424af18eab26bc8b6",
+   "bytes": 190,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/a287459e1cdb/task_results.jsonl": {
+   "sha256": "6608b0a52e6413e1c4e4c75786434d34036ff8fbdc94a4cd2bd52d8dc2a58263",
+   "bytes": 2297,
+   "lines": 4
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/a287459e1cdb.log": {
+   "sha256": "80345ab680fa4ed4dab0f01c1ec96c887bcedb8832faa6bff392e20291d8adc5",
+   "bytes": 34284,
+   "lines": 339
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/ba51d9e2e6b4/summary.json": {
+   "sha256": "66fe320a4031668b33dfa78b0d29df87c30eb6b2d8124fd95408d5c0354618af",
+   "bytes": 188,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/ba51d9e2e6b4/task_results.jsonl": {
+   "sha256": "addd693363a8677f0d3fd1303176b6f84a02c412ef2c19048b34e7b2d7414447",
+   "bytes": 1910,
+   "lines": 4
+  },
+  "experiments/05_find_vs_fix/fix_12b_base_nothoughts/ba51d9e2e6b4.log": {
+   "sha256": "de4a2b2109e409f68455a40943e0d67659636f84f1051b3adc4e8b635059bae7",
+   "bytes": 23167,
+   "lines": 230
+  }
+ },
+ "finished": "2026-10-24T00:34:39+06:00"
+}

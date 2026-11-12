@@ -1,0 +1,13 @@
+{
+  "total_tasks": 9,
+  "resolved": 6,
+  "resolution_rate": 0.6667,
+  "by_repo": {
+    "fastapi/fastapi": {
+      "total": 9,
+      "resolved": 6,
+      "rate": 0.6666666666666666
+    }
+  },
+  "errors": 0
+}

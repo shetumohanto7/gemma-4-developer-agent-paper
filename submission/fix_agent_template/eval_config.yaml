@@ -1,0 +1,6 @@
+# pre-registered per-task budget
+evaluation:
+  timeout_seconds: 120
+  max_tool_calls: 30
+  max_time_minutes: 10
+  max_turns: 60

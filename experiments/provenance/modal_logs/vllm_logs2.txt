@@ -1,0 +1,115 @@
+Collecting protobuf<7,>=6.30.2 (from nvidia-cutlass-dsl-libs-base==4.6.2->nvidia-cutlass-dsl==4.6.2)
+  Downloading http://pypi-mirror.modal.local:5555/simple/protobuf/protobuf-6.33.6-cp39-abi3-manylinux2014_x86_64.whl.metadata (593 bytes)
+Collecting nvidia-cuda-nvdisasm<14,>=13.3 (from nvidia-cutlass-dsl-libs-base==4.6.2->nvidia-cutlass-dsl==4.6.2)
+  Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cuda-nvdisasm/nvidia_cuda_nvdisasm-13.4.92-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (1.9 kB)
+Collecting nvidia-cutlass-dsl-libs-core==4.6.2 (from nvidia-cutlass-dsl-libs-base==4.6.2->nvidia-cutlass-dsl==4.6.2)
+  Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cutlass-dsl-libs-core/nvidia_cutlass_dsl_libs_core-4.6.2-py3-none-any.whl.metadata (2.8 kB)
+Requirement already satisfied: click<9.0.0,>=8.4.2 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (8.5.0)
+Requirement already satisfied: filelock>=3.10.0 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (4.2.4)
+Requirement already satisfied: fsspec>=2023.5.0 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (2026.9.0)
+Requirement already satisfied: hf-xet<2.0.0,>=1.6.0 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (1.7.0)
+Requirement already satisfied: httpx<1,>=0.23.0 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (0.28.1)
+Requirement already satisfied: packaging>=20.9 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (26.3)
+Requirement already satisfied: pyyaml>=5.1 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (6.0.3)
+Requirement already satisfied: tqdm>=4.42.1 in /usr/local/lib/python3.12/site-packages (from huggingface_hub<2.0,>=1.5) (4.70.1)
+Requirement already satisfied: anyio in /usr/local/lib/python3.12/site-packages (from httpx<1,>=0.23.0->huggingface_hub<2.0,>=1.5) (4.15.1)
+Requirement already satisfied: certifi in /usr/local/lib/python3.12/site-packages (from httpx<1,>=0.23.0->huggingface_hub<2.0,>=1.5) (2026.10.19)
+Requirement already satisfied: httpcore==1.* in /usr/local/lib/python3.12/site-packages (from httpx<1,>=0.23.0->huggingface_hub<2.0,>=1.5) (1.0.9)
+Requirement already satisfied: idna in /usr/local/lib/python3.12/site-packages (from httpx<1,>=0.23.0->huggingface_hub<2.0,>=1.5) (3.20)
+Requirement already satisfied: h11>=0.16 in /usr/local/lib/python3.12/site-packages (from httpcore==1.*->httpx<1,>=0.23.0->huggingface_hub<2.0,>=1.5) (0.16.0)
+INFO: pip is looking at multiple versions of cuda-python to determine which version is compatible with other requirements. This could take a while.
+Collecting cuda-python>=12.8 (from nvidia-cutlass-dsl-libs-base==4.6.2->nvidia-cutlass-dsl==4.6.2)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.4.1-py3-none-any.whl.metadata (6.8 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.3.1-py3-none-any.whl.metadata (7.0 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.3.0-py3-none-any.whl.metadata (7.0 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.2.0-py3-none-any.whl.metadata (6.5 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.1.1-py3-none-any.whl.metadata (6.2 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.1.0-py3-none-any.whl.metadata (4.8 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.0.3-py3-none-any.whl.metadata (4.7 kB)
+INFO: pip is still looking at multiple versions of cuda-python to determine which version is compatible with other requirements. This could take a while.
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.0.2-py3-none-any.whl.metadata (4.7 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.0.1-py3-none-any.whl.metadata (4.7 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-13.0.0-py3-none-any.whl.metadata (4.7 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-12.9.10-py3-none-any.whl.metadata (4.6 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-12.9.7-py3-none-any.whl.metadata (4.7 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-12.9.6-py3-none-any.whl.metadata (4.7 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-12.9.5-py3-none-any.whl.metadata (4.7 kB)
+  Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-12.9.4-py3-none-any.whl.metadata (4.7 kB)
+Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cutlass-dsl/nvidia_cutlass_dsl-4.6.2-py3-none-any.whl (10 kB)
+Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cutlass-dsl-libs-base/nvidia_cutlass_dsl_libs_base-4.6.2-cp312-cp312-manylinux_2_28_x86_64.whl (2.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.8/2.8 MB 310.8 MB/s eta 0:00:00
+Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cutlass-dsl-libs-core/nvidia_cutlass_dsl_libs_core-4.6.2-py3-none-any.whl (772 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 772.4/772.4 kB 442.0 MB/s eta 0:00:00
+Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cutlass-dsl-libs-cu12/nvidia_cutlass_dsl_libs_cu12-4.6.2-cp312-cp312-manylinux_2_28_x86_64.whl (88.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 88.5/88.5 MB 271.8 MB/s eta 0:00:00
+Downloading http://pypi-mirror.modal.local:5555/simple/huggingface-hub/huggingface_hub-1.33.0-py3-none-any.whl (846 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 846.4/846.4 kB 384.2 MB/s eta 0:00:00
+Downloading http://pypi-mirror.modal.local:5555/simple/nvidia-cuda-nvdisasm/nvidia_cuda_nvdisasm-13.4.92-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (5.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.2/5.2 MB 253.7 MB/s eta 0:00:00
+Downloading http://pypi-mirror.modal.local:5555/simple/protobuf/protobuf-6.33.6-cp39-abi3-manylinux2014_x86_64.whl (323 kB)
+Downloading http://pypi-mirror.modal.local:5555/simple/cuda-python/cuda_python-12.9.4-py3-none-any.whl (7.6 kB)
+Installing collected packages: protobuf, nvidia-cuda-nvdisasm, cuda-python, nvidia-cutlass-dsl-libs-core, huggingface_hub, nvidia-cutlass-dsl-libs-base, nvidia-cutlass-dsl-libs-cu12, nvidia-cutlass-dsl
+  Attempting uninstall: protobuf
+    Found existing installation: protobuf 7.36.2
+    Uninstalling protobuf-7.36.2:
+      Successfully uninstalled protobuf-7.36.2
+  Attempting uninstall: nvidia-cutlass-dsl-libs-core
+    Found existing installation: nvidia-cutlass-dsl-libs-core 4.8.1
+    Uninstalling nvidia-cutlass-dsl-libs-core-4.8.1:
+      Successfully uninstalled nvidia-cutlass-dsl-libs-core-4.8.1
+  Attempting uninstall: huggingface_hub
+    Found existing installation: huggingface_hub 2.2.0
+    Uninstalling huggingface_hub-2.2.0:
+      Successfully uninstalled huggingface_hub-2.2.0
+  Attempting uninstall: nvidia-cutlass-dsl-libs-base
+    Found existing installation: nvidia-cutlass-dsl-libs-base 4.8.1
+    Uninstalling nvidia-cutlass-dsl-libs-base-4.8.1:
+      Successfully uninstalled nvidia-cutlass-dsl-libs-base-4.8.1
+  Attempting uninstall: nvidia-cutlass-dsl-libs-cu12
+    Found existing installation: nvidia-cutlass-dsl-libs-cu12 4.8.1
+    Uninstalling nvidia-cutlass-dsl-libs-cu12-4.8.1:
+      Successfully uninstalled nvidia-cutlass-dsl-libs-cu12-4.8.1
+  Attempting uninstall: nvidia-cutlass-dsl
+    Found existing installation: nvidia-cutlass-dsl 4.8.1
+    Uninstalling nvidia-cutlass-dsl-4.8.1:
+      Successfully uninstalled nvidia-cutlass-dsl-4.8.1
+
+Successfully installed cuda-python-12.9.4 huggingface_hub-1.33.0 nvidia-cuda-nvdisasm-13.4.92 nvidia-cutlass-dsl-4.6.2 nvidia-cutlass-dsl-libs-base-4.6.2 nvidia-cutlass-dsl-libs-core-4.6.2 nvidia-cutlass-dsl-libs-cu12-4.6.2 protobuf-6.33.6
+
+[notice] A new release of pip is available: 25.1.1 -> 26.2.2
+[notice] To update, run: pip install --upgrade pip
+
+=> Step 6: RUN pip check || true
+xgrammar 0.2.5.post1 has requirement transformers<5,>=4.38.0, but you have transformers 5.13.1.
+
+=> Step 7: RUN pip list 2>/dev/null | grep -i -E '^(vllm|transformers|tokenizers|xgrammar|torch|compressed-tensors|flashinfer-python) '
+compressed-tensors                       0.15.0.1
+flashinfer-python                        0.6.6
+tokenizers                               0.22.2
+torch                                    2.10.0        3
+transformers                             5.13.1
+vllm                                     0.19.1
+xgrammar                                 0.2.5.post1
+
+=> Step 8: RUN python -c 'import vllm, transformers; print(vllm.__version__, transformers.__version__)'
+0.19.1 5.13.1
+
+=> Step 9: RUN rm -rf /tmp/wh
+Saving image...
+Image saved, took 15.02s
+
+Built image im-RpleYzNsbwf0PMBezgZ2Ip in 294.28s
+
+
+Building image im-PpbLTvHLjNg8DwP8fbQSrC
+
+=> Step 0: FROM base
+
+=> Step 1: ENV HF_HOME=/models/hf
+Saving image...
+Image saved, took 1.79s
+
+Built image im-PpbLTvHLjNg8DwP8fbQSrC in 6.60s
+
+

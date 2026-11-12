@@ -1,0 +1,2261 @@
+2026-10-23 21:03 guard started: threshold $27.50, every 300s, pid 43301
+2026-10-23 21:03 credit used $19.19, billed $0.00
+2026-10-23 21:08 credit used $19.41, billed $0.00
+2026-10-23 21:13 credit used $19.45, billed $0.00
+2026-10-23 21:18 credit used $19.70, billed $0.00
+2026-10-23 21:23 credit used $19.59, billed $0.00
+2026-10-23 21:28 credit used $19.59, billed $0.00
+2026-10-23 21:33 credit used $19.59, billed $0.00
+2026-10-23 21:38 credit used $19.59, billed $0.00
+2026-10-23 21:39 guard started: threshold $29.50, every 300s, pid 48543
+2026-10-23 21:39 credit used $19.59, billed $0.00
+2026-10-23 21:44 credit used $19.81, billed $0.00
+2026-10-23 21:49 credit used $19.91, billed $0.00
+2026-10-23 21:54 credit used $20.23, billed $0.00
+2026-10-23 21:59 credit used $20.50, billed $0.00
+2026-10-23 22:04 credit used $20.63, billed $0.00
+2026-10-23 22:09 credit used $20.67, billed $0.00
+2026-10-23 22:14 credit used $20.99, billed $0.00
+2026-10-23 22:19 credit used $21.15, billed $0.00
+2026-10-23 22:24 credit used $21.19, billed $0.00
+2026-10-23 22:29 credit used $21.51, billed $0.00
+2026-10-23 22:34 credit used $21.70, billed $0.00
+2026-10-23 22:39 credit used $21.92, billed $0.00
+2026-10-23 22:44 credit used $21.96, billed $0.00
+2026-10-23 22:49 credit used $22.35, billed $0.00
+2026-10-23 22:54 credit used $22.46, billed $0.00
+2026-10-23 22:59 credit used $22.68, billed $0.00
+2026-10-23 23:04 credit used $22.90, billed $0.00
+2026-10-23 23:09 credit used $23.04, billed $0.00
+2026-10-23 23:14 credit used $23.25, billed $0.00
+2026-10-23 23:19 credit used $23.36, billed $0.00
+2026-10-23 23:24 credit used $23.64, billed $0.00
+2026-10-23 23:29 credit used $23.80, billed $0.00
+2026-10-23 23:34 credit used $23.92, billed $0.00
+2026-10-23 23:40 credit used $24.07, billed $0.00
+2026-10-23 23:45 credit used $24.35, billed $0.00
+2026-10-23 23:50 credit used $24.44, billed $0.00
+2026-10-23 23:55 credit used $24.85, billed $0.00
+2026-10-24 00:00 credit used $24.94, billed $0.00
+2026-10-24 00:05 credit used $25.14, billed $0.00
+2026-10-24 00:10 credit used $25.28, billed $0.00
+2026-10-24 00:15 credit used $25.53, billed $0.00
+2026-10-24 00:20 credit used $25.65, billed $0.00
+2026-10-24 00:25 credit used $25.95, billed $0.00
+2026-10-24 00:30 credit used $26.09, billed $0.00
+2026-10-24 00:35 credit used $26.32, billed $0.00
+2026-10-24 00:40 credit used $26.56, billed $0.00
+2026-10-24 00:45 credit used $26.72, billed $0.00
+2026-10-24 00:50 credit used $26.88, billed $0.00
+2026-10-24 00:55 credit used $27.03, billed $0.00
+2026-10-24 01:00 credit used $26.94, billed $0.00
+2026-10-24 01:05 credit used $26.94, billed $0.00
+2026-10-24 01:10 credit used $26.94, billed $0.00
+2026-10-24 01:15 credit used $26.94, billed $0.00
+2026-10-24 01:20 credit used $26.94, billed $0.00
+2026-10-24 01:25 credit used $26.94, billed $0.00
+2026-10-24 01:30 credit used $26.94, billed $0.00
+2026-10-24 01:35 credit used $26.94, billed $0.00
+2026-10-24 01:40 credit used $26.94, billed $0.00
+2026-10-24 01:45 credit used $26.94, billed $0.00
+2026-10-24 01:50 credit used $26.94, billed $0.00
+2026-10-24 01:55 credit used $26.94, billed $0.00
+2026-10-24 02:01 credit used $26.94, billed $0.00
+2026-10-24 02:06 credit used $26.94, billed $0.00
+2026-10-24 02:11 credit used $26.94, billed $0.00
+2026-10-24 02:16 credit used $26.94, billed $0.00
+2026-10-24 02:21 credit used $26.94, billed $0.00
+2026-10-24 02:26 credit used $26.94, billed $0.00
+2026-10-24 02:31 credit used $26.94, billed $0.00
+2026-10-24 02:36 credit used $26.94, billed $0.00
+2026-10-24 02:41 credit used $26.94, billed $0.00
+2026-10-24 02:46 credit used $26.94, billed $0.00
+2026-10-24 02:51 credit used $26.94, billed $0.00
+2026-10-24 02:56 credit used $26.94, billed $0.00
+2026-10-24 03:01 credit used $26.94, billed $0.00
+2026-10-24 03:06 credit used $26.94, billed $0.00
+2026-10-24 03:11 credit used $26.94, billed $0.00
+2026-10-24 03:16 credit used $26.94, billed $0.00
+2026-10-24 03:21 credit used $26.94, billed $0.00
+2026-10-24 03:26 credit used $26.94, billed $0.00
+2026-10-24 03:31 credit used $26.94, billed $0.00
+2026-10-24 03:36 credit used $26.94, billed $0.00
+2026-10-24 03:41 credit used $26.94, billed $0.00
+2026-10-24 03:46 credit used $26.94, billed $0.00
+2026-10-24 03:51 credit used $26.94, billed $0.00
+2026-10-24 03:56 credit used $26.89, billed $0.00
+2026-10-24 04:01 credit used $26.89, billed $0.00
+2026-10-24 04:06 credit used $26.89, billed $0.00
+2026-10-24 04:11 credit used $26.89, billed $0.00
+2026-10-24 04:16 credit used $26.89, billed $0.00
+2026-10-24 04:21 credit used $26.89, billed $0.00
+2026-10-24 04:26 credit used $26.89, billed $0.00
+2026-10-24 04:31 credit used $26.89, billed $0.00
+2026-10-24 04:37 credit used $26.89, billed $0.00
+2026-10-24 04:42 credit used $26.89, billed $0.00
+2026-10-24 04:47 credit used $26.89, billed $0.00
+2026-10-24 04:52 credit used $26.89, billed $0.00
+2026-10-24 04:57 credit used $26.89, billed $0.00
+2026-10-24 05:02 credit used $26.89, billed $0.00
+2026-10-24 05:07 credit used $26.89, billed $0.00
+2026-10-24 05:12 credit used $26.89, billed $0.00
+2026-10-24 05:17 credit used $26.89, billed $0.00
+2026-10-24 05:22 credit used $26.89, billed $0.00
+2026-10-24 05:27 credit used $26.89, billed $0.00
+2026-10-24 05:32 credit used $26.89, billed $0.00
+2026-10-24 05:37 credit used $26.89, billed $0.00
+2026-10-24 05:42 credit used $26.89, billed $0.00
+2026-10-24 05:47 credit used $26.89, billed $0.00
+2026-10-24 05:52 credit used $26.89, billed $0.00
+2026-10-24 05:57 credit used $26.89, billed $0.00
+2026-10-24 06:02 credit used $26.89, billed $0.00
+2026-10-24 06:07 credit used $26.89, billed $0.00
+2026-10-24 06:12 credit used $26.89, billed $0.00
+2026-10-24 06:17 credit used $26.89, billed $0.00
+2026-10-24 06:22 credit used $26.89, billed $0.00
+2026-10-24 06:27 credit used $26.89, billed $0.00
+2026-10-24 06:32 credit used $26.89, billed $0.00
+2026-10-24 06:37 credit used $26.89, billed $0.00
+2026-10-24 06:42 credit used $26.89, billed $0.00
+2026-10-24 06:47 credit used $26.89, billed $0.00
+2026-10-24 06:52 credit used $26.89, billed $0.00
+2026-10-24 06:57 credit used $26.89, billed $0.00
+2026-10-24 07:02 credit used $26.89, billed $0.00
+2026-10-24 07:07 credit used $26.89, billed $0.00
+2026-10-24 07:12 credit used $26.89, billed $0.00
+2026-10-24 07:18 credit used $26.89, billed $0.00
+2026-10-24 07:23 credit used $26.89, billed $0.00
+2026-10-24 07:28 credit used $26.89, billed $0.00
+2026-10-24 07:33 credit used $26.89, billed $0.00
+2026-10-24 07:38 credit used $26.89, billed $0.00
+2026-10-24 07:43 credit used $26.89, billed $0.00
+2026-10-24 07:48 credit used $26.89, billed $0.00
+2026-10-24 07:53 credit used $26.89, billed $0.00
+2026-10-24 07:58 credit used $26.89, billed $0.00
+2026-10-24 08:03 credit used $26.89, billed $0.00
+2026-10-24 08:08 credit used $26.89, billed $0.00
+2026-10-24 08:13 credit used $26.89, billed $0.00
+2026-10-24 08:18 credit used $26.89, billed $0.00
+2026-10-24 08:23 credit used $26.89, billed $0.00
+2026-10-24 08:28 credit used $26.89, billed $0.00
+2026-10-24 08:33 credit used $26.89, billed $0.00
+2026-10-24 08:38 credit used $26.89, billed $0.00
+2026-10-24 08:43 credit used $26.89, billed $0.00
+2026-10-24 08:48 credit used $26.89, billed $0.00
+2026-10-24 08:53 credit used $26.89, billed $0.00
+2026-10-24 08:58 credit used $26.89, billed $0.00
+2026-10-24 09:03 credit used $26.89, billed $0.00
+2026-10-24 09:08 credit used $26.89, billed $0.00
+2026-10-24 09:13 credit used $26.89, billed $0.00
+2026-10-24 09:18 credit used $26.89, billed $0.00
+2026-10-24 09:23 credit used $26.89, billed $0.00
+2026-10-24 09:28 credit used $26.89, billed $0.00
+2026-10-24 09:33 credit used $26.89, billed $0.00
+2026-10-24 09:38 credit used $26.89, billed $0.00
+2026-10-24 09:43 credit used $26.89, billed $0.00
+2026-10-24 09:48 credit used $26.89, billed $0.00
+2026-10-24 09:53 credit used $26.89, billed $0.00
+2026-10-24 09:59 credit used $26.89, billed $0.00
+2026-10-24 10:20 credit used $26.89, billed $0.00
+2026-10-24 11:49 credit used $26.89, billed $0.00
+2026-10-24 11:54 credit used $26.89, billed $0.00
+2026-10-24 11:59 credit used $26.89, billed $0.00
+2026-10-24 12:04 credit used $26.89, billed $0.00
+2026-10-24 12:09 credit used $26.89, billed $0.00
+2026-10-24 12:14 credit used $26.89, billed $0.00
+2026-10-24 12:19 credit used $26.89, billed $0.00
+2026-10-24 12:24 credit used $26.89, billed $0.00
+2026-10-24 12:29 credit used $26.89, billed $0.00
+2026-10-24 12:34 credit used $26.89, billed $0.00
+2026-10-24 12:39 credit used $26.89, billed $0.00
+2026-10-24 12:44 credit used $26.89, billed $0.00
+2026-10-24 12:49 credit used $26.89, billed $0.00
+2026-10-24 12:54 credit used $26.89, billed $0.00
+2026-10-24 12:59 credit used $26.89, billed $0.00
+2026-10-24 13:04 credit used $26.89, billed $0.00
+2026-10-24 13:09 credit used $26.89, billed $0.00
+2026-10-24 13:56 credit used $26.89, billed $0.00
+2026-10-24 21:08 credit used $26.89, billed $0.00
+2026-10-24 21:13 credit used $26.89, billed $0.00
+2026-10-24 21:18 credit used $26.89, billed $0.00
+2026-10-24 21:24 credit used $26.89, billed $0.00
+2026-10-24 21:29 credit used $26.89, billed $0.00
+2026-10-24 21:34 credit used $26.89, billed $0.00
+2026-10-24 21:39 credit used $26.89, billed $0.00
+2026-10-24 21:44 credit used $26.89, billed $0.00
+2026-10-24 21:49 credit used $26.89, billed $0.00
+2026-10-24 21:54 credit used $26.89, billed $0.00
+2026-10-24 21:59 credit used $26.89, billed $0.00
+2026-10-24 22:04 credit used $26.89, billed $0.00
+2026-10-24 22:09 credit used $26.89, billed $0.00
+2026-10-24 22:14 credit used $26.89, billed $0.00
+2026-10-24 22:19 credit used $26.89, billed $0.00
+2026-10-24 22:24 credit used $26.89, billed $0.00
+2026-10-24 22:29 credit used $26.89, billed $0.00
+2026-10-24 22:34 credit used $26.89, billed $0.00
+2026-10-24 22:39 credit used $26.89, billed $0.00
+2026-10-24 22:44 credit used $26.89, billed $0.00
+2026-10-24 22:49 credit used $26.89, billed $0.00
+2026-10-24 22:54 credit used $26.89, billed $0.00
+2026-10-24 22:59 credit used $26.89, billed $0.00
+2026-10-24 23:04 credit used $26.89, billed $0.00
+2026-10-24 23:09 credit used $26.89, billed $0.00
+2026-10-24 23:14 credit used $26.89, billed $0.00
+2026-10-24 23:19 credit used $26.89, billed $0.00
+2026-10-24 23:24 credit used $26.89, billed $0.00
+2026-10-24 23:29 credit used $26.89, billed $0.00
+2026-10-24 23:34 credit used $26.89, billed $0.00
+2026-10-24 23:39 credit used $26.89, billed $0.00
+2026-10-24 23:44 credit used $26.89, billed $0.00
+2026-10-24 23:49 credit used $26.89, billed $0.00
+2026-10-24 23:55 credit used $26.89, billed $0.00
+2026-10-25 00:00 credit used $26.89, billed $0.00
+2026-10-25 00:05 credit used $26.89, billed $0.00
+2026-10-25 00:10 credit used $26.89, billed $0.00
+2026-10-25 00:15 credit used $26.89, billed $0.00
+2026-10-25 00:20 credit used $26.89, billed $0.00
+2026-10-25 00:25 credit used $26.89, billed $0.00
+2026-10-25 00:30 credit used $26.89, billed $0.00
+2026-10-25 00:35 credit used $26.89, billed $0.00
+2026-10-25 00:40 credit used $26.89, billed $0.00
+2026-10-25 00:45 credit used $26.89, billed $0.00
+2026-10-25 00:50 credit used $26.89, billed $0.00
+2026-10-25 00:55 credit used $26.89, billed $0.00
+2026-10-25 01:00 credit used $26.89, billed $0.00
+2026-10-25 01:05 credit used $26.89, billed $0.00
+2026-10-25 01:10 credit used $26.89, billed $0.00
+2026-10-25 01:15 credit used $26.89, billed $0.00
+2026-10-25 01:20 credit used $26.89, billed $0.00
+2026-10-25 01:25 credit used $26.89, billed $0.00
+2026-10-25 01:30 credit used $26.89, billed $0.00
+2026-10-25 01:35 credit used $26.89, billed $0.00
+2026-10-25 01:40 credit used $26.89, billed $0.00
+2026-10-25 01:45 credit used $26.89, billed $0.00
+2026-10-25 01:50 credit used $26.89, billed $0.00
+2026-10-25 01:55 credit used $26.89, billed $0.00
+2026-10-25 02:00 credit used $26.89, billed $0.00
+2026-10-25 02:05 credit used $26.89, billed $0.00
+2026-10-25 02:10 credit used $26.89, billed $0.00
+2026-10-25 02:15 credit used $26.89, billed $0.00
+2026-10-25 02:20 credit used $26.89, billed $0.00
+2026-10-25 02:26 credit used $26.89, billed $0.00
+2026-10-25 02:31 credit used $26.89, billed $0.00
+2026-10-25 02:36 credit used $26.89, billed $0.00
+2026-10-25 02:41 credit used $26.89, billed $0.00
+2026-10-25 02:46 credit used $26.89, billed $0.00
+2026-10-25 02:51 credit used $26.89, billed $0.00
+2026-10-25 02:56 credit used $26.89, billed $0.00
+2026-10-25 03:01 credit used $26.89, billed $0.00
+2026-10-25 03:06 credit used $26.89, billed $0.00
+2026-10-25 03:11 credit used $26.89, billed $0.00
+2026-10-25 03:16 credit used $26.89, billed $0.00
+2026-10-25 03:21 credit used $26.89, billed $0.00
+2026-10-25 03:26 credit used $26.89, billed $0.00
+2026-10-25 03:31 credit used $26.89, billed $0.00
+2026-10-25 03:36 credit used $26.89, billed $0.00
+2026-10-25 03:41 credit used $26.89, billed $0.00
+2026-10-25 03:46 credit used $26.89, billed $0.00
+2026-10-25 03:51 credit used $26.89, billed $0.00
+2026-10-25 03:56 credit used $26.89, billed $0.00
+2026-10-25 04:01 credit used $26.89, billed $0.00
+2026-10-25 04:06 credit used $26.89, billed $0.00
+2026-10-25 04:11 credit used $26.89, billed $0.00
+2026-10-25 04:16 credit used $26.89, billed $0.00
+2026-10-25 04:21 credit used $26.89, billed $0.00
+2026-10-25 04:26 credit used $26.89, billed $0.00
+2026-10-25 04:31 credit used $26.89, billed $0.00
+2026-10-25 04:36 credit used $26.89, billed $0.00
+2026-10-25 04:41 credit used $26.89, billed $0.00
+2026-10-25 04:46 credit used $26.89, billed $0.00
+2026-10-25 04:51 credit used $26.89, billed $0.00
+2026-10-25 04:56 credit used $26.89, billed $0.00
+2026-10-25 05:01 credit used $26.89, billed $0.00
+2026-10-25 05:07 credit used $26.89, billed $0.00
+2026-10-25 05:12 credit used $26.89, billed $0.00
+2026-10-25 05:17 credit used $26.89, billed $0.00
+2026-10-25 05:22 credit used $26.89, billed $0.00
+2026-10-25 05:27 credit used $26.89, billed $0.00
+2026-10-25 05:32 credit used $26.89, billed $0.00
+2026-10-25 05:37 credit used $26.89, billed $0.00
+2026-10-25 05:42 credit used $26.89, billed $0.00
+2026-10-25 05:47 credit used $26.89, billed $0.00
+2026-10-25 05:52 credit used $26.89, billed $0.00
+2026-10-25 05:57 credit used $26.89, billed $0.00
+2026-10-25 06:02 credit used $26.89, billed $0.00
+2026-10-25 06:07 credit used $26.89, billed $0.00
+2026-10-25 06:12 credit used $26.89, billed $0.00
+2026-10-25 06:17 credit used $26.89, billed $0.00
+2026-10-25 06:22 credit used $26.89, billed $0.00
+2026-10-25 06:27 credit used $26.89, billed $0.00
+2026-10-25 06:32 credit used $26.89, billed $0.00
+2026-10-25 06:37 credit used $26.89, billed $0.00
+2026-10-25 07:06 credit used $26.89, billed $0.00
+2026-10-25 07:42 credit used $26.89, billed $0.00
+2026-10-25 07:47 credit used $26.89, billed $0.00
+2026-10-25 07:52 credit used $26.89, billed $0.00
+2026-10-25 07:57 credit used $26.89, billed $0.00
+2026-10-25 08:02 credit used $26.89, billed $0.00
+2026-10-25 08:07 credit used $26.89, billed $0.00
+2026-10-25 08:12 credit used $26.89, billed $0.00
+2026-10-25 08:17 credit used $26.89, billed $0.00
+2026-10-25 08:22 credit used $26.89, billed $0.00
+2026-10-25 08:27 credit used $26.89, billed $0.00
+2026-10-25 08:32 credit used $26.89, billed $0.00
+2026-10-25 08:37 credit used $26.89, billed $0.00
+2026-10-25 08:42 credit used $26.89, billed $0.00
+2026-10-25 08:47 credit used $26.89, billed $0.00
+2026-10-25 08:52 credit used $26.89, billed $0.00
+2026-10-25 08:57 credit used $26.89, billed $0.00
+2026-10-25 09:02 credit used $26.89, billed $0.00
+2026-10-25 09:07 credit used $26.89, billed $0.00
+2026-10-25 09:12 credit used $26.89, billed $0.00
+2026-10-25 09:17 credit used $26.89, billed $0.00
+2026-10-25 09:22 credit used $26.89, billed $0.00
+2026-10-25 09:27 credit used $26.89, billed $0.00
+2026-10-25 09:32 credit used $26.89, billed $0.00
+2026-10-25 09:37 credit used $26.89, billed $0.00
+2026-10-25 09:42 credit used $26.89, billed $0.00
+2026-10-25 09:47 credit used $26.89, billed $0.00
+2026-10-25 09:52 credit used $26.89, billed $0.00
+2026-10-25 09:58 credit used $26.89, billed $0.00
+2026-10-25 10:03 credit used $26.89, billed $0.00
+2026-10-25 10:08 credit used $26.89, billed $0.00
+2026-10-25 10:13 credit used $26.89, billed $0.00
+2026-10-25 10:18 credit used $26.89, billed $0.00
+2026-10-25 10:23 credit used $26.89, billed $0.00
+2026-10-25 10:28 credit used $26.89, billed $0.00
+2026-10-25 10:33 credit used $26.89, billed $0.00
+2026-10-25 10:38 credit used $26.89, billed $0.00
+2026-10-25 10:43 credit used $26.89, billed $0.00
+2026-10-25 10:48 credit used $26.89, billed $0.00
+2026-10-25 10:53 credit used $26.89, billed $0.00
+2026-10-25 10:58 credit used $26.89, billed $0.00
+2026-10-25 11:03 credit used $26.89, billed $0.00
+2026-10-25 11:08 credit used $26.89, billed $0.00
+2026-10-25 11:13 credit used $26.89, billed $0.00
+2026-10-25 11:18 credit used $26.89, billed $0.00
+2026-10-25 11:23 credit used $26.89, billed $0.00
+2026-10-25 11:28 credit used $26.89, billed $0.00
+2026-10-25 11:33 credit used $26.89, billed $0.00
+2026-10-25 11:38 credit used $26.89, billed $0.00
+2026-10-25 11:43 credit used $26.89, billed $0.00
+2026-10-25 11:48 credit used $26.89, billed $0.00
+2026-10-25 11:53 credit used $26.89, billed $0.00
+2026-10-25 11:58 credit used $26.89, billed $0.00
+2026-10-25 12:03 credit used $26.89, billed $0.00
+2026-10-25 12:08 credit used $26.89, billed $0.00
+2026-10-25 12:13 credit used $26.89, billed $0.00
+2026-10-25 12:18 credit used $26.89, billed $0.00
+2026-10-25 12:24 credit used $26.89, billed $0.00
+2026-10-25 12:29 credit used $26.89, billed $0.00
+2026-10-25 12:34 credit used $26.89, billed $0.00
+2026-10-25 12:39 credit used $26.89, billed $0.00
+2026-10-25 12:44 credit used $26.89, billed $0.00
+2026-10-25 12:49 credit used $26.89, billed $0.00
+2026-10-25 12:54 credit used $26.89, billed $0.00
+2026-10-25 12:59 credit used $26.89, billed $0.00
+2026-10-25 13:04 credit used $26.89, billed $0.00
+2026-10-25 13:09 credit used $26.89, billed $0.00
+2026-10-25 13:14 credit used $26.89, billed $0.00
+2026-10-25 13:19 credit used $26.89, billed $0.00
+2026-10-25 13:24 credit used $26.89, billed $0.00
+2026-10-25 13:29 credit used $26.89, billed $0.00
+2026-10-25 13:34 credit used $26.89, billed $0.00
+2026-10-25 13:39 credit used $26.89, billed $0.00
+2026-10-25 13:44 credit used $26.89, billed $0.00
+2026-10-25 13:49 credit used $26.89, billed $0.00
+2026-10-25 13:54 credit used $26.89, billed $0.00
+2026-10-25 13:59 credit used $26.89, billed $0.00
+2026-10-25 14:04 credit used $26.89, billed $0.00
+2026-10-25 14:09 credit used $26.89, billed $0.00
+2026-10-25 14:14 credit used $26.89, billed $0.00
+2026-10-25 14:19 credit used $26.89, billed $0.00
+2026-10-25 14:24 credit used $26.89, billed $0.00
+2026-10-25 14:29 credit used $26.89, billed $0.00
+2026-10-25 14:34 credit used $26.89, billed $0.00
+2026-10-25 14:40 credit used $26.89, billed $0.00
+2026-10-25 14:45 credit used $26.89, billed $0.00
+2026-10-25 14:50 credit used $26.89, billed $0.00
+2026-10-25 14:55 credit used $26.89, billed $0.00
+2026-10-25 15:00 credit used $26.89, billed $0.00
+2026-10-25 15:05 credit used $26.89, billed $0.00
+2026-10-25 15:10 credit used $26.89, billed $0.00
+2026-10-25 15:15 credit used $26.89, billed $0.00
+2026-10-25 15:20 credit used $26.89, billed $0.00
+2026-10-25 15:25 credit used $26.89, billed $0.00
+2026-10-25 15:30 credit used $26.89, billed $0.00
+2026-10-25 15:35 credit used $26.89, billed $0.00
+2026-10-25 15:40 credit used $26.89, billed $0.00
+2026-10-25 15:45 credit used $26.89, billed $0.00
+2026-10-25 15:50 credit used $26.89, billed $0.00
+2026-10-25 15:55 credit used $26.89, billed $0.00
+2026-10-25 16:00 credit used $26.89, billed $0.00
+2026-10-25 16:05 credit used $26.89, billed $0.00
+2026-10-25 16:10 credit used $26.89, billed $0.00
+2026-10-25 16:15 credit used $26.89, billed $0.00
+2026-10-25 16:20 credit used $26.89, billed $0.00
+2026-10-25 16:25 credit used $26.89, billed $0.00
+2026-10-25 16:30 credit used $26.89, billed $0.00
+2026-10-25 16:35 credit used $26.89, billed $0.00
+2026-10-25 16:41 credit used $26.89, billed $0.00
+2026-10-25 16:46 credit used $26.89, billed $0.00
+2026-10-25 16:51 credit used $26.89, billed $0.00
+2026-10-25 16:56 credit used $26.89, billed $0.00
+2026-10-25 17:01 credit used $26.89, billed $0.00
+2026-10-25 17:06 credit used $26.89, billed $0.00
+2026-10-25 17:11 credit used $26.89, billed $0.00
+2026-10-25 17:16 credit used $26.89, billed $0.00
+2026-10-25 17:21 credit used $26.89, billed $0.00
+2026-10-25 20:37 credit used $26.89, billed $0.00
+2026-10-25 22:05 credit used $26.89, billed $0.00
+2026-10-25 22:10 credit used $26.89, billed $0.00
+2026-10-25 22:15 credit used $26.89, billed $0.00
+2026-10-25 22:20 credit used $26.89, billed $0.00
+2026-10-25 22:25 credit used $26.89, billed $0.00
+2026-10-25 22:30 credit used $26.89, billed $0.00
+2026-10-25 22:35 credit used $26.89, billed $0.00
+2026-10-25 22:40 credit used $26.89, billed $0.00
+2026-10-25 22:45 credit used $26.89, billed $0.00
+2026-10-25 22:50 credit used $26.89, billed $0.00
+2026-10-25 22:55 credit used $26.89, billed $0.00
+2026-10-25 23:00 credit used $26.89, billed $0.00
+2026-10-26 00:00 credit used $26.89, billed $0.00
+2026-10-26 00:05 credit used $26.89, billed $0.00
+2026-10-26 00:10 credit used $26.89, billed $0.00
+2026-10-26 00:15 credit used $26.89, billed $0.00
+2026-10-26 00:20 credit used $26.89, billed $0.00
+2026-10-26 18:07 credit used $26.89, billed $0.00
+2026-10-26 18:12 credit used $26.89, billed $0.00
+2026-10-26 18:17 credit used $26.89, billed $0.00
+2026-10-26 18:22 credit used $26.89, billed $0.00
+2026-10-26 18:27 credit used $26.89, billed $0.00
+2026-10-26 18:32 credit used $26.89, billed $0.00
+2026-10-26 18:37 credit used $26.89, billed $0.00
+2026-10-26 18:42 credit used $26.89, billed $0.00
+2026-10-26 18:47 credit used $26.89, billed $0.00
+2026-10-26 18:52 credit used $26.89, billed $0.00
+2026-10-26 18:57 credit used $26.89, billed $0.00
+2026-10-26 19:02 credit used $26.89, billed $0.00
+2026-10-26 19:07 credit used $26.89, billed $0.00
+2026-10-26 19:12 credit used $26.89, billed $0.00
+2026-10-26 19:17 credit used $26.89, billed $0.00
+2026-10-26 19:22 credit used $26.89, billed $0.00
+2026-10-26 19:27 credit used $26.89, billed $0.00
+2026-10-26 19:32 credit used $26.89, billed $0.00
+2026-10-26 19:37 credit used $26.89, billed $0.00
+2026-10-26 19:42 credit used $26.89, billed $0.00
+2026-10-26 19:47 credit used $26.89, billed $0.00
+2026-10-26 19:52 credit used $26.89, billed $0.00
+2026-10-26 19:57 credit used $26.89, billed $0.00
+2026-10-26 20:02 credit used $26.89, billed $0.00
+2026-10-26 20:07 credit used $26.89, billed $0.00
+2026-10-26 20:12 credit used $26.89, billed $0.00
+2026-10-26 20:18 credit used $26.89, billed $0.00
+2026-10-26 20:23 credit used $26.89, billed $0.00
+2026-10-26 20:28 credit used $26.89, billed $0.00
+2026-10-26 20:33 credit used $26.89, billed $0.00
+2026-10-26 20:38 credit used $26.89, billed $0.00
+2026-10-26 20:43 credit used $26.89, billed $0.00
+2026-10-26 20:48 credit used $26.89, billed $0.00
+2026-10-26 20:53 credit used $26.89, billed $0.00
+2026-10-26 20:58 credit used $26.89, billed $0.00
+2026-10-26 21:03 credit used $26.89, billed $0.00
+2026-10-26 21:08 credit used $26.89, billed $0.00
+2026-10-26 21:13 credit used $26.89, billed $0.00
+2026-10-26 21:18 credit used $26.89, billed $0.00
+2026-10-26 21:23 credit used $26.89, billed $0.00
+2026-10-26 21:28 credit used $26.89, billed $0.00
+2026-10-26 21:33 credit used $26.89, billed $0.00
+2026-10-26 21:38 credit used $26.89, billed $0.00
+2026-10-26 21:43 credit used $26.89, billed $0.00
+2026-10-26 21:48 credit used $26.89, billed $0.00
+2026-10-26 21:53 credit used $26.89, billed $0.00
+2026-10-26 21:58 credit used $26.89, billed $0.00
+2026-10-26 22:03 credit used $26.89, billed $0.00
+2026-10-26 22:08 credit used $26.89, billed $0.00
+2026-10-26 22:13 credit used $26.89, billed $0.00
+2026-10-26 22:18 credit used $26.89, billed $0.00
+2026-10-26 22:23 credit used $26.89, billed $0.00
+2026-10-26 22:28 credit used $26.89, billed $0.00
+2026-10-26 22:33 credit used $26.89, billed $0.00
+2026-10-26 22:38 credit used $26.89, billed $0.00
+2026-10-26 22:43 credit used $26.89, billed $0.00
+2026-10-26 22:49 credit used $26.89, billed $0.00
+2026-10-26 22:54 credit used $26.89, billed $0.00
+2026-10-26 22:59 credit used $26.89, billed $0.00
+2026-10-26 23:04 credit used $26.89, billed $0.00
+2026-10-26 23:09 credit used $26.89, billed $0.00
+2026-10-26 23:14 credit used $26.89, billed $0.00
+2026-10-26 23:19 credit used $26.89, billed $0.00
+2026-10-26 23:24 credit used $26.89, billed $0.00
+2026-10-26 23:29 credit used $26.89, billed $0.00
+2026-10-26 23:34 credit used $26.89, billed $0.00
+2026-10-26 23:39 credit used $26.89, billed $0.00
+2026-10-26 23:44 credit used $26.89, billed $0.00
+2026-10-26 23:49 credit used $26.89, billed $0.00
+2026-10-26 23:54 credit used $26.89, billed $0.00
+2026-10-26 23:59 credit used $26.89, billed $0.00
+2026-10-27 00:04 credit used $26.89, billed $0.00
+2026-10-27 00:09 credit used $26.89, billed $0.00
+2026-10-27 00:14 credit used $26.89, billed $0.00
+2026-10-27 00:19 credit used $26.89, billed $0.00
+2026-10-27 00:24 credit used $26.89, billed $0.00
+2026-10-27 00:29 credit used $26.89, billed $0.00
+2026-10-27 00:34 credit used $26.89, billed $0.00
+2026-10-27 00:39 credit used $26.89, billed $0.00
+2026-10-27 00:44 credit used $26.89, billed $0.00
+2026-10-27 00:49 credit used $26.89, billed $0.00
+2026-10-27 00:54 credit used $26.89, billed $0.00
+2026-10-27 00:59 credit used $26.89, billed $0.00
+2026-10-27 01:04 credit used $26.89, billed $0.00
+2026-10-27 01:09 credit used $26.89, billed $0.00
+2026-10-27 01:14 credit used $26.89, billed $0.00
+2026-10-27 01:19 credit used $26.89, billed $0.00
+2026-10-27 01:25 credit used $26.89, billed $0.00
+2026-10-27 01:30 credit used $26.89, billed $0.00
+2026-10-27 01:35 credit used $26.89, billed $0.00
+2026-10-27 01:40 credit used $26.89, billed $0.00
+2026-10-27 01:45 credit used $26.89, billed $0.00
+2026-10-27 01:50 credit used $26.89, billed $0.00
+2026-10-27 01:55 credit used $26.89, billed $0.00
+2026-10-27 02:00 credit used $26.89, billed $0.00
+2026-10-27 02:05 credit used $26.89, billed $0.00
+2026-10-27 02:10 credit used $26.89, billed $0.00
+2026-10-27 02:15 credit used $26.89, billed $0.00
+2026-10-27 02:20 credit used $26.89, billed $0.00
+2026-10-27 02:25 credit used $26.89, billed $0.00
+2026-10-27 02:30 credit used $26.89, billed $0.00
+2026-10-27 02:35 credit used $26.89, billed $0.00
+2026-10-27 02:40 credit used $26.89, billed $0.00
+2026-10-27 02:45 credit used $26.89, billed $0.00
+2026-10-27 02:50 credit used $26.89, billed $0.00
+2026-10-27 02:55 credit used $26.89, billed $0.00
+2026-10-27 03:00 credit used $26.89, billed $0.00
+2026-10-27 03:05 credit used $26.89, billed $0.00
+2026-10-27 03:10 credit used $26.89, billed $0.00
+2026-10-27 03:15 credit used $26.89, billed $0.00
+2026-10-27 03:20 credit used $26.89, billed $0.00
+2026-10-27 03:25 credit used $26.89, billed $0.00
+2026-10-27 03:30 credit used $26.89, billed $0.00
+2026-10-27 03:35 credit used $26.89, billed $0.00
+2026-10-27 03:41 credit used $26.89, billed $0.00
+2026-10-27 03:46 credit used $26.89, billed $0.00
+2026-10-27 03:51 credit used $26.89, billed $0.00
+2026-10-27 03:56 credit used $26.89, billed $0.00
+2026-10-27 04:01 credit used $26.89, billed $0.00
+2026-10-27 04:06 credit used $26.89, billed $0.00
+2026-10-27 04:11 credit used $26.89, billed $0.00
+2026-10-27 04:16 credit used $26.89, billed $0.00
+2026-10-27 04:21 credit used $26.89, billed $0.00
+2026-10-27 04:26 credit used $26.89, billed $0.00
+2026-10-27 04:31 credit used $26.89, billed $0.00
+2026-10-27 04:36 credit used $26.89, billed $0.00
+2026-10-27 04:41 credit used $26.89, billed $0.00
+2026-10-27 04:46 credit used $26.89, billed $0.00
+2026-10-27 04:51 credit used $26.89, billed $0.00
+2026-10-27 04:56 credit used $26.89, billed $0.00
+2026-10-27 05:01 credit used $26.89, billed $0.00
+2026-10-27 05:06 credit used $26.89, billed $0.00
+2026-10-27 05:11 credit used $26.89, billed $0.00
+2026-10-27 05:16 credit used $26.89, billed $0.00
+2026-10-27 05:21 credit used $26.89, billed $0.00
+2026-10-27 05:26 credit used $26.89, billed $0.00
+2026-10-27 05:31 credit used $26.89, billed $0.00
+2026-10-27 05:36 credit used $26.89, billed $0.00
+2026-10-27 05:41 credit used $26.89, billed $0.00
+2026-10-27 05:46 credit used $26.89, billed $0.00
+2026-10-27 05:51 credit used $26.89, billed $0.00
+2026-10-27 05:56 credit used $26.89, billed $0.00
+2026-10-27 06:01 credit used $26.89, billed $0.00
+2026-10-27 06:06 credit used $26.89, billed $0.00
+2026-10-27 06:11 credit used $26.89, billed $0.00
+2026-10-27 06:17 credit used $26.89, billed $0.00
+2026-10-27 06:22 credit used $26.89, billed $0.00
+2026-10-27 06:27 credit used $26.89, billed $0.00
+2026-10-27 06:32 credit used $26.89, billed $0.00
+2026-10-27 06:37 credit used $26.89, billed $0.00
+2026-10-27 06:42 credit used $26.89, billed $0.00
+2026-10-27 06:47 credit used $26.89, billed $0.00
+2026-10-27 06:52 credit used $26.89, billed $0.00
+2026-10-27 06:57 credit used $26.89, billed $0.00
+2026-10-27 07:02 credit used $26.89, billed $0.00
+2026-10-27 07:07 credit used $26.89, billed $0.00
+2026-10-27 07:12 credit used $26.89, billed $0.00
+2026-10-27 07:17 credit used $26.89, billed $0.00
+2026-10-27 07:22 credit used $26.89, billed $0.00
+2026-10-27 07:27 credit used $26.89, billed $0.00
+2026-10-27 07:32 credit used $26.89, billed $0.00
+2026-10-27 07:37 credit used $26.89, billed $0.00
+2026-10-27 07:42 credit used $26.89, billed $0.00
+2026-10-27 07:47 credit used $26.89, billed $0.00
+2026-10-27 07:52 credit used $26.89, billed $0.00
+2026-10-27 07:57 credit used $26.89, billed $0.00
+2026-10-27 08:02 credit used $26.89, billed $0.00
+2026-10-27 08:07 credit used $26.89, billed $0.00
+2026-10-27 08:12 credit used $26.89, billed $0.00
+2026-10-27 08:17 credit used $26.89, billed $0.00
+2026-10-27 08:22 credit used $26.89, billed $0.00
+2026-10-27 08:27 credit used $26.89, billed $0.00
+2026-10-27 08:32 credit used $26.89, billed $0.00
+2026-10-27 08:38 credit used $26.89, billed $0.00
+2026-10-27 08:43 credit used $26.89, billed $0.00
+2026-10-27 08:48 credit used $26.89, billed $0.00
+2026-10-27 08:53 credit used $26.89, billed $0.00
+2026-10-27 08:58 credit used $26.89, billed $0.00
+2026-10-27 09:03 credit used $26.89, billed $0.00
+2026-10-27 09:08 credit used $26.89, billed $0.00
+2026-10-27 09:13 credit used $26.89, billed $0.00
+2026-10-27 09:18 credit used $26.89, billed $0.00
+2026-10-27 09:23 credit used $26.89, billed $0.00
+2026-10-27 09:28 credit used $26.89, billed $0.00
+2026-10-27 09:33 credit used $26.89, billed $0.00
+2026-10-27 09:38 credit used $26.89, billed $0.00
+2026-10-27 09:43 credit used $26.89, billed $0.00
+2026-10-27 09:48 credit used $26.89, billed $0.00
+2026-10-27 09:53 credit used $26.89, billed $0.00
+2026-10-27 09:58 credit used $26.89, billed $0.00
+2026-10-27 10:03 credit used $26.89, billed $0.00
+2026-10-27 10:08 credit used $26.89, billed $0.00
+2026-10-27 10:13 credit used $26.89, billed $0.00
+2026-10-27 10:18 credit used $26.89, billed $0.00
+2026-10-27 10:23 credit used $26.89, billed $0.00
+2026-10-27 10:28 credit used $26.89, billed $0.00
+2026-10-27 10:33 credit used $26.89, billed $0.00
+2026-10-27 10:38 credit used $26.89, billed $0.00
+2026-10-27 10:43 credit used $26.89, billed $0.00
+2026-10-27 10:48 credit used $26.89, billed $0.00
+2026-10-27 10:53 credit used $26.89, billed $0.00
+2026-10-27 10:58 credit used $26.89, billed $0.00
+2026-10-27 11:03 credit used $26.89, billed $0.00
+2026-10-27 11:09 credit used $26.89, billed $0.00
+2026-10-27 11:14 credit used $26.89, billed $0.00
+2026-10-27 11:19 credit used $26.89, billed $0.00
+2026-10-27 11:24 credit used $26.89, billed $0.00
+2026-10-27 11:29 credit used $26.89, billed $0.00
+2026-10-27 11:34 credit used $26.89, billed $0.00
+2026-10-27 11:39 credit used $26.89, billed $0.00
+2026-10-27 11:44 credit used $26.89, billed $0.00
+2026-10-27 11:49 credit used $26.89, billed $0.00
+2026-10-27 11:54 credit used $26.89, billed $0.00
+2026-10-27 11:59 credit used $26.89, billed $0.00
+2026-10-27 12:04 credit used $26.89, billed $0.00
+2026-10-27 12:09 credit used $26.89, billed $0.00
+2026-10-27 12:14 credit used $26.89, billed $0.00
+2026-10-27 12:19 credit used $26.89, billed $0.00
+2026-10-27 12:24 credit used $26.89, billed $0.00
+2026-10-27 12:29 credit used $26.89, billed $0.00
+2026-10-27 12:34 credit used $26.89, billed $0.00
+2026-10-27 12:39 credit used $26.89, billed $0.00
+2026-10-27 12:44 credit used $26.89, billed $0.00
+2026-10-27 12:49 credit used $26.89, billed $0.00
+2026-10-27 12:54 credit used $26.89, billed $0.00
+2026-10-27 12:59 credit used $26.89, billed $0.00
+2026-10-27 13:04 credit used $26.89, billed $0.00
+2026-10-27 13:09 credit used $26.89, billed $0.00
+2026-10-27 13:14 credit used $26.89, billed $0.00
+2026-10-27 13:19 credit used $26.89, billed $0.00
+2026-10-27 13:24 credit used $26.89, billed $0.00
+2026-10-27 13:29 credit used $26.89, billed $0.00
+2026-10-27 13:34 credit used $26.89, billed $0.00
+2026-10-27 13:39 credit used $26.89, billed $0.00
+2026-10-27 13:45 credit used $26.89, billed $0.00
+2026-10-27 13:50 credit used $26.89, billed $0.00
+2026-10-27 13:55 credit used $26.89, billed $0.00
+2026-10-27 14:00 credit used $26.89, billed $0.00
+2026-10-27 14:05 credit used $26.89, billed $0.00
+2026-10-27 14:10 credit used $26.89, billed $0.00
+2026-10-27 14:15 credit used $26.89, billed $0.00
+2026-10-27 14:20 credit used $26.89, billed $0.00
+2026-10-27 14:25 credit used $26.89, billed $0.00
+2026-10-27 14:30 credit used $26.89, billed $0.00
+2026-10-27 14:35 credit used $26.89, billed $0.00
+2026-10-27 14:40 credit used $26.89, billed $0.00
+2026-10-27 14:45 credit used $26.89, billed $0.00
+2026-10-27 14:50 credit used $26.89, billed $0.00
+2026-10-27 14:55 credit used $26.89, billed $0.00
+2026-10-27 15:00 credit used $26.89, billed $0.00
+2026-10-27 15:05 credit used $26.89, billed $0.00
+2026-10-27 15:10 credit used $26.89, billed $0.00
+2026-10-27 15:15 credit used $26.89, billed $0.00
+2026-10-27 15:20 credit used $26.89, billed $0.00
+2026-10-27 15:25 credit used $26.89, billed $0.00
+2026-10-27 15:31 credit used $26.89, billed $0.00
+2026-10-27 17:26 credit used $26.89, billed $0.00
+2026-10-27 17:31 credit used $26.89, billed $0.00
+2026-10-27 17:36 credit used $26.89, billed $0.00
+2026-10-27 17:41 credit used $26.89, billed $0.00
+2026-10-27 17:46 credit used $26.89, billed $0.00
+2026-10-27 17:51 credit used $26.89, billed $0.00
+2026-10-27 17:56 credit used $26.89, billed $0.00
+2026-10-27 18:01 credit used $26.89, billed $0.00
+2026-10-27 18:06 credit used $26.89, billed $0.00
+2026-10-27 18:11 credit used $26.89, billed $0.00
+2026-10-27 19:13 credit used $26.89, billed $0.00
+2026-10-27 19:52 credit used $26.89, billed $0.00
+2026-10-27 20:42 credit used $26.89, billed $0.00
+2026-10-27 22:22 credit used $26.89, billed $0.00
+2026-10-28 00:20 credit used $26.89, billed $0.00
+2026-10-28 00:25 credit used $26.89, billed $0.00
+2026-10-28 00:30 credit used $26.89, billed $0.00
+2026-10-28 00:35 credit used $26.89, billed $0.00
+2026-10-28 00:40 credit used $26.89, billed $0.00
+2026-10-28 00:45 credit used $26.89, billed $0.00
+2026-10-28 00:50 credit used $26.89, billed $0.00
+2026-10-28 00:55 credit used $26.89, billed $0.00
+2026-10-28 01:00 credit used $26.89, billed $0.00
+2026-10-28 01:05 credit used $26.89, billed $0.00
+2026-10-28 01:10 credit used $26.89, billed $0.00
+2026-10-28 01:15 credit used $26.89, billed $0.00
+2026-10-28 01:20 credit used $26.89, billed $0.00
+2026-10-28 01:25 credit used $26.89, billed $0.00
+2026-10-28 01:30 credit used $26.89, billed $0.00
+2026-10-28 01:35 credit used $26.89, billed $0.00
+2026-10-28 01:40 credit used $26.89, billed $0.00
+2026-10-28 01:45 credit used $26.89, billed $0.00
+2026-10-28 01:51 credit used $26.89, billed $0.00
+2026-10-28 01:56 credit used $26.89, billed $0.00
+2026-10-28 02:01 credit used $26.89, billed $0.00
+2026-10-28 02:06 credit used $26.89, billed $0.00
+2026-10-28 02:11 credit used $26.89, billed $0.00
+2026-10-28 02:16 credit used $26.89, billed $0.00
+2026-10-28 02:21 credit used $26.89, billed $0.00
+2026-10-28 02:26 credit used $26.89, billed $0.00
+2026-10-28 02:31 credit used $26.89, billed $0.00
+2026-10-28 02:36 credit used $26.89, billed $0.00
+2026-10-28 02:41 credit used $26.89, billed $0.00
+2026-10-28 02:46 credit used $26.89, billed $0.00
+2026-10-28 02:51 credit used $26.89, billed $0.00
+2026-10-28 02:56 credit used $26.89, billed $0.00
+2026-10-28 03:01 credit used $26.89, billed $0.00
+2026-10-28 03:06 credit used $26.89, billed $0.00
+2026-10-28 03:11 credit used $26.89, billed $0.00
+2026-10-28 03:16 credit used $26.89, billed $0.00
+2026-10-28 03:21 credit used $26.89, billed $0.00
+2026-10-28 03:26 credit used $26.89, billed $0.00
+2026-10-28 03:31 credit used $26.89, billed $0.00
+2026-10-28 03:36 credit used $26.89, billed $0.00
+2026-10-28 03:41 credit used $26.89, billed $0.00
+2026-10-28 03:46 credit used $26.89, billed $0.00
+2026-10-28 03:51 credit used $26.89, billed $0.00
+2026-10-28 03:56 credit used $26.89, billed $0.00
+2026-10-28 04:01 credit used $26.89, billed $0.00
+2026-10-28 04:06 credit used $26.89, billed $0.00
+2026-10-28 04:11 credit used $26.89, billed $0.00
+2026-10-28 04:16 credit used $26.89, billed $0.00
+2026-10-28 04:21 credit used $26.89, billed $0.00
+2026-10-28 04:27 credit used $26.89, billed $0.00
+2026-10-28 04:32 credit used $26.89, billed $0.00
+2026-10-28 04:37 credit used $26.89, billed $0.00
+2026-10-28 04:42 credit used $26.89, billed $0.00
+2026-10-28 04:47 credit used $26.89, billed $0.00
+2026-10-28 04:52 credit used $26.89, billed $0.00
+2026-10-28 04:57 credit used $26.89, billed $0.00
+2026-10-28 05:02 credit used $26.89, billed $0.00
+2026-10-28 05:07 credit used $26.89, billed $0.00
+2026-10-28 05:12 credit used $26.89, billed $0.00
+2026-10-28 05:17 credit used $26.89, billed $0.00
+2026-10-28 05:22 credit used $26.89, billed $0.00
+2026-10-28 05:27 credit used $26.89, billed $0.00
+2026-10-28 05:32 credit used $26.89, billed $0.00
+2026-10-28 05:37 credit used $26.89, billed $0.00
+2026-10-28 05:42 credit used $26.89, billed $0.00
+2026-10-28 05:47 credit used $26.89, billed $0.00
+2026-10-28 05:52 credit used $26.89, billed $0.00
+2026-10-28 05:57 credit used $26.89, billed $0.00
+2026-10-28 06:02 credit used $26.89, billed $0.00
+2026-10-28 06:07 credit used $26.89, billed $0.00
+2026-10-28 06:12 credit used $26.89, billed $0.00
+2026-10-28 06:17 credit used $26.89, billed $0.00
+2026-10-28 06:22 credit used $26.89, billed $0.00
+2026-10-28 06:27 credit used $26.89, billed $0.00
+2026-10-28 06:32 credit used $26.89, billed $0.00
+2026-10-28 06:37 credit used $26.89, billed $0.00
+2026-10-28 06:42 credit used $26.89, billed $0.00
+2026-10-28 06:47 credit used $26.89, billed $0.00
+2026-10-28 06:52 credit used $26.89, billed $0.00
+2026-10-28 06:57 credit used $26.89, billed $0.00
+2026-10-28 07:03 credit used $26.89, billed $0.00
+2026-10-28 07:08 credit used $26.89, billed $0.00
+2026-10-28 07:13 credit used $26.89, billed $0.00
+2026-10-28 07:18 credit used $26.89, billed $0.00
+2026-10-28 07:23 credit used $26.89, billed $0.00
+2026-10-28 07:28 credit used $26.89, billed $0.00
+2026-10-28 07:33 credit used $26.89, billed $0.00
+2026-10-28 07:38 credit used $26.89, billed $0.00
+2026-10-28 07:43 credit used $26.89, billed $0.00
+2026-10-28 07:48 credit used $26.89, billed $0.00
+2026-10-28 07:53 credit used $26.89, billed $0.00
+2026-10-28 07:58 credit used $26.89, billed $0.00
+2026-10-28 08:03 credit used $26.89, billed $0.00
+2026-10-28 08:08 credit used $26.89, billed $0.00
+2026-10-28 08:13 credit used $26.89, billed $0.00
+2026-10-28 08:18 credit used $26.89, billed $0.00
+2026-10-28 08:23 credit used $26.89, billed $0.00
+2026-10-28 08:28 credit used $26.89, billed $0.00
+2026-10-28 08:33 credit used $26.89, billed $0.00
+2026-10-28 08:38 credit used $26.89, billed $0.00
+2026-10-28 08:43 credit used $26.89, billed $0.00
+2026-10-28 08:48 credit used $26.89, billed $0.00
+2026-10-28 08:53 credit used $26.89, billed $0.00
+2026-10-28 08:58 credit used $26.89, billed $0.00
+2026-10-28 09:03 credit used $26.89, billed $0.00
+2026-10-28 09:08 credit used $26.89, billed $0.00
+2026-10-28 09:13 credit used $26.89, billed $0.00
+2026-10-28 09:18 credit used $26.89, billed $0.00
+2026-10-28 09:23 credit used $26.89, billed $0.00
+2026-10-28 09:28 credit used $26.89, billed $0.00
+2026-10-28 09:33 credit used $26.89, billed $0.00
+2026-10-28 09:39 credit used $26.89, billed $0.00
+2026-10-28 09:44 credit used $26.89, billed $0.00
+2026-10-28 09:49 credit used $26.89, billed $0.00
+2026-10-28 09:54 credit used $26.89, billed $0.00
+2026-10-28 09:59 credit used $26.89, billed $0.00
+2026-10-28 10:04 credit used $26.89, billed $0.00
+2026-10-28 10:09 credit used $26.89, billed $0.00
+2026-10-28 10:14 credit used $26.89, billed $0.00
+2026-10-28 10:19 credit used $26.89, billed $0.00
+2026-10-28 10:24 credit used $26.89, billed $0.00
+2026-10-28 10:29 credit used $26.89, billed $0.00
+2026-10-28 10:34 credit used $26.89, billed $0.00
+2026-10-28 10:39 credit used $26.89, billed $0.00
+2026-10-28 10:44 credit used $26.89, billed $0.00
+2026-10-28 10:49 credit used $26.89, billed $0.00
+2026-10-28 10:54 credit used $26.89, billed $0.00
+2026-10-28 10:59 credit used $26.89, billed $0.00
+2026-10-28 11:04 credit used $26.89, billed $0.00
+2026-10-28 11:09 credit used $26.89, billed $0.00
+2026-10-28 11:14 credit used $26.89, billed $0.00
+2026-10-28 11:19 credit used $26.89, billed $0.00
+2026-10-28 11:24 credit used $26.89, billed $0.00
+2026-10-28 11:29 credit used $26.89, billed $0.00
+2026-10-28 11:34 credit used $26.89, billed $0.00
+2026-10-28 11:39 credit used $26.89, billed $0.00
+2026-10-28 11:44 credit used $26.89, billed $0.00
+2026-10-28 11:49 credit used $26.89, billed $0.00
+2026-10-28 11:54 credit used $26.89, billed $0.00
+2026-10-28 11:59 credit used $26.89, billed $0.00
+2026-10-28 12:04 credit used $26.89, billed $0.00
+2026-10-28 12:09 credit used $26.89, billed $0.00
+2026-10-28 12:14 credit used $26.89, billed $0.00
+2026-10-28 12:20 credit used $26.89, billed $0.00
+2026-10-28 12:25 credit used $26.89, billed $0.00
+2026-10-28 12:30 credit used $26.89, billed $0.00
+2026-10-28 12:35 credit used $26.89, billed $0.00
+2026-10-28 12:40 credit used $26.89, billed $0.00
+2026-10-28 12:45 credit used $26.89, billed $0.00
+2026-10-28 12:50 credit used $26.89, billed $0.00
+2026-10-28 12:55 credit used $26.89, billed $0.00
+2026-10-28 13:00 credit used $26.89, billed $0.00
+2026-10-28 13:05 credit used $26.89, billed $0.00
+2026-10-28 13:10 credit used $26.89, billed $0.00
+2026-10-28 13:15 credit used $26.89, billed $0.00
+2026-10-28 13:20 credit used $26.89, billed $0.00
+2026-10-28 13:25 credit used $26.89, billed $0.00
+2026-10-28 13:30 credit used $26.89, billed $0.00
+2026-10-28 13:35 credit used $26.89, billed $0.00
+2026-10-28 13:40 credit used $26.89, billed $0.00
+2026-10-28 13:45 credit used $26.89, billed $0.00
+2026-10-28 13:50 credit used $26.89, billed $0.00
+2026-10-28 13:55 credit used $26.89, billed $0.00
+2026-10-28 14:00 credit used $26.89, billed $0.00
+2026-10-28 14:05 credit used $26.89, billed $0.00
+2026-10-28 14:10 credit used $26.89, billed $0.00
+2026-10-28 14:15 credit used $26.89, billed $0.00
+2026-10-28 14:20 credit used $26.89, billed $0.00
+2026-10-28 14:25 credit used $26.89, billed $0.00
+2026-10-28 14:30 credit used $26.89, billed $0.00
+2026-10-28 14:35 credit used $26.89, billed $0.00
+2026-10-28 14:40 credit used $26.89, billed $0.00
+2026-10-28 14:45 credit used $26.89, billed $0.00
+2026-10-28 14:50 credit used $26.89, billed $0.00
+2026-10-28 14:56 credit used $26.89, billed $0.00
+2026-10-28 15:01 credit used $26.89, billed $0.00
+2026-10-28 15:06 credit used $26.89, billed $0.00
+2026-10-28 15:11 credit used $26.89, billed $0.00
+2026-10-28 15:16 credit used $26.89, billed $0.00
+2026-10-28 15:21 credit used $26.89, billed $0.00
+2026-10-28 15:26 credit used $26.89, billed $0.00
+2026-10-28 15:31 credit used $26.89, billed $0.00
+2026-10-28 15:36 credit used $26.89, billed $0.00
+2026-10-28 15:41 credit used $26.89, billed $0.00
+2026-10-28 15:46 credit used $26.89, billed $0.00
+2026-10-28 15:51 credit used $26.89, billed $0.00
+2026-10-28 15:56 credit used $26.89, billed $0.00
+2026-10-28 16:01 credit used $26.89, billed $0.00
+2026-10-28 16:06 credit used $26.89, billed $0.00
+2026-10-28 16:11 credit used $26.89, billed $0.00
+2026-10-28 16:16 credit used $26.89, billed $0.00
+2026-10-28 16:21 credit used $26.89, billed $0.00
+2026-10-28 16:26 credit used $26.89, billed $0.00
+2026-10-28 16:31 credit used $26.89, billed $0.00
+2026-10-28 16:36 credit used $26.89, billed $0.00
+2026-10-28 16:41 credit used $26.89, billed $0.00
+2026-10-28 16:46 credit used $26.89, billed $0.00
+2026-10-28 16:51 credit used $26.89, billed $0.00
+2026-10-28 17:13 credit used $26.89, billed $0.00
+2026-10-28 19:02 credit used $26.89, billed $0.00
+2026-10-28 21:59 credit used $26.89, billed $0.00
+2026-10-28 23:37 credit used $26.89, billed $0.00
+2026-10-29 00:01 credit used $26.89, billed $0.00
+2026-10-29 00:07 credit used $26.89, billed $0.00
+2026-10-29 00:12 credit used $26.89, billed $0.00
+2026-10-29 00:17 credit used $26.89, billed $0.00
+2026-10-29 00:22 credit used $26.89, billed $0.00
+2026-10-29 00:27 credit used $26.89, billed $0.00
+2026-10-29 00:32 credit used $26.89, billed $0.00
+2026-10-29 00:37 credit used $26.89, billed $0.00
+2026-10-29 00:42 credit used $26.89, billed $0.00
+2026-10-29 00:47 credit used $26.89, billed $0.00
+2026-10-29 00:52 credit used $26.89, billed $0.00
+2026-10-29 00:57 credit used $26.89, billed $0.00
+2026-10-29 01:02 credit used $26.89, billed $0.00
+2026-10-29 01:07 credit used $26.89, billed $0.00
+2026-10-29 01:12 credit used $26.89, billed $0.00
+2026-10-29 01:17 credit used $26.89, billed $0.00
+2026-10-29 01:22 credit used $26.89, billed $0.00
+2026-10-29 01:27 credit used $26.89, billed $0.00
+2026-10-29 01:32 credit used $26.89, billed $0.00
+2026-10-29 01:37 credit used $26.89, billed $0.00
+2026-10-29 01:42 credit used $26.89, billed $0.00
+2026-10-29 01:47 credit used $26.89, billed $0.00
+2026-10-29 01:52 credit used $26.89, billed $0.00
+2026-10-29 01:57 credit used $26.89, billed $0.00
+2026-10-29 02:02 credit used $26.89, billed $0.00
+2026-10-29 02:07 credit used $26.89, billed $0.00
+2026-10-29 02:12 credit used $26.89, billed $0.00
+2026-10-29 02:17 credit used $26.89, billed $0.00
+2026-10-29 02:22 credit used $26.89, billed $0.00
+2026-10-29 02:27 credit used $26.89, billed $0.00
+2026-10-29 02:33 credit used $26.89, billed $0.00
+2026-10-29 02:38 credit used $26.89, billed $0.00
+2026-10-29 02:43 credit used $26.89, billed $0.00
+2026-10-29 02:48 credit used $26.89, billed $0.00
+2026-10-29 02:53 credit used $26.89, billed $0.00
+2026-10-29 02:58 credit used $26.89, billed $0.00
+2026-10-29 03:03 credit used $26.89, billed $0.00
+2026-10-29 03:08 credit used $26.89, billed $0.00
+2026-10-29 03:13 credit used $26.89, billed $0.00
+2026-10-29 03:18 credit used $26.89, billed $0.00
+2026-10-29 03:23 credit used $26.89, billed $0.00
+2026-10-29 03:28 credit used $26.89, billed $0.00
+2026-10-29 03:33 credit used $26.89, billed $0.00
+2026-10-29 03:38 credit used $26.89, billed $0.00
+2026-10-29 03:43 credit used $26.89, billed $0.00
+2026-10-29 03:48 credit used $26.89, billed $0.00
+2026-10-29 03:53 credit used $26.89, billed $0.00
+2026-10-29 03:58 credit used $26.89, billed $0.00
+2026-10-29 04:03 credit used $26.89, billed $0.00
+2026-10-29 04:08 credit used $26.89, billed $0.00
+2026-10-29 04:13 credit used $26.89, billed $0.00
+2026-10-29 04:18 credit used $26.89, billed $0.00
+2026-10-29 04:23 credit used $26.89, billed $0.00
+2026-10-29 04:28 credit used $26.89, billed $0.00
+2026-10-29 04:33 credit used $26.89, billed $0.00
+2026-10-29 04:38 credit used $26.89, billed $0.00
+2026-10-29 04:43 credit used $26.89, billed $0.00
+2026-10-29 04:48 credit used $26.89, billed $0.00
+2026-10-29 04:53 credit used $26.89, billed $0.00
+2026-10-29 04:58 credit used $26.89, billed $0.00
+2026-10-29 05:03 credit used $26.89, billed $0.00
+2026-10-29 05:09 credit used $26.89, billed $0.00
+2026-10-29 05:14 credit used $26.89, billed $0.00
+2026-10-29 05:19 credit used $26.89, billed $0.00
+2026-10-29 05:24 credit used $26.89, billed $0.00
+2026-10-29 05:29 credit used $26.89, billed $0.00
+2026-10-29 05:34 credit used $26.89, billed $0.00
+2026-10-29 05:39 credit used $26.89, billed $0.00
+2026-10-29 05:44 credit used $26.89, billed $0.00
+2026-10-29 05:49 credit used $26.89, billed $0.00
+2026-10-29 05:54 credit used $26.89, billed $0.00
+2026-10-29 05:59 credit used $26.89, billed $0.00
+2026-10-29 06:04 credit used $26.89, billed $0.00
+2026-10-29 06:09 credit used $26.89, billed $0.00
+2026-10-29 06:14 credit used $26.89, billed $0.00
+2026-10-29 06:19 credit used $26.89, billed $0.00
+2026-10-29 06:24 credit used $26.89, billed $0.00
+2026-10-29 06:29 credit used $26.89, billed $0.00
+2026-10-29 06:34 credit used $26.89, billed $0.00
+2026-10-29 06:39 credit used $26.89, billed $0.00
+2026-10-29 06:44 credit used $26.89, billed $0.00
+2026-10-29 06:49 credit used $26.89, billed $0.00
+2026-10-29 06:54 credit used $26.89, billed $0.00
+2026-10-29 06:59 credit used $26.89, billed $0.00
+2026-10-29 07:04 credit used $26.89, billed $0.00
+2026-10-29 07:09 credit used $26.89, billed $0.00
+2026-10-29 07:14 credit used $26.89, billed $0.00
+2026-10-29 07:19 credit used $26.89, billed $0.00
+2026-10-29 07:24 credit used $26.89, billed $0.00
+2026-10-29 07:29 credit used $26.89, billed $0.00
+2026-10-29 07:34 credit used $26.89, billed $0.00
+2026-10-29 07:39 credit used $26.89, billed $0.00
+2026-10-29 07:45 credit used $26.89, billed $0.00
+2026-10-29 07:50 credit used $26.89, billed $0.00
+2026-10-29 07:55 credit used $26.89, billed $0.00
+2026-10-29 08:00 credit used $26.89, billed $0.00
+2026-10-29 08:05 credit used $26.89, billed $0.00
+2026-10-29 08:10 credit used $26.89, billed $0.00
+2026-10-29 08:15 credit used $26.89, billed $0.00
+2026-10-29 08:20 credit used $26.89, billed $0.00
+2026-10-29 08:25 credit used $26.89, billed $0.00
+2026-10-29 08:30 credit used $26.89, billed $0.00
+2026-10-29 08:35 credit used $26.89, billed $0.00
+2026-10-29 08:40 credit used $26.89, billed $0.00
+2026-10-29 08:45 credit used $26.89, billed $0.00
+2026-10-29 08:50 credit used $26.89, billed $0.00
+2026-10-29 08:55 credit used $26.89, billed $0.00
+2026-10-29 09:00 credit used $26.89, billed $0.00
+2026-10-29 09:05 credit used $26.89, billed $0.00
+2026-10-29 09:10 credit used $26.89, billed $0.00
+2026-10-29 09:15 credit used $26.89, billed $0.00
+2026-10-29 09:20 credit used $26.89, billed $0.00
+2026-10-29 09:25 credit used $26.89, billed $0.00
+2026-10-29 09:30 credit used $26.89, billed $0.00
+2026-10-29 09:35 credit used $26.89, billed $0.00
+2026-10-29 09:40 credit used $26.89, billed $0.00
+2026-10-29 09:45 credit used $26.89, billed $0.00
+2026-10-29 09:50 credit used $26.89, billed $0.00
+2026-10-29 09:55 credit used $26.89, billed $0.00
+2026-10-29 10:00 credit used $26.89, billed $0.00
+2026-10-29 10:05 credit used $26.89, billed $0.00
+2026-10-29 10:10 credit used $26.89, billed $0.00
+2026-10-29 10:16 credit used $26.89, billed $0.00
+2026-10-29 10:21 credit used $26.89, billed $0.00
+2026-10-29 10:26 credit used $26.89, billed $0.00
+2026-10-29 10:31 credit used $26.89, billed $0.00
+2026-10-29 10:36 credit used $26.89, billed $0.00
+2026-10-29 10:41 credit used $26.89, billed $0.00
+2026-10-29 10:46 credit used $26.89, billed $0.00
+2026-10-29 10:51 credit used $26.89, billed $0.00
+2026-10-29 10:56 credit used $26.89, billed $0.00
+2026-10-29 11:01 credit used $26.89, billed $0.00
+2026-10-29 11:06 credit used $26.89, billed $0.00
+2026-10-29 11:11 credit used $26.89, billed $0.00
+2026-10-29 11:16 credit used $26.89, billed $0.00
+2026-10-29 11:21 credit used $26.89, billed $0.00
+2026-10-29 11:26 credit used $26.89, billed $0.00
+2026-10-29 11:31 credit used $26.89, billed $0.00
+2026-10-29 11:36 credit used $26.89, billed $0.00
+2026-10-29 11:41 credit used $26.89, billed $0.00
+2026-10-29 11:46 credit used $26.89, billed $0.00
+2026-10-29 11:51 credit used $26.89, billed $0.00
+2026-10-29 11:56 credit used $26.89, billed $0.00
+2026-10-29 12:01 credit used $26.89, billed $0.00
+2026-10-29 12:06 credit used $26.89, billed $0.00
+2026-10-29 12:11 credit used $26.89, billed $0.00
+2026-10-29 12:16 credit used $26.89, billed $0.00
+2026-10-29 12:21 credit used $26.89, billed $0.00
+2026-10-29 12:26 credit used $26.89, billed $0.00
+2026-10-29 12:31 credit used $26.89, billed $0.00
+2026-10-29 12:36 credit used $26.89, billed $0.00
+2026-10-29 12:41 credit used $26.89, billed $0.00
+2026-10-29 12:47 credit used $26.89, billed $0.00
+2026-10-29 12:52 credit used $26.89, billed $0.00
+2026-10-29 12:57 credit used $26.89, billed $0.00
+2026-10-29 13:02 credit used $26.89, billed $0.00
+2026-10-29 13:07 credit used $26.89, billed $0.00
+2026-10-29 13:12 credit used $26.89, billed $0.00
+2026-10-29 13:17 credit used $26.89, billed $0.00
+2026-10-29 13:22 credit used $26.89, billed $0.00
+2026-10-29 13:27 credit used $26.89, billed $0.00
+2026-10-29 13:32 credit used $26.89, billed $0.00
+2026-10-29 13:37 credit used $26.89, billed $0.00
+2026-10-29 13:42 credit used $26.89, billed $0.00
+2026-10-29 13:47 credit used $26.89, billed $0.00
+2026-10-29 13:52 credit used $26.89, billed $0.00
+2026-10-29 13:57 credit used $26.89, billed $0.00
+2026-10-29 14:02 credit used $26.89, billed $0.00
+2026-10-29 14:07 credit used $26.89, billed $0.00
+2026-10-29 14:12 credit used $26.89, billed $0.00
+2026-10-29 14:17 credit used $26.89, billed $0.00
+2026-10-29 14:22 credit used $26.89, billed $0.00
+2026-10-29 14:27 credit used $26.89, billed $0.00
+2026-10-29 14:32 credit used $26.89, billed $0.00
+2026-10-29 14:37 credit used $26.89, billed $0.00
+2026-10-29 14:42 credit used $26.89, billed $0.00
+2026-10-29 14:47 credit used $26.89, billed $0.00
+2026-10-29 14:52 credit used $26.89, billed $0.00
+2026-10-29 14:57 credit used $26.89, billed $0.00
+2026-10-29 15:02 credit used $26.89, billed $0.00
+2026-10-29 15:07 credit used $26.89, billed $0.00
+2026-10-29 15:12 credit used $26.89, billed $0.00
+2026-10-29 15:17 credit used $26.89, billed $0.00
+2026-10-29 15:23 credit used $26.89, billed $0.00
+2026-10-29 15:28 credit used $26.89, billed $0.00
+2026-10-29 15:33 credit used $26.89, billed $0.00
+2026-10-29 15:38 credit used $26.89, billed $0.00
+2026-10-29 15:43 credit used $26.89, billed $0.00
+2026-10-29 15:48 credit used $26.89, billed $0.00
+2026-10-29 15:53 credit used $26.89, billed $0.00
+2026-10-29 15:58 credit used $26.89, billed $0.00
+2026-10-29 16:03 credit used $26.89, billed $0.00
+2026-10-29 16:08 credit used $26.89, billed $0.00
+2026-10-29 16:13 credit used $26.89, billed $0.00
+2026-10-29 16:18 credit used $26.89, billed $0.00
+2026-10-29 16:23 credit used $26.89, billed $0.00
+2026-10-29 16:28 credit used $26.89, billed $0.00
+2026-10-29 16:33 credit used $26.89, billed $0.00
+2026-10-29 16:38 credit used $26.89, billed $0.00
+2026-10-29 16:43 credit used $26.89, billed $0.00
+2026-10-29 16:48 credit used $26.89, billed $0.00
+2026-10-29 16:53 credit used $26.89, billed $0.00
+2026-10-29 16:58 credit used $26.89, billed $0.00
+2026-10-29 17:03 credit used $26.89, billed $0.00
+2026-10-29 17:08 credit used $26.89, billed $0.00
+2026-10-29 17:13 credit used $26.89, billed $0.00
+2026-10-29 17:18 credit used $26.89, billed $0.00
+2026-10-29 17:23 credit used $26.89, billed $0.00
+2026-10-29 17:28 credit used $26.89, billed $0.00
+2026-10-29 17:33 credit used $26.89, billed $0.00
+2026-10-29 17:38 credit used $26.89, billed $0.00
+2026-10-29 17:43 credit used $26.89, billed $0.00
+2026-10-29 17:48 credit used $26.89, billed $0.00
+2026-10-29 17:53 credit used $26.89, billed $0.00
+2026-10-29 17:59 credit used $26.89, billed $0.00
+2026-10-29 18:04 credit used $26.89, billed $0.00
+2026-10-29 18:09 credit used $26.89, billed $0.00
+2026-10-29 18:14 credit used $26.89, billed $0.00
+2026-10-29 18:19 credit used $26.89, billed $0.00
+2026-10-29 18:24 credit used $26.89, billed $0.00
+2026-10-29 18:29 credit used $26.89, billed $0.00
+2026-10-29 18:34 credit used $26.89, billed $0.00
+2026-10-29 18:39 credit used $26.89, billed $0.00
+2026-10-29 18:44 credit used $26.89, billed $0.00
+2026-10-29 18:49 credit used $26.89, billed $0.00
+2026-10-29 18:54 credit used $26.89, billed $0.00
+2026-10-29 18:59 credit used $26.89, billed $0.00
+2026-10-29 19:04 credit used $26.89, billed $0.00
+2026-10-29 19:09 credit used $26.89, billed $0.00
+2026-10-29 19:14 credit used $26.89, billed $0.00
+2026-10-29 19:19 credit used $26.89, billed $0.00
+2026-10-29 19:24 credit used $26.89, billed $0.00
+2026-10-29 19:29 credit used $26.89, billed $0.00
+2026-10-29 19:34 credit used $26.89, billed $0.00
+2026-10-29 19:39 credit used $26.89, billed $0.00
+2026-10-29 19:44 credit used $26.89, billed $0.00
+2026-10-29 19:49 credit used $26.89, billed $0.00
+2026-10-29 19:54 credit used $26.89, billed $0.00
+2026-10-29 19:59 credit used $26.89, billed $0.00
+2026-10-29 20:04 credit used $26.89, billed $0.00
+2026-10-29 20:09 credit used $26.89, billed $0.00
+2026-10-29 20:14 credit used $26.89, billed $0.00
+2026-10-29 20:19 credit used $26.89, billed $0.00
+2026-10-29 20:24 credit used $26.89, billed $0.00
+2026-10-29 20:30 credit used $26.89, billed $0.00
+2026-10-29 20:35 credit used $26.89, billed $0.00
+2026-10-29 20:40 credit used $26.89, billed $0.00
+2026-10-29 20:45 credit used $26.89, billed $0.00
+2026-10-29 20:50 credit used $26.89, billed $0.00
+2026-10-29 20:55 credit used $26.89, billed $0.00
+2026-10-29 21:00 credit used $26.89, billed $0.00
+2026-10-29 21:05 credit used $26.89, billed $0.00
+2026-10-29 21:10 credit used $26.89, billed $0.00
+2026-10-29 21:15 credit used $26.89, billed $0.00
+2026-10-29 21:20 credit used $26.89, billed $0.00
+2026-10-29 21:25 credit used $26.89, billed $0.00
+2026-10-29 21:30 credit used $26.89, billed $0.00
+2026-10-29 21:35 credit used $26.89, billed $0.00
+2026-10-29 21:40 credit used $26.89, billed $0.00
+2026-10-29 21:45 credit used $26.89, billed $0.00
+2026-10-29 21:50 credit used $26.89, billed $0.00
+2026-10-29 21:55 credit used $26.89, billed $0.00
+2026-10-29 22:00 credit used $26.89, billed $0.00
+2026-10-29 22:05 credit used $26.89, billed $0.00
+2026-10-29 22:10 credit used $26.89, billed $0.00
+2026-10-29 22:15 credit used $26.89, billed $0.00
+2026-10-29 22:20 credit used $26.89, billed $0.00
+2026-10-29 22:25 credit used $26.89, billed $0.00
+2026-10-29 22:30 credit used $26.89, billed $0.00
+2026-10-29 22:35 credit used $26.89, billed $0.00
+2026-10-29 22:40 credit used $26.89, billed $0.00
+2026-10-29 22:45 credit used $26.89, billed $0.00
+2026-10-29 22:51 credit used $26.89, billed $0.00
+2026-10-29 22:56 credit used $26.89, billed $0.00
+2026-10-29 23:01 credit used $26.89, billed $0.00
+2026-10-29 23:06 credit used $26.89, billed $0.00
+2026-10-29 23:11 credit used $26.89, billed $0.00
+2026-10-29 23:16 credit used $26.89, billed $0.00
+2026-10-29 23:21 credit used $26.89, billed $0.00
+2026-10-29 23:26 credit used $26.89, billed $0.00
+2026-10-29 23:31 credit used $26.89, billed $0.00
+2026-10-29 23:36 credit used $26.89, billed $0.00
+2026-10-29 23:41 credit used $26.89, billed $0.00
+2026-10-29 23:46 credit used $26.89, billed $0.00
+2026-10-29 23:51 credit used $26.89, billed $0.00
+2026-10-29 23:56 credit used $26.89, billed $0.00
+2026-10-30 00:01 credit used $26.89, billed $0.00
+2026-10-30 00:06 credit used $26.89, billed $0.00
+2026-10-30 00:11 credit used $26.89, billed $0.00
+2026-10-30 00:16 credit used $26.89, billed $0.00
+2026-10-30 00:21 credit used $26.89, billed $0.00
+2026-10-30 00:26 credit used $26.89, billed $0.00
+2026-10-30 00:31 credit used $26.89, billed $0.00
+2026-10-30 00:36 credit used $26.89, billed $0.00
+2026-10-30 00:41 credit used $26.89, billed $0.00
+2026-10-30 00:46 credit used $26.89, billed $0.00
+2026-10-30 00:51 credit used $26.89, billed $0.00
+2026-10-30 00:56 credit used $26.89, billed $0.00
+2026-10-30 01:01 credit used $26.89, billed $0.00
+2026-10-30 01:06 credit used $26.89, billed $0.00
+2026-10-30 01:12 credit used $26.89, billed $0.00
+2026-10-30 01:17 credit used $26.89, billed $0.00
+2026-10-30 01:22 credit used $26.89, billed $0.00
+2026-10-30 01:27 credit used $26.89, billed $0.00
+2026-10-30 01:32 credit used $26.89, billed $0.00
+2026-10-30 01:37 credit used $26.89, billed $0.00
+2026-10-30 01:42 credit used $26.89, billed $0.00
+2026-10-30 01:47 credit used $26.89, billed $0.00
+2026-10-30 01:52 credit used $26.89, billed $0.00
+2026-10-30 01:57 credit used $26.89, billed $0.00
+2026-10-30 02:02 credit used $26.89, billed $0.00
+2026-10-30 02:07 credit used $26.89, billed $0.00
+2026-10-30 02:12 credit used $26.89, billed $0.00
+2026-10-30 02:17 credit used $26.89, billed $0.00
+2026-10-30 02:22 credit used $26.89, billed $0.00
+2026-10-30 02:27 credit used $26.89, billed $0.00
+2026-10-30 02:32 credit used $26.89, billed $0.00
+2026-10-30 02:37 credit used $26.89, billed $0.00
+2026-10-30 02:42 credit used $26.89, billed $0.00
+2026-10-30 02:47 credit used $26.89, billed $0.00
+2026-10-30 02:52 credit used $26.89, billed $0.00
+2026-10-30 02:57 credit used $26.89, billed $0.00
+2026-10-30 03:02 credit used $26.89, billed $0.00
+2026-10-30 03:07 credit used $26.89, billed $0.00
+2026-10-30 03:12 credit used $26.89, billed $0.00
+2026-10-30 03:17 credit used $26.89, billed $0.00
+2026-10-30 03:22 credit used $26.89, billed $0.00
+2026-10-30 03:27 credit used $26.89, billed $0.00
+2026-10-30 03:32 credit used $26.89, billed $0.00
+2026-10-30 03:38 credit used $26.89, billed $0.00
+2026-10-30 03:43 credit used $26.89, billed $0.00
+2026-10-30 03:48 credit used $26.89, billed $0.00
+2026-10-30 03:53 credit used $26.89, billed $0.00
+2026-10-30 03:58 credit used $26.89, billed $0.00
+2026-10-30 04:03 credit used $26.89, billed $0.00
+2026-10-30 04:08 credit used $26.89, billed $0.00
+2026-10-30 04:13 credit used $26.89, billed $0.00
+2026-10-30 04:18 credit used $26.89, billed $0.00
+2026-10-30 04:23 credit used $26.89, billed $0.00
+2026-10-30 04:28 credit used $26.89, billed $0.00
+2026-10-30 04:33 credit used $26.89, billed $0.00
+2026-10-30 04:38 credit used $26.89, billed $0.00
+2026-10-30 04:43 credit used $26.89, billed $0.00
+2026-10-30 04:48 credit used $26.89, billed $0.00
+2026-10-30 04:53 credit used $26.89, billed $0.00
+2026-10-30 04:58 credit used $26.89, billed $0.00
+2026-10-30 05:03 credit used $26.89, billed $0.00
+2026-10-30 05:08 credit used $26.89, billed $0.00
+2026-10-30 05:13 credit used $26.89, billed $0.00
+2026-10-30 05:18 credit used $26.89, billed $0.00
+2026-10-30 05:23 credit used $26.89, billed $0.00
+2026-10-30 05:28 credit used $26.89, billed $0.00
+2026-10-30 05:33 credit used $26.89, billed $0.00
+2026-10-30 05:38 credit used $26.89, billed $0.00
+2026-10-30 05:43 credit used $26.89, billed $0.00
+2026-10-30 05:48 credit used $26.89, billed $0.00
+2026-10-30 05:53 credit used $26.89, billed $0.00
+2026-10-30 05:58 credit used $26.89, billed $0.00
+2026-10-30 06:03 credit used $26.89, billed $0.00
+2026-10-30 06:09 credit used $26.89, billed $0.00
+2026-10-30 06:14 credit used $26.89, billed $0.00
+2026-10-30 06:19 credit used $26.89, billed $0.00
+2026-10-30 06:24 credit used $26.89, billed $0.00
+2026-10-30 06:29 credit used $26.89, billed $0.00
+2026-10-30 06:34 credit used $26.89, billed $0.00
+2026-10-30 06:39 credit used $26.89, billed $0.00
+2026-10-30 06:44 credit used $26.89, billed $0.00
+2026-10-30 06:49 credit used $26.89, billed $0.00
+2026-10-30 06:54 credit used $26.89, billed $0.00
+2026-10-30 06:59 credit used $26.89, billed $0.00
+2026-10-30 07:04 credit used $26.89, billed $0.00
+2026-10-30 07:09 credit used $26.89, billed $0.00
+2026-10-30 07:14 credit used $26.89, billed $0.00
+2026-10-30 07:19 credit used $26.89, billed $0.00
+2026-10-30 07:24 credit used $26.89, billed $0.00
+2026-10-30 07:29 credit used $26.89, billed $0.00
+2026-10-30 07:34 credit used $26.89, billed $0.00
+2026-10-30 07:39 credit used $26.89, billed $0.00
+2026-10-30 07:44 credit used $26.89, billed $0.00
+2026-10-30 07:49 credit used $26.89, billed $0.00
+2026-10-30 07:54 credit used $26.89, billed $0.00
+2026-10-30 07:59 credit used $26.89, billed $0.00
+2026-10-30 08:04 credit used $26.89, billed $0.00
+2026-10-30 08:09 credit used $26.89, billed $0.00
+2026-10-30 08:14 credit used $26.89, billed $0.00
+2026-10-30 08:19 credit used $26.89, billed $0.00
+2026-10-30 08:24 credit used $26.89, billed $0.00
+2026-10-30 08:29 credit used $26.89, billed $0.00
+2026-10-30 08:34 credit used $26.89, billed $0.00
+2026-10-30 08:40 credit used $26.89, billed $0.00
+2026-10-30 08:45 credit used $26.89, billed $0.00
+2026-10-30 08:50 credit used $26.89, billed $0.00
+2026-10-30 08:55 credit used $26.89, billed $0.00
+2026-10-30 09:00 credit used $26.89, billed $0.00
+2026-10-30 09:05 credit used $26.89, billed $0.00
+2026-10-30 09:10 credit used $26.89, billed $0.00
+2026-10-30 09:15 credit used $26.89, billed $0.00
+2026-10-30 09:20 credit used $26.89, billed $0.00
+2026-10-30 09:25 credit used $26.89, billed $0.00
+2026-10-30 09:30 credit used $26.89, billed $0.00
+2026-10-30 09:35 credit used $26.89, billed $0.00
+2026-10-30 09:40 credit used $26.89, billed $0.00
+2026-10-30 09:45 credit used $26.89, billed $0.00
+2026-10-30 09:50 credit used $26.89, billed $0.00
+2026-10-30 09:55 credit used $26.89, billed $0.00
+2026-10-30 10:00 credit used $26.89, billed $0.00
+2026-10-30 10:05 credit used $26.89, billed $0.00
+2026-10-30 10:10 credit used $26.89, billed $0.00
+2026-10-30 10:15 credit used $26.89, billed $0.00
+2026-10-30 10:20 credit used $26.89, billed $0.00
+2026-10-30 10:25 credit used $26.89, billed $0.00
+2026-10-30 10:30 credit used $26.89, billed $0.00
+2026-10-30 10:35 credit used $26.89, billed $0.00
+2026-10-30 10:40 credit used $26.89, billed $0.00
+2026-10-30 10:45 credit used $26.89, billed $0.00
+2026-10-30 10:50 credit used $26.89, billed $0.00
+2026-10-30 10:55 credit used $26.89, billed $0.00
+2026-10-30 11:00 credit used $26.89, billed $0.00
+2026-10-30 11:06 credit used $26.89, billed $0.00
+2026-10-30 11:11 credit used $26.89, billed $0.00
+2026-10-30 11:16 credit used $26.89, billed $0.00
+2026-10-30 11:21 credit used $26.89, billed $0.00
+2026-10-30 11:26 credit used $26.89, billed $0.00
+2026-10-30 11:31 credit used $26.89, billed $0.00
+2026-10-30 11:36 credit used $26.89, billed $0.00
+2026-10-30 11:41 credit used $26.89, billed $0.00
+2026-10-30 11:46 credit used $26.89, billed $0.00
+2026-10-30 11:51 credit used $26.89, billed $0.00
+2026-10-30 11:56 credit used $26.89, billed $0.00
+2026-10-30 12:01 credit used $26.89, billed $0.00
+2026-10-30 12:06 credit used $26.89, billed $0.00
+2026-10-30 12:11 credit used $26.89, billed $0.00
+2026-10-30 12:16 credit used $26.89, billed $0.00
+2026-10-30 12:21 credit used $26.89, billed $0.00
+2026-10-30 12:26 credit used $26.89, billed $0.00
+2026-10-30 12:31 credit used $26.89, billed $0.00
+2026-10-30 12:36 credit used $26.89, billed $0.00
+2026-10-30 12:41 credit used $26.89, billed $0.00
+2026-10-30 12:46 credit used $26.89, billed $0.00
+2026-10-30 12:51 credit used $26.89, billed $0.00
+2026-10-30 12:56 credit used $26.89, billed $0.00
+2026-10-30 13:01 credit used $26.89, billed $0.00
+2026-10-30 13:06 credit used $26.89, billed $0.00
+2026-10-30 13:11 credit used $26.89, billed $0.00
+2026-10-30 13:16 credit used $26.89, billed $0.00
+2026-10-30 13:21 credit used $26.89, billed $0.00
+2026-10-30 13:27 credit used $26.89, billed $0.00
+2026-10-30 13:32 credit used $26.89, billed $0.00
+2026-10-30 13:37 credit used $26.89, billed $0.00
+2026-10-30 13:42 credit used $26.89, billed $0.00
+2026-10-30 13:47 credit used $26.89, billed $0.00
+2026-10-30 13:52 credit used $26.89, billed $0.00
+2026-10-30 13:57 credit used $26.89, billed $0.00
+2026-10-30 14:02 credit used $26.89, billed $0.00
+2026-10-30 14:07 credit used $26.89, billed $0.00
+2026-10-30 14:12 credit used $26.89, billed $0.00
+2026-10-30 14:17 credit used $26.89, billed $0.00
+2026-10-30 14:22 credit used $26.89, billed $0.00
+2026-10-30 14:27 credit used $26.89, billed $0.00
+2026-10-30 14:32 credit used $26.89, billed $0.00
+2026-10-30 14:37 credit used $26.89, billed $0.00
+2026-10-30 14:42 credit used $26.89, billed $0.00
+2026-10-30 14:47 credit used $26.89, billed $0.00
+2026-10-30 14:52 credit used $26.89, billed $0.00
+2026-10-30 14:57 credit used $26.89, billed $0.00
+2026-10-30 15:02 credit used $26.89, billed $0.00
+2026-10-30 15:07 credit used $26.89, billed $0.00
+2026-10-30 15:12 credit used $26.89, billed $0.00
+2026-10-30 15:17 credit used $26.89, billed $0.00
+2026-10-30 15:22 credit used $26.89, billed $0.00
+2026-10-30 15:27 credit used $26.89, billed $0.00
+2026-10-30 15:32 credit used $26.89, billed $0.00
+2026-10-30 15:37 credit used $26.89, billed $0.00
+2026-10-30 15:42 credit used $26.89, billed $0.00
+2026-10-30 15:47 credit used $26.89, billed $0.00
+2026-10-30 15:52 credit used $26.89, billed $0.00
+2026-10-30 15:57 credit used $26.89, billed $0.00
+2026-10-30 16:03 credit used $26.89, billed $0.00
+2026-10-30 16:08 credit used $26.89, billed $0.00
+2026-10-30 16:13 credit used $26.89, billed $0.00
+2026-10-30 16:18 credit used $26.89, billed $0.00
+2026-10-30 16:23 credit used $26.89, billed $0.00
+2026-10-30 16:28 credit used $26.89, billed $0.00
+2026-10-30 16:33 credit used $26.89, billed $0.00
+2026-10-30 16:38 credit used $26.89, billed $0.00
+2026-10-30 16:43 credit used $26.89, billed $0.00
+2026-10-30 16:48 credit used $26.89, billed $0.00
+2026-10-30 16:53 credit used $26.89, billed $0.00
+2026-10-30 16:58 credit used $26.89, billed $0.00
+2026-10-30 17:03 credit used $26.89, billed $0.00
+2026-10-30 17:08 credit used $26.89, billed $0.00
+2026-10-30 17:13 credit used $26.89, billed $0.00
+2026-10-30 17:18 credit used $26.89, billed $0.00
+2026-10-30 17:23 credit used $26.89, billed $0.00
+2026-10-30 17:28 credit used $26.89, billed $0.00
+2026-10-30 17:33 credit used $26.89, billed $0.00
+2026-10-30 17:38 credit used $26.89, billed $0.00
+2026-10-30 17:43 credit used $26.89, billed $0.00
+2026-10-30 17:48 credit used $26.89, billed $0.00
+2026-10-30 17:53 credit used $26.89, billed $0.00
+2026-10-30 17:58 credit used $26.89, billed $0.00
+2026-10-30 18:03 credit used $26.89, billed $0.00
+2026-10-30 18:08 credit used $26.89, billed $0.00
+2026-10-30 18:13 credit used $26.89, billed $0.00
+2026-10-30 18:18 credit used $26.89, billed $0.00
+2026-10-30 18:23 credit used $26.89, billed $0.00
+2026-10-30 18:28 credit used $26.89, billed $0.00
+2026-10-30 18:33 credit used $26.89, billed $0.00
+2026-10-30 18:39 credit used $26.89, billed $0.00
+2026-10-30 18:44 credit used $26.89, billed $0.00
+2026-10-30 18:49 credit used $26.89, billed $0.00
+2026-10-30 18:54 credit used $26.89, billed $0.00
+2026-10-30 18:59 credit used $26.89, billed $0.00
+2026-10-30 19:04 credit used $26.89, billed $0.00
+2026-10-30 19:09 credit used $26.89, billed $0.00
+2026-10-30 19:14 credit used $26.89, billed $0.00
+2026-10-30 19:19 credit used $26.89, billed $0.00
+2026-10-30 19:24 credit used $26.89, billed $0.00
+2026-10-30 19:29 credit used $26.89, billed $0.00
+2026-10-30 19:34 credit used $26.89, billed $0.00
+2026-10-30 19:39 credit used $26.89, billed $0.00
+2026-10-30 19:44 credit used $26.89, billed $0.00
+2026-10-30 19:49 credit used $26.89, billed $0.00
+2026-10-30 19:54 credit used $26.89, billed $0.00
+2026-10-30 19:59 credit used $26.89, billed $0.00
+2026-10-30 20:04 credit used $26.89, billed $0.00
+2026-10-30 20:09 credit used $26.89, billed $0.00
+2026-10-30 20:14 credit used $26.89, billed $0.00
+2026-10-30 20:19 credit used $26.89, billed $0.00
+2026-10-30 20:24 credit used $26.89, billed $0.00
+2026-10-30 20:29 credit used $26.89, billed $0.00
+2026-10-30 20:34 credit used $26.89, billed $0.00
+2026-10-30 20:39 credit used $26.89, billed $0.00
+2026-10-30 20:44 credit used $26.89, billed $0.00
+2026-10-30 20:49 credit used $26.89, billed $0.00
+2026-10-30 20:54 credit used $26.89, billed $0.00
+2026-10-30 20:59 credit used $26.89, billed $0.00
+2026-10-30 21:04 credit used $26.89, billed $0.00
+2026-10-30 21:10 credit used $26.89, billed $0.00
+2026-10-30 21:15 credit used $26.89, billed $0.00
+2026-10-30 21:20 credit used $26.89, billed $0.00
+2026-10-30 21:25 credit used $26.89, billed $0.00
+2026-10-30 21:30 credit used $26.89, billed $0.00
+2026-10-30 21:35 credit used $26.89, billed $0.00
+2026-10-30 21:40 credit used $26.89, billed $0.00
+2026-10-30 21:45 credit used $26.89, billed $0.00
+2026-10-30 21:50 credit used $26.89, billed $0.00
+2026-10-30 21:55 credit used $26.89, billed $0.00
+2026-10-30 22:00 credit used $26.89, billed $0.00
+2026-10-30 22:05 credit used $26.89, billed $0.00
+2026-10-30 22:10 credit used $26.89, billed $0.00
+2026-10-30 22:15 credit used $26.89, billed $0.00
+2026-10-30 22:20 credit used $26.89, billed $0.00
+2026-10-30 22:25 credit used $26.89, billed $0.00
+2026-10-30 22:30 credit used $26.89, billed $0.00
+2026-10-30 22:35 credit used $26.89, billed $0.00
+2026-10-30 22:40 credit used $26.89, billed $0.00
+2026-10-30 22:45 credit used $26.89, billed $0.00
+2026-10-30 22:50 credit used $26.89, billed $0.00
+2026-10-30 22:55 credit used $26.89, billed $0.00
+2026-10-30 23:00 credit used $26.89, billed $0.00
+2026-10-30 23:05 credit used $26.89, billed $0.00
+2026-10-30 23:10 credit used $26.89, billed $0.00
+2026-10-30 23:15 credit used $26.89, billed $0.00
+2026-10-30 23:20 credit used $26.89, billed $0.00
+2026-10-30 23:26 credit used $26.89, billed $0.00
+2026-10-30 23:31 credit used $26.89, billed $0.00
+2026-10-30 23:36 credit used $26.89, billed $0.00
+2026-10-30 23:41 credit used $26.89, billed $0.00
+2026-10-30 23:46 credit used $26.89, billed $0.00
+2026-10-30 23:51 credit used $26.89, billed $0.00
+2026-10-30 23:56 credit used $26.89, billed $0.00
+2026-10-31 00:01 credit used $26.89, billed $0.00
+2026-10-31 00:06 credit used $26.89, billed $0.00
+2026-10-31 00:11 credit used $26.89, billed $0.00
+2026-10-31 00:16 credit used $26.89, billed $0.00
+2026-10-31 00:21 credit used $26.89, billed $0.00
+2026-10-31 00:26 credit used $26.89, billed $0.00
+2026-10-31 00:31 credit used $26.89, billed $0.00
+2026-10-31 00:36 credit used $26.89, billed $0.00
+2026-10-31 00:41 credit used $26.89, billed $0.00
+2026-10-31 00:46 credit used $26.89, billed $0.00
+2026-10-31 00:51 credit used $26.89, billed $0.00
+2026-10-31 00:56 credit used $26.89, billed $0.00
+2026-10-31 01:01 credit used $26.89, billed $0.00
+2026-10-31 01:06 credit used $26.89, billed $0.00
+2026-10-31 01:11 credit used $26.89, billed $0.00
+2026-10-31 01:16 credit used $26.89, billed $0.00
+2026-10-31 01:21 credit used $26.89, billed $0.00
+2026-10-31 01:26 credit used $26.89, billed $0.00
+2026-10-31 01:31 credit used $26.89, billed $0.00
+2026-10-31 01:37 credit used $26.89, billed $0.00
+2026-10-31 01:42 credit used $26.89, billed $0.00
+2026-10-31 01:47 credit used $26.89, billed $0.00
+2026-10-31 01:52 credit used $26.89, billed $0.00
+2026-10-31 01:57 credit used $26.89, billed $0.00
+2026-10-31 02:02 credit used $26.89, billed $0.00
+2026-10-31 02:07 credit used $26.89, billed $0.00
+2026-10-31 02:12 credit used $26.89, billed $0.00
+2026-10-31 02:17 credit used $26.89, billed $0.00
+2026-10-31 02:22 credit used $26.89, billed $0.00
+2026-10-31 02:27 credit used $26.89, billed $0.00
+2026-10-31 02:32 credit used $26.89, billed $0.00
+2026-10-31 02:37 credit used $26.89, billed $0.00
+2026-10-31 02:42 credit used $26.89, billed $0.00
+2026-10-31 02:47 credit used $26.89, billed $0.00
+2026-10-31 02:52 credit used $26.89, billed $0.00
+2026-10-31 02:57 credit used $26.89, billed $0.00
+2026-10-31 03:02 credit used $26.89, billed $0.00
+2026-10-31 03:07 credit used $26.89, billed $0.00
+2026-10-31 03:12 credit used $26.89, billed $0.00
+2026-10-31 03:17 credit used $26.89, billed $0.00
+2026-10-31 03:22 credit used $26.89, billed $0.00
+2026-10-31 03:27 credit used $26.89, billed $0.00
+2026-10-31 03:32 credit used $26.89, billed $0.00
+2026-10-31 03:37 credit used $26.89, billed $0.00
+2026-10-31 03:42 credit used $26.89, billed $0.00
+2026-10-31 03:47 credit used $26.89, billed $0.00
+2026-10-31 03:52 credit used $26.89, billed $0.00
+2026-10-31 03:57 credit used $26.89, billed $0.00
+2026-10-31 04:02 credit used $26.89, billed $0.00
+2026-10-31 04:08 credit used $26.89, billed $0.00
+2026-10-31 04:13 credit used $26.89, billed $0.00
+2026-10-31 04:18 credit used $26.89, billed $0.00
+2026-10-31 04:23 credit used $26.89, billed $0.00
+2026-10-31 04:28 credit used $26.89, billed $0.00
+2026-10-31 04:33 credit used $26.89, billed $0.00
+2026-10-31 04:38 credit used $26.89, billed $0.00
+2026-10-31 04:43 credit used $26.89, billed $0.00
+2026-10-31 04:48 credit used $26.89, billed $0.00
+2026-10-31 04:53 credit used $26.89, billed $0.00
+2026-10-31 04:58 credit used $26.89, billed $0.00
+2026-10-31 05:03 credit used $26.89, billed $0.00
+2026-10-31 05:08 credit used $26.89, billed $0.00
+2026-10-31 05:13 credit used $26.89, billed $0.00
+2026-10-31 05:18 credit used $26.89, billed $0.00
+2026-10-31 05:23 credit used $26.89, billed $0.00
+2026-10-31 05:28 credit used $26.89, billed $0.00
+2026-10-31 05:33 credit used $26.89, billed $0.00
+2026-10-31 05:38 credit used $26.89, billed $0.00
+2026-10-31 05:43 credit used $26.89, billed $0.00
+2026-10-31 05:48 credit used $26.89, billed $0.00
+2026-10-31 05:53 credit used $26.89, billed $0.00
+2026-10-31 05:58 credit used $26.89, billed $0.00
+2026-10-31 06:03 credit used $26.89, billed $0.00
+2026-10-31 06:08 credit used $26.89, billed $0.00
+2026-10-31 06:13 credit used $26.89, billed $0.00
+2026-10-31 06:18 credit used $26.89, billed $0.00
+2026-10-31 06:23 credit used $26.89, billed $0.00
+2026-10-31 06:28 credit used $26.89, billed $0.00
+2026-10-31 06:33 credit used $26.89, billed $0.00
+2026-10-31 06:39 credit used $26.89, billed $0.00
+2026-10-31 06:44 credit used $26.89, billed $0.00
+2026-10-31 06:49 credit used $26.89, billed $0.00
+2026-10-31 06:54 credit used $26.89, billed $0.00
+2026-10-31 06:59 credit used $26.89, billed $0.00
+2026-10-31 07:04 credit used $26.89, billed $0.00
+2026-10-31 07:09 credit used $26.89, billed $0.00
+2026-10-31 07:14 credit used $26.89, billed $0.00
+2026-10-31 07:19 credit used $26.89, billed $0.00
+2026-10-31 07:24 credit used $26.89, billed $0.00
+2026-10-31 07:29 credit used $26.89, billed $0.00
+2026-10-31 07:34 credit used $26.89, billed $0.00
+2026-10-31 07:39 credit used $26.89, billed $0.00
+2026-10-31 07:44 credit used $26.89, billed $0.00
+2026-10-31 07:49 credit used $26.89, billed $0.00
+2026-10-31 07:54 credit used $26.89, billed $0.00
+2026-10-31 07:59 credit used $26.89, billed $0.00
+2026-10-31 08:04 credit used $26.89, billed $0.00
+2026-10-31 08:09 credit used $26.89, billed $0.00
+2026-10-31 08:14 credit used $26.89, billed $0.00
+2026-10-31 08:19 credit used $26.89, billed $0.00
+2026-10-31 08:24 credit used $26.89, billed $0.00
+2026-10-31 08:29 credit used $26.89, billed $0.00
+2026-10-31 08:34 credit used $26.89, billed $0.00
+2026-10-31 08:39 credit used $26.89, billed $0.00
+2026-10-31 08:44 credit used $26.89, billed $0.00
+2026-10-31 08:49 credit used $26.89, billed $0.00
+2026-10-31 08:54 credit used $26.89, billed $0.00
+2026-10-31 08:59 credit used $26.89, billed $0.00
+2026-10-31 09:04 credit used $26.89, billed $0.00
+2026-10-31 09:09 credit used $26.89, billed $0.00
+2026-10-31 09:15 credit used $26.89, billed $0.00
+2026-10-31 09:20 credit used $26.89, billed $0.00
+2026-10-31 09:25 credit used $26.89, billed $0.00
+2026-10-31 09:30 credit used $26.89, billed $0.00
+2026-10-31 09:35 credit used $26.89, billed $0.00
+2026-10-31 09:40 credit used $26.89, billed $0.00
+2026-10-31 09:45 credit used $26.89, billed $0.00
+2026-10-31 09:50 credit used $26.89, billed $0.00
+2026-10-31 09:55 credit used $26.89, billed $0.00
+2026-10-31 10:00 credit used $26.89, billed $0.00
+2026-10-31 10:05 credit used $26.89, billed $0.00
+2026-10-31 12:45 credit used $26.89, billed $0.00
+2026-10-31 12:50 credit used $26.89, billed $0.00
+2026-10-31 12:55 credit used $26.89, billed $0.00
+2026-10-31 13:00 credit used $26.89, billed $0.00
+2026-10-31 13:05 credit used $26.89, billed $0.00
+2026-10-31 13:10 credit used $26.89, billed $0.00
+2026-10-31 13:15 credit used $26.89, billed $0.00
+2026-10-31 13:20 credit used $26.89, billed $0.00
+2026-10-31 13:26 credit used $26.89, billed $0.00
+2026-10-31 13:31 credit used $26.89, billed $0.00
+2026-10-31 13:36 credit used $26.89, billed $0.00
+2026-10-31 13:41 credit used $26.89, billed $0.00
+2026-10-31 13:46 credit used $26.89, billed $0.00
+2026-10-31 13:51 credit used $26.89, billed $0.00
+2026-10-31 13:56 credit used $26.89, billed $0.00
+2026-10-31 14:01 credit used $26.89, billed $0.00
+2026-10-31 14:06 credit used $26.89, billed $0.00
+2026-10-31 14:14 credit used $26.89, billed $0.00
+2026-10-31 14:19 credit used $26.89, billed $0.00
+2026-10-31 14:24 credit used $26.89, billed $0.00
+2026-10-31 14:29 credit used $26.89, billed $0.00
+2026-10-31 14:34 credit used $26.89, billed $0.00
+2026-10-31 14:39 credit used $26.89, billed $0.00
+2026-10-31 14:44 credit used $26.89, billed $0.00
+2026-10-31 14:49 credit used $26.89, billed $0.00
+2026-10-31 14:54 credit used $26.89, billed $0.00
+2026-10-31 14:59 credit used $26.89, billed $0.00
+2026-10-31 15:04 credit used $26.89, billed $0.00
+2026-10-31 15:09 credit used $26.89, billed $0.00
+2026-10-31 15:14 credit used $26.89, billed $0.00
+2026-10-31 15:20 credit used $26.89, billed $0.00
+2026-10-31 15:25 credit used $26.89, billed $0.00
+2026-10-31 15:30 credit used $26.89, billed $0.00
+2026-10-31 15:35 credit used $26.89, billed $0.00
+2026-10-31 15:40 credit used $26.89, billed $0.00
+2026-10-31 15:45 credit used $26.89, billed $0.00
+2026-10-31 15:50 credit used $26.89, billed $0.00
+2026-10-31 15:55 credit used $26.89, billed $0.00
+2026-10-31 16:00 credit used $26.89, billed $0.00
+2026-10-31 16:05 credit used $26.89, billed $0.00
+2026-10-31 16:10 credit used $26.89, billed $0.00
+2026-10-31 16:15 credit used $26.89, billed $0.00
+2026-10-31 16:21 credit used $26.89, billed $0.00
+2026-10-31 16:26 credit used $26.89, billed $0.00
+2026-10-31 16:31 credit used $26.89, billed $0.00
+2026-10-31 16:36 credit used $26.89, billed $0.00
+2026-10-31 16:41 credit used $26.89, billed $0.00
+2026-10-31 16:46 credit used $26.89, billed $0.00
+2026-10-31 16:51 credit used $26.89, billed $0.00
+2026-10-31 16:56 credit used $26.89, billed $0.00
+2026-10-31 21:18 credit used $26.89, billed $0.00
+2026-10-31 21:23 credit used $26.89, billed $0.00
+2026-10-31 21:28 credit used $26.89, billed $0.00
+2026-10-31 21:33 credit used $26.89, billed $0.00
+2026-10-31 21:38 credit used $26.89, billed $0.00
+2026-10-31 21:43 credit used $26.89, billed $0.00
+2026-10-31 21:48 credit used $26.89, billed $0.00
+2026-10-31 21:53 credit used $26.89, billed $0.00
+2026-10-31 21:58 credit used $26.89, billed $0.00
+2026-10-31 22:03 credit used $26.89, billed $0.00
+2026-10-31 22:08 credit used $26.89, billed $0.00
+2026-10-31 22:13 credit used $26.89, billed $0.00
+2026-10-31 22:18 credit used $26.89, billed $0.00
+2026-10-31 22:23 credit used $26.89, billed $0.00
+2026-10-31 22:28 credit used $26.89, billed $0.00
+2026-10-31 22:33 credit used $26.89, billed $0.00
+2026-10-31 22:38 credit used $26.89, billed $0.00
+2026-10-31 22:43 credit used $26.89, billed $0.00
+2026-10-31 22:48 credit used $26.89, billed $0.00
+2026-10-31 22:53 credit used $26.89, billed $0.00
+2026-10-31 22:58 credit used $26.89, billed $0.00
+2026-10-31 23:03 credit used $26.89, billed $0.00
+2026-10-31 23:08 credit used $26.89, billed $0.00
+2026-10-31 23:13 credit used $26.89, billed $0.00
+2026-10-31 23:19 credit used $26.89, billed $0.00
+2026-10-31 23:24 credit used $26.89, billed $0.00
+2026-10-31 23:29 credit used $26.89, billed $0.00
+2026-10-31 23:34 credit used $26.89, billed $0.00
+2026-10-31 23:39 credit used $26.89, billed $0.00
+2026-10-31 23:44 credit used $26.89, billed $0.00
+2026-10-31 23:49 credit used $26.89, billed $0.00
+2026-10-31 23:54 credit used $26.89, billed $0.00
+2026-10-31 23:59 credit used $26.89, billed $0.00
+2026-11-01 00:04 credit used $26.89, billed $0.00
+2026-11-01 00:09 credit used $26.89, billed $0.00
+2026-11-01 00:14 credit used $26.89, billed $0.00
+2026-11-01 00:19 credit used $26.89, billed $0.00
+2026-11-01 00:24 credit used $26.89, billed $0.00
+2026-11-01 00:29 credit used $26.89, billed $0.00
+2026-11-01 00:34 credit used $26.89, billed $0.00
+2026-11-01 00:39 credit used $26.89, billed $0.00
+2026-11-01 00:44 credit used $26.89, billed $0.00
+2026-11-01 00:49 credit used $26.89, billed $0.00
+2026-11-01 00:54 credit used $26.89, billed $0.00
+2026-11-01 00:59 credit used $26.89, billed $0.00
+2026-11-01 01:04 credit used $26.89, billed $0.00
+2026-11-01 01:09 credit used $26.89, billed $0.00
+2026-11-01 01:14 credit used $26.89, billed $0.00
+2026-11-01 01:19 credit used $26.89, billed $0.00
+2026-11-01 01:24 credit used $26.89, billed $0.00
+2026-11-01 01:29 credit used $26.89, billed $0.00
+2026-11-01 01:34 credit used $26.89, billed $0.00
+2026-11-01 01:39 credit used $26.89, billed $0.00
+2026-11-01 01:44 credit used $26.89, billed $0.00
+2026-11-01 01:49 credit used $26.89, billed $0.00
+2026-11-01 01:55 credit used $26.89, billed $0.00
+2026-11-01 02:00 credit used $26.89, billed $0.00
+2026-11-01 02:05 credit used $26.89, billed $0.00
+2026-11-01 02:10 credit used $26.89, billed $0.00
+2026-11-01 02:15 credit used $26.89, billed $0.00
+2026-11-01 02:20 credit used $26.89, billed $0.00
+2026-11-01 02:25 credit used $26.89, billed $0.00
+2026-11-01 02:30 credit used $26.89, billed $0.00
+2026-11-01 02:35 credit used $26.89, billed $0.00
+2026-11-01 02:40 credit used $26.89, billed $0.00
+2026-11-01 02:45 credit used $26.89, billed $0.00
+2026-11-01 02:50 credit used $26.89, billed $0.00
+2026-11-01 02:55 credit used $26.89, billed $0.00
+2026-11-01 03:00 credit used $26.89, billed $0.00
+2026-11-01 03:05 credit used $26.89, billed $0.00
+2026-11-01 03:10 credit used $26.89, billed $0.00
+2026-11-01 03:15 credit used $26.89, billed $0.00
+2026-11-01 03:20 credit used $26.89, billed $0.00
+2026-11-01 03:25 credit used $26.89, billed $0.00
+2026-11-01 03:30 credit used $26.89, billed $0.00
+2026-11-01 03:35 credit used $26.89, billed $0.00
+2026-11-01 03:40 credit used $26.89, billed $0.00
+2026-11-01 03:45 credit used $26.89, billed $0.00
+2026-11-01 03:50 credit used $26.89, billed $0.00
+2026-11-01 03:55 credit used $26.89, billed $0.00
+2026-11-01 04:00 credit used $26.89, billed $0.00
+2026-11-01 04:05 credit used $26.89, billed $0.00
+2026-11-01 04:10 credit used $26.89, billed $0.00
+2026-11-01 04:15 credit used $26.89, billed $0.00
+2026-11-01 04:20 credit used $26.89, billed $0.00
+2026-11-01 04:26 credit used $26.89, billed $0.00
+2026-11-01 04:31 credit used $26.89, billed $0.00
+2026-11-01 04:36 credit used $26.89, billed $0.00
+2026-11-01 04:41 credit used $26.89, billed $0.00
+2026-11-01 04:46 credit used $26.89, billed $0.00
+2026-11-01 04:51 credit used $26.89, billed $0.00
+2026-11-01 04:56 credit used $26.89, billed $0.00
+2026-11-01 05:01 credit used $26.89, billed $0.00
+2026-11-01 05:06 credit used $26.89, billed $0.00
+2026-11-01 05:11 credit used $26.89, billed $0.00
+2026-11-01 05:16 credit used $26.89, billed $0.00
+2026-11-01 05:21 credit used $26.89, billed $0.00
+2026-11-01 05:26 credit used $26.89, billed $0.00
+2026-11-01 05:31 credit used $26.89, billed $0.00
+2026-11-01 05:36 credit used $26.89, billed $0.00
+2026-11-01 05:41 credit used $26.89, billed $0.00
+2026-11-01 05:46 credit used $26.89, billed $0.00
+2026-11-01 05:51 credit used $26.89, billed $0.00
+2026-11-01 05:56 credit used $26.89, billed $0.00
+2026-11-02 00:41 guard pid 48543 stopped manually: its text parser found no 'Credits:' line in a month with no use (silent since 2026-11-01 06:00); replaced by the JSON version
+2026-11-02 00:41 guard v2 started: threshold $29.50 (month to date), every 300s, pid 11424
+2026-11-02 00:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 00:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 00:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 00:56 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:01 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:31 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:36 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 01:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 02:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 03:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 04:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:33 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:38 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 05:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:33 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:38 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 06:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:34 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:39 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:44 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:49 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:54 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 07:59 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:04 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:09 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:14 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:19 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:24 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:29 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:34 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:39 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:44 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:49 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:54 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 08:59 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:04 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:09 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:14 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:19 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:24 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:29 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:34 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:39 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:44 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:49 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:54 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 09:59 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:04 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:09 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:14 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:20 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:25 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:30 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:35 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:40 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:45 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:50 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 10:55 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:00 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:05 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:10 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:15 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:20 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:25 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:30 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:35 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:40 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:45 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:50 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 11:55 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:00 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:05 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:10 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:15 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:20 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:25 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:30 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:35 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:40 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:45 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:50 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 12:55 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:00 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:31 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:36 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 13:56 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:01 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:31 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:36 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 14:56 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:01 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:31 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:36 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 15:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 16:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 17:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 18:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:33 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:38 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 19:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:33 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:38 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 20:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:34 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:39 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:44 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:49 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:54 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 21:59 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:04 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:09 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:14 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:19 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:24 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:29 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:34 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:39 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:44 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:49 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:54 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 22:59 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:04 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:09 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:14 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:19 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:24 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:29 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:34 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:39 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:44 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:50 credit used $0.00, billed $0.00, metered $0.00
+2026-11-02 23:55 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:00 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:05 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:10 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:15 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:20 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:25 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:30 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:35 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:40 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 00:56 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:01 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:31 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:36 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 01:56 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:01 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:31 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:36 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:41 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:46 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:51 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 02:56 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:01 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:06 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:11 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:16 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:21 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:26 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 03:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 04:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:17 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:22 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:27 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:32 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:37 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:42 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:47 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:52 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 05:57 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:02 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:07 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:12 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:23 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:28 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:33 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:38 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:43 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:48 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:53 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 06:58 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 07:03 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 07:08 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 07:13 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 07:18 credit used $0.00, billed $0.00, metered $0.00
+2026-11-03 07:23 credit used $0.04, billed $0.00, metered $0.04
+2026-11-03 07:28 credit used $0.12, billed $0.00, metered $0.12
+2026-11-03 07:33 credit used $0.24, billed $0.00, metered $0.24
+2026-11-03 07:38 credit used $0.29, billed $0.00, metered $0.29
+2026-11-03 07:43 credit used $0.36, billed $0.00, metered $0.36
+2026-11-03 07:48 credit used $0.50, billed $0.00, metered $0.50
+2026-11-03 07:53 credit used $0.57, billed $0.00, metered $0.57
+2026-11-03 07:58 credit used $0.62, billed $0.00, metered $0.62
+2026-11-03 08:03 credit used $0.71, billed $0.00, metered $0.71
+2026-11-03 08:08 credit used $0.75, billed $0.00, metered $0.75
+2026-11-03 08:13 credit used $0.89, billed $0.00, metered $0.89
+2026-11-03 08:18 credit used $0.95, billed $0.00, metered $0.95
+2026-11-03 08:23 credit used $0.99, billed $0.00, metered $0.99
+2026-11-03 08:28 credit used $1.13, billed $0.00, metered $1.13
+2026-11-03 08:33 credit used $1.17, billed $0.00, metered $1.17
+2026-11-03 08:38 credit used $1.23, billed $0.00, metered $1.23
+2026-11-03 08:43 credit used $1.28, billed $0.00, metered $1.28
+2026-11-03 08:48 credit used $1.42, billed $0.00, metered $1.42
+2026-11-03 08:53 credit used $1.48, billed $0.00, metered $1.48
+2026-11-03 08:58 credit used $1.60, billed $0.00, metered $1.60
+2026-11-03 09:04 credit used $1.62, billed $0.00, metered $1.62
+2026-11-03 09:09 credit used $1.69, billed $0.00, metered $1.69
+2026-11-03 09:14 credit used $1.80, billed $0.00, metered $1.80
+2026-11-03 09:19 credit used $1.93, billed $0.00, metered $1.93
+2026-11-03 09:24 credit used $1.98, billed $0.00, metered $1.98
+2026-11-03 09:29 credit used $2.04, billed $0.00, metered $2.04
+2026-11-03 09:34 credit used $2.11, billed $0.00, metered $2.11
+2026-11-03 09:39 credit used $2.19, billed $0.00, metered $2.19
+2026-11-03 09:44 credit used $2.26, billed $0.00, metered $2.26
+2026-11-03 09:49 credit used $2.30, billed $0.00, metered $2.30
+2026-11-03 09:54 credit used $2.42, billed $0.00, metered $2.42
+2026-11-03 09:59 credit used $2.48, billed $0.00, metered $2.48
+2026-11-03 10:04 credit used $2.54, billed $0.00, metered $2.54
+2026-11-03 10:09 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 10:14 credit used $2.71, billed $0.00, metered $2.71
+2026-11-03 10:19 credit used $2.73, billed $0.00, metered $2.73
+2026-11-03 10:24 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:29 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:34 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:39 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:44 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:49 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:54 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 10:59 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:04 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:09 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:14 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:19 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:24 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:29 credit used $2.69, billed $0.00, metered $2.69
+2026-11-03 11:34 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 11:39 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 11:45 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 11:50 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 11:55 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:00 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:05 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:10 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:15 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:20 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:25 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:30 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:35 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:40 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:45 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:50 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 12:55 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:00 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:05 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:10 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:15 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:20 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:25 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:30 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:35 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:40 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:45 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:50 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 13:55 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:00 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:05 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:10 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:15 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:21 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:26 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:31 credit used $2.67, billed $0.00, metered $2.67
+2026-11-03 14:36 credit used $2.75, billed $0.00, metered $2.75
+2026-11-03 14:41 credit used $2.83, billed $0.00, metered $2.83
+2026-11-03 14:46 credit used $2.89, billed $0.00, metered $2.89
+2026-11-03 14:51 credit used $3.00, billed $0.00, metered $3.00
+2026-11-03 14:56 credit used $3.10, billed $0.00, metered $3.10
+2026-11-03 15:01 credit used $3.11, billed $0.00, metered $3.11
+2026-11-03 15:06 credit used $3.23, billed $0.00, metered $3.23
+2026-11-03 15:11 credit used $3.36, billed $0.00, metered $3.36
+2026-11-03 15:16 credit used $3.42, billed $0.00, metered $3.42
+2026-11-03 15:21 credit used $3.47, billed $0.00, metered $3.47
+2026-11-03 15:26 credit used $3.61, billed $0.00, metered $3.61
+2026-11-03 15:31 credit used $3.65, billed $0.00, metered $3.65
+2026-11-03 15:36 credit used $3.72, billed $0.00, metered $3.72
+2026-11-03 15:41 credit used $3.81, billed $0.00, metered $3.81
+2026-11-03 15:46 credit used $3.86, billed $0.00, metered $3.86
+2026-11-03 15:51 credit used $3.92, billed $0.00, metered $3.92
+2026-11-03 15:56 credit used $4.05, billed $0.00, metered $4.05
+2026-11-03 16:01 credit used $4.12, billed $0.00, metered $4.12
+2026-11-03 16:06 credit used $4.21, billed $0.00, metered $4.21
+2026-11-03 16:11 credit used $4.24, billed $0.00, metered $4.24
+2026-11-03 16:16 credit used $4.37, billed $0.00, metered $4.37
+2026-11-03 16:21 credit used $4.44, billed $0.00, metered $4.44
+2026-11-03 16:26 credit used $4.51, billed $0.00, metered $4.51
+2026-11-03 16:31 credit used $4.59, billed $0.00, metered $4.59
+2026-11-03 16:36 credit used $4.68, billed $0.00, metered $4.68
+2026-11-03 16:41 credit used $4.70, billed $0.00, metered $4.70
+2026-11-03 16:46 credit used $4.78, billed $0.00, metered $4.78
+2026-11-03 16:51 credit used $4.88, billed $0.00, metered $4.90
+2026-11-03 16:56 credit used $5.34, billed $0.00, metered $5.38
+2026-11-03 17:02 credit used $6.40, billed $0.00, metered $6.44
+2026-11-03 17:07 credit used $6.78, billed $0.00, metered $6.82
+2026-11-03 17:12 credit used $7.27, billed $0.00, metered $7.31
+2026-11-03 17:17 credit used $8.38, billed $0.00, metered $8.42
+2026-11-03 17:22 credit used $10.50, billed $0.00, metered $10.54
+2026-11-03 17:27 credit used $11.82, billed $0.00, metered $11.86
+2026-11-03 17:32 credit used $12.86, billed $0.00, metered $12.90
+2026-11-03 17:37 credit used $14.02, billed $0.00, metered $14.06
+2026-11-03 17:42 credit used $13.61, billed $0.00, metered $13.65
+2026-11-03 17:47 credit used $14.01, billed $0.00, metered $14.05
+2026-11-03 17:52 credit used $14.43, billed $0.00, metered $14.47
+2026-11-03 17:57 credit used $14.94, billed $0.00, metered $14.98
+2026-11-03 18:02 credit used $15.23, billed $0.00, metered $15.27
+2026-11-03 18:07 credit used $15.50, billed $0.00, metered $15.54
+2026-11-03 18:12 credit used $16.27, billed $0.00, metered $16.31
+2026-11-03 18:17 credit used $16.47, billed $0.00, metered $16.51
+2026-11-03 18:22 credit used $16.91, billed $0.00, metered $16.95
+2026-11-03 18:27 credit used $18.01, billed $0.00, metered $18.06
+2026-11-03 18:32 credit used $18.97, billed $0.00, metered $19.02
+2026-11-03 18:37 credit used $20.56, billed $0.00, metered $20.61
+2026-11-03 18:42 credit used $22.26, billed $0.00, metered $22.31
+2026-11-03 18:47 credit used $23.38, billed $0.00, metered $23.43
+2026-11-03 18:52 credit used $25.16, billed $0.00, metered $25.21
+2026-11-03 18:57 credit used $25.56, billed $0.00, metered $25.61
+2026-11-03 19:02 credit used $26.35, billed $0.00, metered $26.40
+2026-11-03 19:07 credit used $27.72, billed $0.00, metered $27.77
+2026-11-03 19:12 credit used $28.45, billed $0.00, metered $28.50
+2026-11-03 19:17 credit used $30.00, billed $0.00, metered $30.05
+2026-11-03 19:18 stopped app ap-YVGID0Gqu77xYwRmUz81hy
+2026-11-03 19:18 stopped app ap-syh7qxgoetUHKYQeaJxXM1
+2026-11-03 19:18 stopped app ap-T7R8Pxh4JSmJnSO0avyw8r
+2026-11-03 19:18 stopped app ap-h4KllxNhAYJG2q9jNyedWH
+2026-11-03 19:18 TRIPPED: runs killed, sandboxes removed, all Modal apps stopped

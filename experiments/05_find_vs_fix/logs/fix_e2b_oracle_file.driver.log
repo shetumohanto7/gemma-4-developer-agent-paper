@@ -1,0 +1,8 @@
+11:40 env 839f33fe5aa0: 38 tasks
+12:44 env f65916c04124: 28 tasks
+13:32 env aca2396cfd35: 7 tasks
+13:42 env 8bd334ce1383: 5 tasks
+13:53 env a287459e1cdb: 4 tasks
+14:05 env ba51d9e2e6b4: 4 tasks
+fix_e2b_oracle_file: finished, outputs ['experiments/05_find_vs_fix/fix_e2b_oracle_file/env_groups.txt', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/839f33fe5aa0/summary.json', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/839f33fe5aa0/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/839f33fe5aa0.log', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/f65916c04124/summary.json', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/f65916c04124/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/f65916c04124.log', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/aca2396cfd35/summary.json', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/aca2396cfd35/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/aca2396cfd35.log', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/8bd334ce1383/summary.json', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/8bd334ce1383/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/8bd334ce1383.log', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/a287459e1cdb/summary.json', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/a287459e1cdb/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/a287459e1cdb.log', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/ba51d9e2e6b4/summary.json', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/ba51d9e2e6b4/task_results.jsonl', 'experiments/05_find_vs_fix/fix_e2b_oracle_file/ba51d9e2e6b4.log']
+fix_e2b_oracle_file finished 14:13

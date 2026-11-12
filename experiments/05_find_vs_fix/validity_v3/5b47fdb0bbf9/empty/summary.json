@@ -1,0 +1,13 @@
+{
+  "total_tasks": 3,
+  "resolved": 3,
+  "resolution_rate": 1.0,
+  "by_repo": {
+    "psf/requests": {
+      "total": 3,
+      "resolved": 3,
+      "rate": 1.0
+    }
+  },
+  "errors": 0
+}

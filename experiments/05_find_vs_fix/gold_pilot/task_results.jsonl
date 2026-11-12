@@ -1,0 +1,3 @@
+{"instance_id": "requests_7205", "repo": "psf/requests", "resolved": false, "agent_patch_size": 411, "test_exit_code": 1, "duration_seconds": 19.19, "error": null, "tool_calls": 0, "total_llm_calls": 0, "task_index": 1}
+{"instance_id": "fastapi_11194", "repo": "fastapi/fastapi", "resolved": false, "agent_patch_size": 912, "test_exit_code": 2, "duration_seconds": 50.78, "error": null, "tool_calls": 0, "total_llm_calls": 0, "task_index": 2}
+{"instance_id": "rich_3454", "repo": "Textualize/rich", "resolved": true, "agent_patch_size": 569, "test_exit_code": 0, "duration_seconds": 39.66, "error": null, "tool_calls": 0, "total_llm_calls": 0, "task_index": 3}

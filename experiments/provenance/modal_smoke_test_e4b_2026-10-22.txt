@@ -1,0 +1,11 @@
+23:36:26
+ready after 244s (status 200): ['gemma-4-e4b-it-qat-w4a16-ct']
+request without API key -> HTTP 401 (expect 401)
+tool-call request: HTTP 200 in 3.7s
+  tool_calls: [{"id": "chatcmpl-tool-81caa29dd52038ec", "type": "function", "function": {"name": "read_file", "arguments": "{\"filepath\": \"src/app.py\", \"start_line\": 1}"}}]
+  content:  | usage: {'prompt_tokens': 84, 'total_tokens': 109, 'completion_tokens': 25, 'prompt_tokens_details': None}
+thinking request: HTTP 200 in 9.8s
+  reasoning chars: 1867 | tool_calls: False | usage: {'prompt_tokens': 86, 'total_tokens': 598, 'completion_tokens': 512, 'prompt_tokens_details': None}
+23:40:45
+
+[exited with code 0]

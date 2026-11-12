@@ -1,0 +1,102 @@
+{
+ "model": "12b",
+ "variant": "nothoughts",
+ "conditions": {
+  "base": {
+   "original": {
+    "n": 86,
+    "resolved": 15,
+    "context_overflow": 0.6627906976744186,
+    "time_cap": 0.08139534883720931,
+    "empty_patch": 0.5232558139534884,
+    "mean_tool_calls": 18.023255813953487,
+    "median_minutes": 3.7182500000000003,
+    "reach": [
+     20,
+     73
+    ],
+    "fix_given_reach": [
+     13,
+     20
+    ]
+   },
+   "nothoughts": {
+    "n": 86,
+    "resolved": 15,
+    "context_overflow": 0.47674418604651164,
+    "time_cap": 0.18604651162790697,
+    "empty_patch": 0.4883720930232558,
+    "mean_tool_calls": 19.674418604651162,
+    "median_minutes": 6.741916666666667,
+    "reach": [
+     22,
+     73
+    ],
+    "fix_given_reach": [
+     12,
+     22
+    ]
+   },
+   "test": {
+    "hypothesis": "H9a",
+    "diff": 0.0,
+    "ci": [
+     -0.09302325581395349,
+     0.08139534883720931
+    ],
+    "variant_only": 7,
+    "original_only": 7,
+    "p_exact_mcnemar": 1.0,
+    "n": 86
+   }
+  },
+  "oracle_func": {
+   "original": {
+    "n": 86,
+    "resolved": 23,
+    "context_overflow": 0.5348837209302325,
+    "time_cap": 0.10465116279069768,
+    "empty_patch": 0.4418604651162791,
+    "mean_tool_calls": 16.093023255813954,
+    "median_minutes": 5.042416666666667,
+    "reach": [
+     39,
+     73
+    ],
+    "fix_given_reach": [
+     22,
+     39
+    ]
+   },
+   "nothoughts": {
+    "n": 86,
+    "resolved": 26,
+    "context_overflow": 0.36046511627906974,
+    "time_cap": 0.26744186046511625,
+    "empty_patch": 0.45348837209302323,
+    "mean_tool_calls": 16.38372093023256,
+    "median_minutes": 8.143583333333334,
+    "reach": [
+     36,
+     73
+    ],
+    "fix_given_reach": [
+     24,
+     36
+    ]
+   },
+   "test": {
+    "hypothesis": "H9b",
+    "diff": 0.03488372093023256,
+    "ci": [
+     -0.046511627906976744,
+     0.11627906976744186
+    ],
+    "variant_only": 8,
+    "original_only": 5,
+    "p_exact_mcnemar": 0.5810546875,
+    "n": 86
+   }
+  }
+ }
+}

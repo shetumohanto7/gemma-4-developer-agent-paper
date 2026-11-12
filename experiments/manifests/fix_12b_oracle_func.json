@@ -1,0 +1,243 @@
+{
+ "name": "fix_12b_oracle_func",
+ "status": "finished",
+ "started": "2026-10-23T07:17:00+06:00",
+ "command": "scripts/run_fix_experiment.sh 12b oracle_func 2",
+ "params": {},
+ "note": "model=gemma-4-12b-it-qat-w4a16-ct cond=oracle_func serve=12b-a100 endpoint=https://shetu--g4paper-vllm-serve-12b-a100.us-east.modal.run/v1 prompt_sha256=f1cbf7943ee96873 tasks=86 envs=6 concurrency=2 budget=--max-time-minutes 10 --max-tool-calls 30 --max-turns 60 --timeout-seconds 120",
+ "code": {
+  "combined": "a93e84d9d4ecbae1a3c4bc608c3ae80b2826c53bf57c4ccc3be8565e6081b818",
+  "files": {
+   "spanloc/__init__.py": "008e145b116db4b2e777e292f03cde3aa490f9540c8dca285ee594ce6e691c59",
+   "spanloc/__main__.py": "13a1a5b340cdcfc1902b62be90e508c7c71886000d5bf087e7854aadf09fb35e",
+   "spanloc/cli.py": "a841da6b486452602474f9f0393f034d93239eb1667c8b28a0a0bc7df4c326b9",
+   "spanloc/core.py": "6a4967b468fa9869e786b22d64837cfdc1c4baa04d0479f26b4e61ef4e9e4074",
+   "locbench/__init__.py": "3b49d80d96caf504e67c26a0d9267bb0a448167a665058ec87f09f64b7b3032e",
+   "locbench/budget.py": "a34148cf5dfb5c31bb4537081b9ace03e27fde64dcd404d13ad12b8161f2e958",
+   "locbench/competition.py": "e2593a6c4a727af71eeaa6728ace89e61e84e35f2d6d05d463ea298c4c045fda",
+   "locbench/fix_report.py": "3e13c397d5a9bdafd8276d798edd6dfe99e35f07bc607323698c2db29244a503",
+   "locbench/gitsource.py": "dac87ba916032610157b2ce1a4c7a1e4e0cb4b75569a756a502c07c2650a1ff3",
+   "locbench/gold.py": "008f625dc270544f3f15e772f5c512f00f58cd9d7b282978183f54305e799cf5",
+   "locbench/make_task_variants.py": "55aa9f3afe88c29d8baaac4d4c4cf169372101b96804531f238725014701d3eb",
+   "locbench/methods.py": "7513f96e03b665eb139bd400f2cfc4cfbc98e45cdb5190feaafe8c359c7dbb0a",
+   "locbench/metrics.py": "a6647e31866077b7a36fec8efca4c4cca5d70285cb710ad64e2dfd596567994b",
+   "locbench/provenance.py": "3d6dcb69d96c0b0e10dce1a311514a4cb4310933a95325b6f04b51f2dc8adaf4",
+   "locbench/report.py": "c602edaac791062fe9c8d45ec427815d53a16531951a504b28b97024f9bfdb1a",
+   "locbench/run_competition.py": "abae4bb2caa3c9cc2aaaf0d1596d39797814d7b6875a4fa457be807bb09f9d7f",
+   "locbench/run_swebench.py": "954a7c2923745229e22693964c11caf7577af8d5b80620a9c6961f5e8651f1c7",
+   "locbench/tune.py": "2c271cf2818e3dd8f6df60059db6540194d7d8c4c5cb7327eee0a3a1f35b72b7",
+   "locbench/tune2.py": "2d511f724583ee812fea0a6a8b3b9b1e16f3760aaf1f2cfd9c82e5cdbb51fe23",
+   "locbench/tune_report.py": "072d209f634d0416d4dc6b9951cc08918fb97770fe9835f5e920251f6f0a9d7c",
+   "agentloc/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "agentloc/agent.py": "00051f07da2da920ed27c39ac0a98d4affabbbbc448e1e76d1e569739c325a42",
+   "agentloc/report.py": "8e3ad87de360879522048870c78810fa46fec711f7c6d68e728f74f3ca12682c",
+   "agentloc/run.py": "876bddd7497eac05c249d7d8fbdf1c51bcffe13c67a7f6ff45f8c7c54be5ecae",
+   "agentloc/sandbox.py": "372e87959c506e989d41001370c9ffd81982b9a03d0879daa656a4e5ee725ddd",
+   "modal_app/smoke_test.py": "535ccc9db8b4b5b79daafb8622c34e488767f4bfe1bd081e0f940dc76564b827",
+   "modal_app/vllm_server.py": "772ee70eba1ac07f20d59e29ce8fe1a6cf4791e2af643c92a00226ff30791ff1",
+   "modal_app/weights.py": "ea463cde704b9879653ec22f9f7d198eb3d0a98ddbec22098f4eaf57cedde556",
+   "submission/agent/skills/spanloc/SKILL.md": "64150cf0c644504f87e4b32ecafbc32709d29d5ccaaf02f5879812d2ca6ad041",
+   "submission/agent/skills/spanloc/scripts/locate.py": "be3d72784e3532aa996e1156e7033c2d0dd30f471bd49e2fb499d569d8502fcd",
+   "submission/agent/skills/spanloc/scripts/outline.py": "b27199298418cf1c26388f7603f9625aceff1e5e1257f3904a975de2b94c792d",
+   "submission/agent/skills/spanloc/scripts/spanloc_cli.py": "a841da6b486452602474f9f0393f034d93239eb1667c8b28a0a0bc7df4c326b9",
+   "submission/agent/skills/spanloc/scripts/spanloc_core.py": "6a4967b468fa9869e786b22d64837cfdc1c4baa04d0479f26b4e61ef4e9e4074",
+   "paper/make_figures.py": "f0e24feb2a4fe0946cffee16190d97812c07fcfbcec13d91f38252b2643c0951",
+   "paper/make_repro_tables.py": "e82097b3b94708f3b008d459f59378209fdeed7409bc665bc0d0ed034dbe3e5c",
+   "paper/writeup.md": "8895073ada132c180dfe2588cf6532c6e1dadff18e5a8236079cc64868b02d1e",
+   "paper/writeup_v0_superseded.md": "a436e345fa92572f93e32b2398bc11ad7755b98cc8fb74b9e3178fb62ad1922f",
+   "paper/tables/compute.md": "dc065d90f5dc15ef7275b4101a688f153f93544c2f623ae01ad7e2c10c1b8839",
+   "paper/tables/runs.md": "ada78659a3bf19b2de21e079461c6b86c5fc446fddb78368c8fd717b21d99158",
+   "notebooks/build_notebook.py": "3201ff40a821b11d52eb612176503b624c0a0c3f025a7b361c9ecf1a9d66e762"
+  }
+ },
+ "environment": {
+  "python": "3.13.12",
+  "executable": "<repo>/.venv/bin/python",
+  "platform": "macOS-26.6-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "cpu_count": 12,
+  "packages_sha256": "277561a382f4eeeb0b1a38cc449f3472bcb5394af4104df66de0fcc6e2be99fa",
+  "packages": [
+   "aiohappyeyeballs==2.7.1",
+   "aiohttp==3.14.5",
+   "aiosignal==1.4.0",
+   "anyio==4.15.1",
+   "attrs==26.1.0",
+   "bleach==6.4.0",
+   "cbor2==6.1.5",
+   "certifi==2026.10.19",
+   "charset-normalizer==3.5.2",
+   "click==8.5.0",
+   "contourpy==1.4.0",
+   "cycler==0.12.1",
+   "fastjsonschema==2.22.2",
+   "filelock==4.2.4",
+   "fonttools==4.67.0",
+   "frozenlist==1.8.0",
+   "fsspec==2026.9.0",
+   "grpclib==0.4.9",
+   "h11==0.16.0",
+   "h2==4.4.1",
+   "hf-xet==1.7.0",
+   "hpack==4.2.0",
+   "httpcore2==2.16.0",
+   "httpx2==2.16.0",
+   "huggingface-hub==2.2.0",
+   "hyperframe==6.1.0",
+   "idna==3.20",
+   "iniconfig==2.3.1",
+   "jsonschema==4.26.0",
+   "jsonschema-specifications==2025.9.1",
+   "jupyter-core==5.9.1",
+   "jupytext==1.19.6",
+   "kaggle==2.2.4",
+   "kagglesdk==0.1.38",
+   "kiwisolver==1.5.1",
+   "markdown-it-py==4.2.0",
+   "matplotlib==3.11.2",
+   "mdit-py-plugins==0.6.1",
+   "mdurl==0.1.2",
+   "modal==1.6.2",
+   "multidict==7.1.0",
+   "nbformat==5.11.1",
+   "networkx==3.7",
+   "numpy==2.5.4",
+   "packaging==26.3",
+   "pandas==3.0.6",
+   "pillow==13.0.0",
+   "platformdirs==4.13.5",
+   "pluggy==1.7.0",
+   "propcache==0.5.4",
+   "protobuf==7.36.2",
+   "pyarrow==26.0.0",
+   "pyflakes==4.0.3",
+   "pygments==2.21.0",
+   "pyparsing==3.3.3",
+   "pytest==9.1.1",
+   "python-dateutil==3.0.0",
+   "python-dotenv==1.2.4",
+   "python-slugify==9.1.3",
+   "pyyaml==6.0.3",
+   "referencing==0.37.0",
+   "requests==2.34.2",
+   "rich==15.0.0",
+   "rpds-py==2026.9.1",
+   "scipy==1.18.1",
+   "six==1.17.0",
+   "-e file://<repo>",
+   "synchronicity==0.12.6",
+   "text-unidecode==1.3",
+   "toml==0.10.2",
+   "tqdm==4.70.1",
+   "traitlets==5.16.1",
+   "truststore==0.10.5",
+   "types-certifi==2021.10.8.3",
+   "types-toml==0.10.8.20260518",
+   "typing-extensions==4.16.0",
+   "tzdata==2026.5",
+   "urllib3==2.8.0",
+   "watchfiles==1.3.0",
+   "webencodings==0.6.1",
+   "yarl==1.25.1"
+  ],
+  "docker_sandbox_image": "sha256:50c0876a7bddf3d301b25af2d987c793ff1eb9e83e6ae9d9623a5b6097d66ff5"
+ },
+ "outputs": {
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/env_groups.txt": {
+   "sha256": "843209f9abd918b50c61baec317a3dde64287a0343e12f47e5ee0b523e8a21f3",
+   "bytes": 1125,
+   "lines": 6
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/839f33fe5aa0/summary.json": {
+   "sha256": "9379baa14966d1c79649647c97803c69d209c9dc8daad4cf1319c8f6249abcc2",
+   "bytes": 211,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/839f33fe5aa0/task_results.jsonl": {
+   "sha256": "035c64fb4475160eae5ca9e37f3a648b42ea4cf1a50a8811c156aa9cc2543854",
+   "bytes": 17490,
+   "lines": 38
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/839f33fe5aa0.log": {
+   "sha256": "97bfa78b670814c68ae74bd022ccf0922358652bbdc9249c4c645b611602ed40",
+   "bytes": 284991,
+   "lines": 2825
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/f65916c04124/summary.json": {
+   "sha256": "d6aa81e752f4a37444fced6412391bd5f263432ca10750329c1710d47bf5acda",
+   "bytes": 212,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/f65916c04124/task_results.jsonl": {
+   "sha256": "7a1e0c21653fe6074d27ce9f0530e92c8f1bdf009ae812555e9274107735b560",
+   "bytes": 12456,
+   "lines": 28
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/f65916c04124.log": {
+   "sha256": "89684003df1ae8c472ea0b47a2a136366ced9b1677bbf081ad6651a5d120db04",
+   "bytes": 204969,
+   "lines": 2030
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/aca2396cfd35/summary.json": {
+   "sha256": "db93fd10a53a45a10d2a8215f044edf9b451af808109e40281375fe4f8d00380",
+   "bytes": 188,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/aca2396cfd35/task_results.jsonl": {
+   "sha256": "85061d8a89e7bdf3d2be7eca36fce10b88d6e41a17e1ebe70f07faf1c00301e7",
+   "bytes": 3943,
+   "lines": 7
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/aca2396cfd35.log": {
+   "sha256": "9417cb25d02bc340a6fc55f2937e0f7d180050116ad0e766c7c77efd1b87481e",
+   "bytes": 57217,
+   "lines": 566
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/8bd334ce1383/summary.json": {
+   "sha256": "e7a5cf12b2e9c73dbb06575da5128fe23d4f46ac8c4cd47eb5d5a5090f043d7b",
+   "bytes": 188,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/8bd334ce1383/task_results.jsonl": {
+   "sha256": "fff79527da5b6b6daf9c3b719a8aba3ff9fda1f05e6345b05ec7872657f1c025",
+   "bytes": 2133,
+   "lines": 5
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/8bd334ce1383.log": {
+   "sha256": "9e0fc99fc437ec6bca1c239c443caf18bcf04bd36a8c50693136aced540bc5d0",
+   "bytes": 34356,
+   "lines": 341
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/a287459e1cdb/summary.json": {
+   "sha256": "9c32fad4843b357a963b290f583209771acd44bc66175ba424af18eab26bc8b6",
+   "bytes": 190,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/a287459e1cdb/task_results.jsonl": {
+   "sha256": "d8856ab90fb3d03ebafe696d2bdc58e84796319c479dbf2db267e1e4ea61fdff",
+   "bytes": 2297,
+   "lines": 4
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/a287459e1cdb.log": {
+   "sha256": "71a71670a325c8bffc9ddfe706a8ae9cdc8299604d507cead75da702587ec5d7",
+   "bytes": 45513,
+   "lines": 450
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/ba51d9e2e6b4/summary.json": {
+   "sha256": "66fe320a4031668b33dfa78b0d29df87c30eb6b2d8124fd95408d5c0354618af",
+   "bytes": 188,
+   "lines": 13
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/ba51d9e2e6b4/task_results.jsonl": {
+   "sha256": "11a9b1320bdb26e71db72e1120a4d234030d23824e68211c7bb39df4e8be4f59",
+   "bytes": 2763,
+   "lines": 4
+  },
+  "experiments/05_find_vs_fix/fix_12b_oracle_func/ba51d9e2e6b4.log": {
+   "sha256": "fb61df47f8870b0253884fbabe88d57432deb5f714b0a0262ad93aece23b66fb",
+   "bytes": 45712,
+   "lines": 452
+  }
+ },
+ "finished": "2026-10-23T11:24:21+06:00"
+}

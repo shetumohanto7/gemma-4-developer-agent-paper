@@ -1,0 +1,614 @@
+{
+ "rule": [
+  "The official harness unpacks one wheel set for every task and keeps, per distribution, the highest\ncompatible version present (swegemma 0.2.11 `_deduplicate_wheels`). Reference-patch checks showed two\nconsequences for local verification:",
+  "1. A wheel added for one repository changes another's tests: inline-snapshot's pytest plugin imports\n   rich at startup, so rich's tests ran against the installed rich 15.0.0 instead of /workspace.\n   Added wheels are therefore scoped to the repository whose own logs showed the missing module.\n2. 57 of 67 fastapi checkouts declare a starlette range that excludes the newest wheel (1.6.0). For each\n   package a checkout declares in [project].dependencies, wheels outside the declared range are left out,\n   so the harness's own rule picks the newest version the checkout allows (what pip would install)."
+ ],
+ "base_wheels": 124,
+ "repo_additions": {
+  "fastapi/fastapi": [
+   "typing_inspection-0.4.4-py3-none-any.whl",
+   "dirty_equals-0.11-py3-none-any.whl",
+   "inline_snapshot-0.36.1-py3-none-any.whl",
+   "asttokens-3.0.2-py3-none-any.whl",
+   "executing-2.3.0-py3-none-any.whl"
+  ],
+  "Textualize/rich": [
+   "attrs-26.1.0-py3-none-any.whl"
+  ]
+ },
+ "envs": {
+  "839f33fe5aa0": {
+   "n_wheels": 125,
+   "repos": [
+    "Textualize/rich"
+   ],
+   "additions": [
+    "attrs-26.1.0-py3-none-any.whl"
+   ],
+   "pins": {},
+   "declared": {},
+   "tasks": [
+    "rich_4070",
+    "rich_4077",
+    "rich_4079",
+    "rich_4076",
+    "rich_4075",
+    "rich_4006",
+    "rich_3718",
+    "rich_3934",
+    "rich_3953",
+    "rich_3944",
+    "rich_3942",
+    "rich_3938",
+    "rich_3882",
+    "rich_3894",
+    "rich_3935",
+    "rich_3905",
+    "rich_3930",
+    "rich_3180",
+    "rich_3486",
+    "rich_3777",
+    "rich_3468",
+    "rich_3782",
+    "rich_3772",
+    "rich_3296",
+    "rich_3675",
+    "rich_3676",
+    "rich_3518",
+    "rich_3535",
+    "rich_3521",
+    "rich_3506",
+    "rich_3480",
+    "rich_3472",
+    "rich_3454",
+    "rich_3471",
+    "rich_3470",
+    "rich_3469",
+    "rich_3052",
+    "rich_3278",
+    "rich_2943",
+    "rich_2725",
+    "rich_3105",
+    "rich_3130",
+    "rich_3043",
+    "rich_3067",
+    "rich_3006",
+    "rich_3064",
+    "rich_3063",
+    "rich_3061"
+   ]
+  },
+  "f65916c04124": {
+   "n_wheels": 98,
+   "repos": [
+    "fastapi/fastapi"
+   ],
+   "additions": [
+    "typing_inspection-0.4.4-py3-none-any.whl",
+    "dirty_equals-0.11-py3-none-any.whl",
+    "inline_snapshot-0.36.1-py3-none-any.whl",
+    "asttokens-3.0.2-py3-none-any.whl",
+    "executing-2.3.0-py3-none-any.whl"
+   ],
+   "pins": {
+    "starlette": {
+     "newest": "1.6.0",
+     "chosen": "0.50.0",
+     "left_out": 31
+    }
+   },
+   "declared": {
+    "fastapi_14851": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_13920": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14794": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14786": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14492": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14479": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14463": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14609": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14372": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14512": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14487": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_11355": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14485": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14482": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14306": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14458": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14459": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14448": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14455": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_9753": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14430": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_5077": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_9555": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14361": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_13207": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14360": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14356": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_5624": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14419": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14791": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14371": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14605": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14583": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14297": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14303": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_13537": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_13786": {
+     "starlette": "<0.51.0,>=0.40.0"
+    },
+    "fastapi_14616": {
+     "starlette": "<0.51.0,>=0.40.0"
+    }
+   },
+   "tasks": [
+    "fastapi_14851",
+    "fastapi_13920",
+    "fastapi_14794",
+    "fastapi_14786",
+    "fastapi_14492",
+    "fastapi_14479",
+    "fastapi_14463",
+    "fastapi_14609",
+    "fastapi_14372",
+    "fastapi_14512",
+    "fastapi_14487",
+    "fastapi_11355",
+    "fastapi_14485",
+    "fastapi_14482",
+    "fastapi_14306",
+    "fastapi_14458",
+    "fastapi_14459",
+    "fastapi_14448",
+    "fastapi_14455",
+    "fastapi_9753",
+    "fastapi_14430",
+    "fastapi_5077",
+    "fastapi_9555",
+    "fastapi_14361",
+    "fastapi_13207",
+    "fastapi_14360",
+    "fastapi_14356",
+    "fastapi_5624",
+    "fastapi_14419",
+    "fastapi_14791",
+    "fastapi_14371",
+    "fastapi_14605",
+    "fastapi_14583",
+    "fastapi_14297",
+    "fastapi_14303",
+    "fastapi_13537",
+    "fastapi_13786",
+    "fastapi_14616"
+   ]
+  },
+  "5b47fdb0bbf9": {
+   "n_wheels": 124,
+   "repos": [
+    "encode/httpx",
+    "psf/requests"
+   ],
+   "additions": [],
+   "pins": {},
+   "declared": {},
+   "tasks": [
+    "requests_7505",
+    "requests_7502",
+    "requests_7433",
+    "requests_7427",
+    "requests_7315",
+    "requests_7328",
+    "requests_7309",
+    "requests_7205",
+    "httpx_3672",
+    "requests_6757",
+    "requests_6629",
+    "requests_6644",
+    "requests_6589",
+    "requests_6592"
+   ]
+  },
+  "aca2396cfd35": {
+   "n_wheels": 129,
+   "repos": [
+    "fastapi/fastapi"
+   ],
+   "additions": [
+    "typing_inspection-0.4.4-py3-none-any.whl",
+    "dirty_equals-0.11-py3-none-any.whl",
+    "inline_snapshot-0.36.1-py3-none-any.whl",
+    "asttokens-3.0.2-py3-none-any.whl",
+    "executing-2.3.0-py3-none-any.whl"
+   ],
+   "pins": {},
+   "declared": {},
+   "tasks": [
+    "fastapi_15661",
+    "fastapi_15588",
+    "fastapi_15589",
+    "fastapi_15030",
+    "fastapi_15280",
+    "fastapi_15023",
+    "fastapi_15800",
+    "fastapi_15785",
+    "fastapi_15763",
+    "fastapi_15745"
+   ]
+  },
+  "ba51d9e2e6b4": {
+   "n_wheels": 101,
+   "repos": [
+    "fastapi/fastapi"
+   ],
+   "additions": [
+    "typing_inspection-0.4.4-py3-none-any.whl",
+    "dirty_equals-0.11-py3-none-any.whl",
+    "inline_snapshot-0.36.1-py3-none-any.whl",
+    "asttokens-3.0.2-py3-none-any.whl",
+    "executing-2.3.0-py3-none-any.whl"
+   ],
+   "pins": {
+    "starlette": {
+     "newest": "1.6.0",
+     "chosen": "0.52.1",
+     "left_out": 28
+    }
+   },
+   "declared": {
+    "fastapi_14962": {
+     "starlette": "<1.0.0,>=0.40.0"
+    },
+    "fastapi_14964": {
+     "starlette": "<1.0.0,>=0.40.0"
+    },
+    "fastapi_14986": {
+     "starlette": "<1.0.0,>=0.40.0"
+    },
+    "fastapi_14978": {
+     "starlette": "<1.0.0,>=0.40.0"
+    },
+    "fastapi_14258": {
+     "starlette": "<1.0.0,>=0.40.0"
+    },
+    "fastapi_14873": {
+     "starlette": "<1.0.0,>=0.40.0"
+    },
+    "fastapi_14953": {
+     "starlette": "<1.0.0,>=0.40.0"
+    }
+   },
+   "tasks": [
+    "fastapi_14962",
+    "fastapi_14964",
+    "fastapi_14986",
+    "fastapi_14978",
+    "fastapi_14258",
+    "fastapi_14873",
+    "fastapi_14953"
+   ]
+  },
+  "a287459e1cdb": {
+   "n_wheels": 93,
+   "repos": [
+    "fastapi/fastapi"
+   ],
+   "additions": [
+    "typing_inspection-0.4.4-py3-none-any.whl",
+    "dirty_equals-0.11-py3-none-any.whl",
+    "inline_snapshot-0.36.1-py3-none-any.whl",
+    "asttokens-3.0.2-py3-none-any.whl",
+    "executing-2.3.0-py3-none-any.whl"
+   ],
+   "pins": {
+    "starlette": {
+     "newest": "1.6.0",
+     "chosen": "0.48.0",
+     "left_out": 36
+    }
+   },
+   "declared": {
+    "fastapi_12942": {
+     "starlette": "<0.49.0,>=0.40.0"
+    },
+    "fastapi_14099": {
+     "starlette": "<0.49.0,>=0.40.0"
+    },
+    "fastapi_14186": {
+     "starlette": "<0.49.0,>=0.40.0"
+    },
+    "fastapi_9425": {
+     "starlette": "<0.49.0,>=0.40.0"
+    },
+    "fastapi_13713": {
+     "starlette": "<0.49.0,>=0.40.0"
+    },
+    "fastapi_11194": {
+     "starlette": "<0.49.0,>=0.40.0"
+    }
+   },
+   "tasks": [
+    "fastapi_12942",
+    "fastapi_14099",
+    "fastapi_14186",
+    "fastapi_9425",
+    "fastapi_13713",
+    "fastapi_11194"
+   ]
+  },
+  "8bd334ce1383": {
+   "n_wheels": 97,
+   "repos": [
+    "fastapi/fastapi"
+   ],
+   "additions": [
+    "typing_inspection-0.4.4-py3-none-any.whl",
+    "dirty_equals-0.11-py3-none-any.whl",
+    "inline_snapshot-0.36.1-py3-none-any.whl",
+    "asttokens-3.0.2-py3-none-any.whl",
+    "executing-2.3.0-py3-none-any.whl"
+   ],
+   "pins": {
+    "starlette": {
+     "newest": "1.6.0",
+     "chosen": "0.49.3",
+     "left_out": 32
+    }
+   },
+   "declared": {
+    "fastapi_14349": {
+     "starlette": "<0.50.0,>=0.40.0"
+    },
+    "fastapi_14301": {
+     "starlette": "<0.50.0,>=0.40.0"
+    },
+    "fastapi_14262": {
+     "starlette": "<0.50.0,>=0.40.0"
+    },
+    "fastapi_14266": {
+     "starlette": "<0.50.0,>=0.40.0"
+    },
+    "fastapi_14246": {
+     "starlette": "<0.50.0,>=0.40.0"
+    }
+   },
+   "tasks": [
+    "fastapi_14349",
+    "fastapi_14301",
+    "fastapi_14262",
+    "fastapi_14266",
+    "fastapi_14246"
+   ]
+  },
+  "ae3b3ea06692": {
+   "n_wheels": 92,
+   "repos": [
+    "fastapi/fastapi"
+   ],
+   "additions": [
+    "typing_inspection-0.4.4-py3-none-any.whl",
+    "dirty_equals-0.11-py3-none-any.whl",
+    "inline_snapshot-0.36.1-py3-none-any.whl",
+    "asttokens-3.0.2-py3-none-any.whl",
+    "executing-2.3.0-py3-none-any.whl"
+   ],
+   "pins": {
+    "starlette": {
+     "newest": "1.6.0",
+     "chosen": "0.47.3",
+     "left_out": 37
+    }
+   },
+   "declared": {
+    "fastapi_14077": {
+     "starlette": "<0.48.0,>=0.40.0"
+    }
+   },
+   "tasks": [
+    "fastapi_14077"
+   ]
+  }
+ },
+ "task_env": {
+  "fastapi_15661": "aca2396cfd35",
+  "fastapi_15588": "aca2396cfd35",
+  "fastapi_15589": "aca2396cfd35",
+  "fastapi_15030": "aca2396cfd35",
+  "fastapi_14962": "ba51d9e2e6b4",
+  "fastapi_15280": "aca2396cfd35",
+  "fastapi_14964": "ba51d9e2e6b4",
+  "fastapi_15023": "aca2396cfd35",
+  "fastapi_14986": "ba51d9e2e6b4",
+  "fastapi_14978": "ba51d9e2e6b4",
+  "requests_7505": "5b47fdb0bbf9",
+  "requests_7502": "5b47fdb0bbf9",
+  "requests_7433": "5b47fdb0bbf9",
+  "requests_7427": "5b47fdb0bbf9",
+  "requests_7315": "5b47fdb0bbf9",
+  "requests_7328": "5b47fdb0bbf9",
+  "requests_7309": "5b47fdb0bbf9",
+  "requests_7205": "5b47fdb0bbf9",
+  "rich_4070": "839f33fe5aa0",
+  "rich_4077": "839f33fe5aa0",
+  "rich_4079": "839f33fe5aa0",
+  "rich_4076": "839f33fe5aa0",
+  "rich_4075": "839f33fe5aa0",
+  "rich_4006": "839f33fe5aa0",
+  "fastapi_14258": "ba51d9e2e6b4",
+  "fastapi_14851": "f65916c04124",
+  "fastapi_14873": "ba51d9e2e6b4",
+  "fastapi_13920": "f65916c04124",
+  "fastapi_14794": "f65916c04124",
+  "fastapi_14786": "f65916c04124",
+  "fastapi_14492": "f65916c04124",
+  "fastapi_14479": "f65916c04124",
+  "fastapi_14463": "f65916c04124",
+  "fastapi_12942": "a287459e1cdb",
+  "fastapi_14099": "a287459e1cdb",
+  "fastapi_14609": "f65916c04124",
+  "fastapi_14372": "f65916c04124",
+  "fastapi_14349": "8bd334ce1383",
+  "fastapi_14512": "f65916c04124",
+  "fastapi_14487": "f65916c04124",
+  "fastapi_11355": "f65916c04124",
+  "fastapi_14485": "f65916c04124",
+  "fastapi_14482": "f65916c04124",
+  "fastapi_14306": "f65916c04124",
+  "fastapi_14458": "f65916c04124",
+  "fastapi_14459": "f65916c04124",
+  "fastapi_14448": "f65916c04124",
+  "fastapi_14455": "f65916c04124",
+  "fastapi_9753": "f65916c04124",
+  "fastapi_14430": "f65916c04124",
+  "fastapi_5077": "f65916c04124",
+  "fastapi_9555": "f65916c04124",
+  "fastapi_14361": "f65916c04124",
+  "fastapi_13207": "f65916c04124",
+  "fastapi_14360": "f65916c04124",
+  "fastapi_14356": "f65916c04124",
+  "fastapi_5624": "f65916c04124",
+  "fastapi_14419": "f65916c04124",
+  "fastapi_14301": "8bd334ce1383",
+  "fastapi_14262": "8bd334ce1383",
+  "fastapi_14266": "8bd334ce1383",
+  "fastapi_14246": "8bd334ce1383",
+  "fastapi_14186": "a287459e1cdb",
+  "fastapi_9425": "a287459e1cdb",
+  "fastapi_13713": "a287459e1cdb",
+  "fastapi_14077": "ae3b3ea06692",
+  "rich_3718": "839f33fe5aa0",
+  "rich_3934": "839f33fe5aa0",
+  "rich_3953": "839f33fe5aa0",
+  "rich_3944": "839f33fe5aa0",
+  "rich_3942": "839f33fe5aa0",
+  "rich_3938": "839f33fe5aa0",
+  "rich_3882": "839f33fe5aa0",
+  "rich_3894": "839f33fe5aa0",
+  "rich_3935": "839f33fe5aa0",
+  "rich_3905": "839f33fe5aa0",
+  "rich_3930": "839f33fe5aa0",
+  "httpx_3672": "5b47fdb0bbf9",
+  "fastapi_14791": "f65916c04124",
+  "fastapi_15800": "aca2396cfd35",
+  "fastapi_15785": "aca2396cfd35",
+  "fastapi_14371": "f65916c04124",
+  "fastapi_14605": "f65916c04124",
+  "fastapi_15763": "aca2396cfd35",
+  "fastapi_14583": "f65916c04124",
+  "fastapi_15745": "aca2396cfd35",
+  "fastapi_14297": "f65916c04124",
+  "fastapi_14303": "f65916c04124",
+  "fastapi_13537": "f65916c04124",
+  "fastapi_14953": "ba51d9e2e6b4",
+  "fastapi_13786": "f65916c04124",
+  "fastapi_14616": "f65916c04124",
+  "fastapi_11194": "a287459e1cdb",
+  "requests_6757": "5b47fdb0bbf9",
+  "requests_6629": "5b47fdb0bbf9",
+  "requests_6644": "5b47fdb0bbf9",
+  "requests_6589": "5b47fdb0bbf9",
+  "requests_6592": "5b47fdb0bbf9",
+  "rich_3180": "839f33fe5aa0",
+  "rich_3486": "839f33fe5aa0",
+  "rich_3777": "839f33fe5aa0",
+  "rich_3468": "839f33fe5aa0",
+  "rich_3782": "839f33fe5aa0",
+  "rich_3772": "839f33fe5aa0",
+  "rich_3296": "839f33fe5aa0",
+  "rich_3675": "839f33fe5aa0",
+  "rich_3676": "839f33fe5aa0",
+  "rich_3518": "839f33fe5aa0",
+  "rich_3535": "839f33fe5aa0",
+  "rich_3521": "839f33fe5aa0",
+  "rich_3506": "839f33fe5aa0",
+  "rich_3480": "839f33fe5aa0",
+  "rich_3472": "839f33fe5aa0",
+  "rich_3454": "839f33fe5aa0",
+  "rich_3471": "839f33fe5aa0",
+  "rich_3470": "839f33fe5aa0",
+  "rich_3469": "839f33fe5aa0",
+  "rich_3052": "839f33fe5aa0",
+  "rich_3278": "839f33fe5aa0",
+  "rich_2943": "839f33fe5aa0",
+  "rich_2725": "839f33fe5aa0",
+  "rich_3105": "839f33fe5aa0",
+  "rich_3130": "839f33fe5aa0",
+  "rich_3043": "839f33fe5aa0",
+  "rich_3067": "839f33fe5aa0",
+  "rich_3006": "839f33fe5aa0",
+  "rich_3064": "839f33fe5aa0",
+  "rich_3063": "839f33fe5aa0",
+  "rich_3061": "839f33fe5aa0"
+ }
+}

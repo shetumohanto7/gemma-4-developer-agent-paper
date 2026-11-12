@@ -1,0 +1,216 @@
+{
+ "model": "e4b",
+ "suffix": "_pilot",
+ "conditions": {
+  "base": {
+   "n": 4,
+   "resolved": 0,
+   "empty_patch": 4,
+   "touches_gold_file": 0,
+   "touches_gold_function": 0,
+   "context_overflow": 2,
+   "mean_tool_calls": 13.75,
+   "median_minutes": 5.004499999999999
+  },
+  "spanloc": {
+   "n": 4,
+   "resolved": 1,
+   "empty_patch": 0,
+   "touches_gold_file": 3,
+   "touches_gold_function": 3,
+   "context_overflow": 0,
+   "mean_tool_calls": 7.5,
+   "median_minutes": 4.1775
+  },
+  "oracle_file": {
+   "n": 4,
+   "resolved": 0,
+   "empty_patch": 1,
+   "touches_gold_file": 3,
+   "touches_gold_function": 1,
+   "context_overflow": 1,
+   "mean_tool_calls": 11.75,
+   "median_minutes": 3.1646666666666667
+  },
+  "oracle_func": {
+   "n": 4,
+   "resolved": 1,
+   "empty_patch": 0,
+   "touches_gold_file": 4,
+   "touches_gold_function": 3,
+   "context_overflow": 0,
+   "mean_tool_calls": 6.5,
+   "median_minutes": 2.1896666666666667
+  }
+ },
+ "tests": {
+  "H8a": {
+   "a": "oracle_func",
+   "b": "base",
+   "diff": 0.25,
+   "ci": [
+    0.0,
+    0.75
+   ],
+   "ci_clustered": [
+    0.0,
+    0.5
+   ],
+   "a_only": 1,
+   "b_only": 0,
+   "p_exact_mcnemar": 1.0
+  },
+  "H8b": {
+   "a": "oracle_file",
+   "b": "base",
+   "diff": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "ci_clustered": [
+    0.0,
+    0.0
+   ],
+   "a_only": 0,
+   "b_only": 0,
+   "p_exact_mcnemar": 1.0
+  },
+  "H8c": {
+   "a": "spanloc",
+   "b": "base",
+   "diff": 0.25,
+   "ci": [
+    0.0,
+    0.75
+   ],
+   "ci_clustered": [
+    0.0,
+    0.5
+   ],
+   "a_only": 1,
+   "b_only": 0,
+   "p_exact_mcnemar": 1.0
+  },
+  "H8d": {
+   "a": "oracle_func",
+   "b": "spanloc",
+   "diff": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "ci_clustered": [
+    0.0,
+    0.0
+   ],
+   "a_only": 0,
+   "b_only": 0,
+   "p_exact_mcnemar": 1.0
+  }
+ },
+ "exploratory": {
+  "decomposition": {
+   "base": {
+    "function": {
+     "edits_gold": 0,
+     "resolved_if_edits": 0,
+     "not_edits": 3,
+     "resolved_if_not": 0
+    },
+    "file": {
+     "edits_gold": 0,
+     "resolved_if_edits": 0,
+     "not_edits": 4,
+     "resolved_if_not": 0
+    }
+   },
+   "spanloc": {
+    "function": {
+     "edits_gold": 3,
+     "resolved_if_edits": 1,
+     "not_edits": 0,
+     "resolved_if_not": 0
+    },
+    "file": {
+     "edits_gold": 3,
+     "resolved_if_edits": 1,
+     "not_edits": 1,
+     "resolved_if_not": 0
+    }
+   },
+   "oracle_file": {
+    "function": {
+     "edits_gold": 1,
+     "resolved_if_edits": 0,
+     "not_edits": 2,
+     "resolved_if_not": 0
+    },
+    "file": {
+     "edits_gold": 3,
+     "resolved_if_edits": 0,
+     "not_edits": 1,
+     "resolved_if_not": 0
+    }
+   },
+   "oracle_func": {
+    "function": {
+     "edits_gold": 3,
+     "resolved_if_edits": 1,
+     "not_edits": 0,
+     "resolved_if_not": 0
+    },
+    "file": {
+     "edits_gold": 4,
+     "resolved_if_edits": 1,
+     "not_edits": 0,
+     "resolved_if_not": 0
+    }
+   }
+  },
+  "by_repo": {
+   "base": {
+    "Textualize/rich": [
+     0,
+     2
+    ],
+    "fastapi/fastapi": [
+     0,
+     2
+    ]
+   },
+   "spanloc": {
+    "Textualize/rich": [
+     0,
+     2
+    ],
+    "fastapi/fastapi": [
+     1,
+     2
+    ]
+   },
+   "oracle_file": {
+    "Textualize/rich": [
+     0,
+     2
+    ],
+    "fastapi/fastapi": [
+     0,
+     2
+    ]
+   },
+   "oracle_func": {
+    "Textualize/rich": [
+     0,
+     2
+    ],
+    "fastapi/fastapi": [
+     1,
+     2
+    ]
+   }
+  }
+ },
+ "n_tasks": 4,
+ "infra_excluded": {}
+}
